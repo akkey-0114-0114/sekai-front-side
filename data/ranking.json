@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T19:56:14.509Z",
+  "updatedAt": "2026-10-18T20:06:16.403Z",
   "seasonId": 20,
   "players": [
     {
@@ -104,10 +104,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 425,
+      "points": 426,
       "winCount": 300,
       "loseCount": 86,
-      "drawCount": 153,
+      "drawCount": 154,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -484,7 +484,7 @@
     },
     {
       "characterImage": "/images/184185197172760576",
-      "name": "ぴぴ♡",
+      "name": "ぴぴすきやさん",
       "userId": "184185197172760576",
       "twitterId": "210_wa_",
       "tier": "マスター クラス5",
