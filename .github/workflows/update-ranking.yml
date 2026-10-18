@@ -1,0 +1,78 @@
+name: Update ranking snapshot
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ranking-snapshot
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch ranking and character images
+        run: |
+          python3 - << 'PY'
+          import json
+          import urllib.request
+          from pathlib import Path
+
+          src = "http://tokyo.sorahost.net:60875"
+          with urllib.request.urlopen(src + "/ranking", timeout=60) as res:
+              data = json.loads(res.read().decode("utf-8"))
+          if not isinstance(data.get("players"), list):
+              raise SystemExit("ranking payload has no players")
+
+          Path("data").mkdir(exist_ok=True)
+          Path("data/ranking.json").write_text(
+              json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+
+          img_dir = Path("images")
+          img_dir.mkdir(exist_ok=True)
+          keep = set()
+          for player in data["players"]:
+              uid = str(player.get("userId") or "")
+              path = player.get("characterImage") or ""
+              if not uid.isdigit() or not path:
+                  continue
+              keep.add(f"{uid}.png")
+              if path.startswith("http://") or path.startswith("https://"):
+                  url = path
+              else:
+                  url = src + path
+              dest = img_dir / f"{uid}.png"
+              try:
+                  with urllib.request.urlopen(url, timeout=30) as res:
+                      body = res.read()
+                      ctype = res.headers.get("Content-Type", "")
+                  if "image/" not in ctype or len(body) < 32:
+                      continue
+                  dest.write_bytes(body)
+              except Exception:
+                  continue
+          for old in img_dir.glob("*.png"):
+              if old.name not in keep:
+                  old.unlink()
+          PY
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ranking.json images
+          if git diff --cached --quiet; then
+            echo "No ranking changes."
+            exit 0
+          fi
+          git commit -m "Update ranking snapshot"
+          git push
