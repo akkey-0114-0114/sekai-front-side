@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T16:15:21.346Z",
+  "updatedAt": "2026-10-18T16:45:27.693Z",
   "seasonId": 20,
   "players": [
     {
@@ -40,26 +40,26 @@
     },
     {
       "characterImage": "/images/132831494322683918",
-      "name": "シルヴィ",
+      "name": "ラグ楽しいな！！！！",
       "userId": "132831494322683918",
       "twitterId": "sngporu",
       "tier": "マスター クラス5",
-      "points": 655,
-      "winCount": 470,
-      "loseCount": 122,
-      "drawCount": 227,
+      "points": 660,
+      "winCount": 473,
+      "loseCount": 123,
+      "drawCount": 230,
       "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/243323553462300684",
-      "name": "スガラパスア",
+      "name": "りんさんず",
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 602,
-      "winCount": 671,
-      "loseCount": 459,
-      "drawCount": 295,
+      "points": 610,
+      "winCount": 678,
+      "loseCount": 460,
+      "drawCount": 297,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -69,9 +69,9 @@
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
       "points": 582,
-      "winCount": 497,
-      "loseCount": 191,
-      "drawCount": 217,
+      "winCount": 499,
+      "loseCount": 194,
+      "drawCount": 218,
       "maxConsecutiveWinCount": 11
     },
     {
