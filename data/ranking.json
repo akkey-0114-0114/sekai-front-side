@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:36:46.776Z",
+  "updatedAt": "2026-10-18T22:56:50.807Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,8 +20,8 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 875,
-      "winCount": 709,
+      "points": 879,
+      "winCount": 712,
       "loseCount": 259,
       "drawCount": 319,
       "maxConsecutiveWinCount": 15
@@ -171,18 +171,6 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/5144945912909827",
-      "name": "ルンパッパ",
-      "userId": "5144945912909827",
-      "twitterId": "hagekingu0917",
-      "tier": "マスター クラス5",
-      "points": 246,
-      "winCount": 248,
-      "loseCount": 145,
-      "drawCount": 112,
-      "maxConsecutiveWinCount": 9
-    },
-    {
       "characterImage": "/images/625197524291788810",
       "name": "えむα",
       "userId": "625197524291788810",
@@ -192,6 +180,18 @@
       "winCount": 259,
       "loseCount": 204,
       "drawCount": 151,
+      "maxConsecutiveWinCount": 9
+    },
+    {
+      "characterImage": "/images/5144945912909827",
+      "name": "ルンパッパ",
+      "userId": "5144945912909827",
+      "twitterId": "hagekingu0917",
+      "tier": "マスター クラス5",
+      "points": 245,
+      "winCount": 248,
+      "loseCount": 146,
+      "drawCount": 112,
       "maxConsecutiveWinCount": 9
     },
     {
