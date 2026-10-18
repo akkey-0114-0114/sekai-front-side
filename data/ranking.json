@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T12:33:57.162Z",
+  "updatedAt": "2026-10-18T13:04:03.926Z",
   "seasonId": 20,
   "players": [
     {
@@ -28,14 +28,14 @@
     },
     {
       "characterImage": "/images/182063036832174093",
-      "name": "多分21時半配信？",
+      "name": "ゆー@YT配信中",
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 663,
-      "winCount": 571,
-      "loseCount": 261,
-      "drawCount": 267,
+      "points": 664,
+      "winCount": 573,
+      "loseCount": 263,
+      "drawCount": 268,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -68,15 +68,15 @@
       "userId": "802685989315678217",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 561,
-      "winCount": 353,
+      "points": 570,
+      "winCount": 358,
       "loseCount": 0,
-      "drawCount": 121,
+      "drawCount": 124,
       "maxConsecutiveWinCount": 13
     },
     {
       "characterImage": "/images/175168648301985796",
-      "name": "れいらちゃん♡",
+      "name": "ホワイトアスパラガス",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
@@ -117,8 +117,8 @@
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
       "points": 379,
-      "winCount": 310,
-      "loseCount": 75,
+      "winCount": 311,
+      "loseCount": 77,
       "drawCount": 111,
       "maxConsecutiveWinCount": 30
     },
@@ -140,10 +140,10 @@
       "userId": "416928587080196105",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 300,
+      "points": 301,
       "winCount": 233,
       "loseCount": 95,
-      "drawCount": 121,
+      "drawCount": 122,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -152,10 +152,10 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 270,
-      "winCount": 397,
-      "loseCount": 323,
-      "drawCount": 169,
+      "points": 276,
+      "winCount": 401,
+      "loseCount": 324,
+      "drawCount": 171,
       "maxConsecutiveWinCount": 7
     },
     {
@@ -568,7 +568,7 @@
     },
     {
       "characterImage": "/images/173615932274876419",
-      "name": "跳びポ 家虎 ワオ部",
+      "name": "紫輪みおん",
       "userId": "173615932274876419",
       "twitterId": "Koz_otg",
       "tier": "マスター クラス5",
