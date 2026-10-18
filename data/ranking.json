@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T12:03:50.508Z",
+  "updatedAt": "2026-10-18T12:33:57.162Z",
   "seasonId": 20,
   "players": [
     {
@@ -28,14 +28,14 @@
     },
     {
       "characterImage": "/images/182063036832174093",
-      "name": "多分21時頃配信！",
+      "name": "多分21時半配信？",
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 662,
+      "points": 663,
       "winCount": 571,
       "loseCount": 261,
-      "drawCount": 266,
+      "drawCount": 267,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -68,8 +68,8 @@
       "userId": "802685989315678217",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 554,
-      "winCount": 347,
+      "points": 561,
+      "winCount": 353,
       "loseCount": 0,
       "drawCount": 121,
       "maxConsecutiveWinCount": 13
@@ -92,9 +92,9 @@
       "userId": "533558892414337026",
       "twitterId": "qskp9",
       "tier": "マスター クラス5",
-      "points": 537,
-      "winCount": 459,
-      "loseCount": 175,
+      "points": 540,
+      "winCount": 463,
+      "loseCount": 177,
       "drawCount": 175,
       "maxConsecutiveWinCount": 11
     },
@@ -116,10 +116,10 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 374,
-      "winCount": 306,
-      "loseCount": 74,
-      "drawCount": 110,
+      "points": 379,
+      "winCount": 310,
+      "loseCount": 75,
+      "drawCount": 111,
       "maxConsecutiveWinCount": 30
     },
     {
@@ -140,11 +140,11 @@
       "userId": "416928587080196105",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 292,
-      "winCount": 226,
+      "points": 300,
+      "winCount": 233,
       "loseCount": 95,
       "drawCount": 121,
-      "maxConsecutiveWinCount": 10
+      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/753572528120254477",
@@ -548,9 +548,9 @@
       "userId": "590810665171611661",
       "twitterId": "Niwaaa_tori",
       "tier": "マスター クラス5",
-      "points": 97,
-      "winCount": 92,
-      "loseCount": 26,
+      "points": 96,
+      "winCount": 94,
+      "loseCount": 29,
       "drawCount": 33,
       "maxConsecutiveWinCount": 6
     },
