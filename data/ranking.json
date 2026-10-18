@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-18T07:17:31.291Z",
+  "updatedAt": "2026-10-18T08:22:12.185Z",
   "seasonId": 20,
   "players": [
     {
-      "characterImage": null,
+      "characterImage": "/images/156990469561196558",
       "name": "ほっぺ依存症",
       "userId": "156990469561196558",
       "twitterId": "",
@@ -15,31 +15,31 @@
       "maxConsecutiveWinCount": 15
     },
     {
-      "characterImage": null,
-      "name": "苦しいです",
+      "characterImage": "/images/137502081632583691",
+      "name": "むぎちゃん",
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 815,
-      "winCount": 656,
-      "loseCount": 244,
-      "drawCount": 304,
+      "points": 823,
+      "winCount": 663,
+      "loseCount": 246,
+      "drawCount": 306,
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/182063036832174093",
       "name": "ゆー@ようつべ",
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 644,
-      "winCount": 559,
+      "points": 653,
+      "winCount": 566,
       "loseCount": 261,
-      "drawCount": 263,
+      "drawCount": 264,
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/132831494322683918",
       "name": "ぽるる",
       "userId": "132831494322683918",
       "twitterId": "sngporu",
@@ -51,19 +51,19 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
-      "name": "りんさんず",
+      "characterImage": "/images/243323553462300684",
+      "name": "りんさ",
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 589,
-      "winCount": 644,
-      "loseCount": 430,
-      "drawCount": 285,
+      "points": 595,
+      "winCount": 655,
+      "loseCount": 438,
+      "drawCount": 286,
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/175168648301985796",
       "name": "°.♡れいら♡. °",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
@@ -75,7 +75,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/533558892414337026",
       "name": "AFE☂めッ",
       "userId": "533558892414337026",
       "twitterId": "qskp9",
@@ -87,19 +87,19 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/802685989315678217",
       "name": "アスパラガス",
       "userId": "802685989315678217",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 498,
-      "winCount": 312,
+      "points": 512,
+      "winCount": 322,
       "loseCount": 0,
-      "drawCount": 110,
+      "drawCount": 111,
       "maxConsecutiveWinCount": 13
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/272110013727850501",
       "name": "KAITO FAN",
       "userId": "272110013727850501",
       "twitterId": "",
@@ -111,7 +111,7 @@
       "maxConsecutiveWinCount": 17
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5147187164524550",
       "name": "わたあメンタル",
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
@@ -123,7 +123,7 @@
       "maxConsecutiveWinCount": 30
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/148043563943223297",
       "name": "Φ",
       "userId": "148043563943223297",
       "twitterId": "fire0322001",
@@ -135,7 +135,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/416928587080196105",
       "name": "X1Y4n",
       "userId": "416928587080196105",
       "twitterId": "",
@@ -147,19 +147,19 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/753572528120254477",
       "name": "ピコ2500粒目標…",
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 263,
-      "winCount": 389,
-      "loseCount": 320,
-      "drawCount": 167,
+      "points": 270,
+      "winCount": 397,
+      "loseCount": 323,
+      "drawCount": 169,
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/37698146989649926",
       "name": "y",
       "userId": "37698146989649926",
       "twitterId": "sekai_uau",
@@ -171,7 +171,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5144945912909827",
       "name": "ルンパッパ",
       "userId": "5144945912909827",
       "twitterId": "hagekingu0917",
@@ -183,7 +183,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/625197524291788810",
       "name": "えむα",
       "userId": "625197524291788810",
       "twitterId": "M_a1XD",
@@ -195,7 +195,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/245318273696182286",
       "name": "ぽ",
       "userId": "245318273696182286",
       "twitterId": "Pocky_prsk",
@@ -207,7 +207,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5156416285716480",
       "name": "ぴち",
       "userId": "5156416285716480",
       "twitterId": "piti_fx39",
@@ -219,7 +219,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/323383674971267073",
       "name": "伊達叶絵",
       "userId": "323383674971267073",
       "twitterId": "morrrrrrrr_8",
@@ -231,7 +231,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5170409750286344",
       "name": "みょん",
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
@@ -243,19 +243,19 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/567850409714769922",
       "name": "たーぼー",
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 185,
+      "points": 184,
       "winCount": 142,
-      "loseCount": 43,
+      "loseCount": 44,
       "drawCount": 74,
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/192937409625243655",
       "name": "もやし半額デー",
       "userId": "192937409625243655",
       "twitterId": "",
@@ -267,7 +267,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/201098380143054854",
       "name": "紅葉まんじゅー",
       "userId": "201098380143054854",
       "twitterId": "momijimanju_u",
@@ -279,7 +279,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/246835375226441734",
       "name": "ど根性ストレート肉球",
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
@@ -291,7 +291,7 @@
       "maxConsecutiveWinCount": 12
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/457338724789698560",
       "name": "ぐるくん！",
       "userId": "457338724789698560",
       "twitterId": "teikyodai0000",
@@ -303,7 +303,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/170427380858368014",
       "name": "きりな",
       "userId": "170427380858368014",
       "twitterId": "kirikiri0907",
@@ -315,7 +315,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/16766381643124744",
       "name": "こうや",
       "userId": "16766381643124744",
       "twitterId": "Kouya03153450",
@@ -327,7 +327,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5173610738434060",
       "name": "馬力強い馬",
       "userId": "5173610738434060",
       "twitterId": "Ru_k0t0",
@@ -339,7 +339,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/532825330736398341",
       "name": "だすと",
       "userId": "532825330736398341",
       "twitterId": "dasutooo",
@@ -351,7 +351,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5298627182645256",
       "name": "ひよりつ",
       "userId": "5298627182645256",
       "twitterId": "hiyori3_prsk",
@@ -363,7 +363,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/301112565824430082",
       "name": "らく",
       "userId": "301112565824430082",
       "twitterId": "pber_ask",
@@ -375,7 +375,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/28746192208850952",
       "name": "あいは..❖",
       "userId": "28746192208850952",
       "twitterId": "Loveleaf0622",
@@ -387,7 +387,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/392086958217097229",
       "name": "ゆらぎ",
       "userId": "392086958217097229",
       "twitterId": "yragi_otoge",
@@ -399,7 +399,7 @@
       "maxConsecutiveWinCount": 12
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5166926901084172",
       "name": "りちょれ",
       "userId": "5166926901084172",
       "twitterId": "richi_prsk",
@@ -411,7 +411,7 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/291480420415225858",
       "name": "あやか",
       "userId": "291480420415225858",
       "twitterId": "",
@@ -423,7 +423,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/170111531962687499",
       "name": "Its Me",
       "userId": "170111531962687499",
       "twitterId": "",
@@ -435,7 +435,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5192823763361798",
       "name": "KOEDA",
       "userId": "5192823763361798",
       "twitterId": "KOEDA_KINOKO",
@@ -447,7 +447,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/259659435240767501",
       "name": "りゅうじ",
       "userId": "259659435240767501",
       "twitterId": "H11rag1s",
@@ -459,7 +459,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/9155210933485573",
       "name": "白瀬",
       "userId": "9155210933485573",
       "twitterId": "shirase1014",
@@ -471,7 +471,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/400981089303658509",
       "name": "Zibai",
       "userId": "400981089303658509",
       "twitterId": "",
@@ -483,7 +483,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/184185197172760576",
       "name": "ぴぴすきやさん",
       "userId": "184185197172760576",
       "twitterId": "210_wa_",
@@ -495,7 +495,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/168701028770590727",
       "name": "絵",
       "userId": "168701028770590727",
       "twitterId": "",
@@ -507,7 +507,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/203342689135669260",
       "name": "夏祭り恋慕う",
       "userId": "203342689135669260",
       "twitterId": "EmpErroR_time",
@@ -519,7 +519,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/285639560352178185",
       "name": "ぼってぃ",
       "userId": "285639560352178185",
       "twitterId": "",
@@ -531,7 +531,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/516538870970327054",
       "name": "無.",
       "userId": "516538870970327054",
       "twitterId": "Wu__hhh",
@@ -543,7 +543,7 @@
       "maxConsecutiveWinCount": 4
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5243709529157646",
       "name": "堂々巡ってStuck",
       "userId": "5243709529157646",
       "twitterId": "",
@@ -555,7 +555,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/173615932274876419",
       "name": "おかえり",
       "userId": "173615932274876419",
       "twitterId": "Koz_otg",
@@ -567,7 +567,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/517948178685124618",
       "name": "今月　琴音",
       "userId": "517948178685124618",
       "twitterId": "miyu_dream226",
@@ -579,7 +579,7 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/196496874391470090",
       "name": "カイロ@tiktok",
       "userId": "196496874391470090",
       "twitterId": "jyuku11",
@@ -591,7 +591,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/304143941762568205",
       "name": "りきティー",
       "userId": "304143941762568205",
       "twitterId": "Riki220225",
@@ -603,7 +603,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/313622802980560898",
       "name": "えりまねパーリナイ",
       "userId": "313622802980560898",
       "twitterId": "isi_xle",
@@ -615,7 +615,7 @@
       "maxConsecutiveWinCount": 14
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/590810665171611661",
       "name": "と",
       "userId": "590810665171611661",
       "twitterId": "Niwaaa_tori",
@@ -627,7 +627,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/208077752997638150",
       "name": "村人",
       "userId": "208077752997638150",
       "twitterId": "",
@@ -639,7 +639,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/138499419482853382",
       "name": "のぎざかちゃん",
       "userId": "138499419482853382",
       "twitterId": "z03dUA1Ts347048",
@@ -651,7 +651,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/256302908484292613",
       "name": "Nayuta0914",
       "userId": "256302908484292613",
       "twitterId": "",
@@ -663,7 +663,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/156246250497101836",
       "name": "ブルーアンビエンス",
       "userId": "156246250497101836",
       "twitterId": "2026_475",
@@ -675,7 +675,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/156909858960904206",
       "name": "カメラとめんなよ！",
       "userId": "156909858960904206",
       "twitterId": "kamibiki_ningen",
@@ -687,7 +687,19 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/308495680779231245",
+      "name": "阿修羅",
+      "userId": "308495680779231245",
+      "twitterId": "9vS2ZZWPXl33900",
+      "tier": "マスター クラス5",
+      "points": 70,
+      "winCount": 122,
+      "loseCount": 113,
+      "drawCount": 55,
+      "maxConsecutiveWinCount": 6
+    },
+    {
+      "characterImage": "/images/139555986458062851",
       "name": "まえちゃん",
       "userId": "139555986458062851",
       "twitterId": "maetyan80806",
@@ -699,7 +711,7 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/87767420961353737",
       "name": "れpーさん104",
       "userId": "87767420961353737",
       "twitterId": "rpm152689562",
@@ -711,7 +723,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/564254775199547402",
       "name": "やーかず",
       "userId": "564254775199547402",
       "twitterId": "yakazu_3baka",
@@ -723,7 +735,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/291064092789710853",
       "name": "ぽせ",
       "userId": "291064092789710853",
       "twitterId": "Nia_mem0ry",
@@ -735,7 +747,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/183956109303750663",
       "name": "れやむ",
       "userId": "183956109303750663",
       "twitterId": "Reyamuuuuuuu",
@@ -747,7 +759,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/204213269384208391",
       "name": "ゆっぴー！",
       "userId": "204213269384208391",
       "twitterId": "yuppy_0322",
@@ -759,7 +771,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/325160296154284033",
       "name": "AFE☂あいばなちゃ",
       "userId": "325160296154284033",
       "twitterId": "aibanachannnnnn",
@@ -771,19 +783,7 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": null,
-      "name": "阿修羅",
-      "userId": "308495680779231245",
-      "twitterId": "9vS2ZZWPXl33900",
-      "tier": "マスター クラス5",
-      "points": 59,
-      "winCount": 109,
-      "loseCount": 110,
-      "drawCount": 55,
-      "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": null,
+      "characterImage": "/images/5150526401081346",
       "name": "あるちゃっとGPT",
       "userId": "5150526401081346",
       "twitterId": "Allostchaaaaaan",
@@ -795,7 +795,7 @@
       "maxConsecutiveWinCount": 4
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/416872263188758535",
       "name": "雨",
       "userId": "416872263188758535",
       "twitterId": "",
@@ -807,7 +807,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/225448700428521487",
       "name": "びぃ",
       "userId": "225448700428521487",
       "twitterId": "biichan710",
@@ -819,7 +819,7 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/13978876032626697",
       "name": "千遥ライセ",
       "userId": "13978876032626697",
       "twitterId": "RAISE3709",
@@ -831,7 +831,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/142584032610131980",
       "name": "りょくせき",
       "userId": "142584032610131980",
       "twitterId": "ryokuseki_1666",
@@ -843,7 +843,7 @@
       "maxConsecutiveWinCount": 15
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/60665947660550154",
       "name": "tuppi",
       "userId": "60665947660550154",
       "twitterId": "ghosthk720",
@@ -855,7 +855,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/317627041230159885",
       "name": "hiro",
       "userId": "317627041230159885",
       "twitterId": "hiro1279834",
@@ -867,7 +867,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/249530031214424064",
       "name": "ギリ生きてます",
       "userId": "249530031214424064",
       "twitterId": "",
@@ -879,7 +879,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5242530551664648",
       "name": "ハラショー",
       "userId": "5242530551664648",
       "twitterId": "harasho_g",
@@ -891,7 +891,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/214376984868667406",
       "name": "はるちゃん",
       "userId": "214376984868667406",
       "twitterId": "h1a1r4u5t1y4ann",
@@ -903,7 +903,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/173705749663137797",
       "name": "δr1p",
       "userId": "173705749663137797",
       "twitterId": "dr1p_uu",
@@ -915,7 +915,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/239757103719305216",
       "name": "アムール・エテルネル",
       "userId": "239757103719305216",
       "twitterId": "akihikokondosk",
@@ -927,7 +927,31 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/59286211860443151",
+      "name": "明日10時集合ね。",
+      "userId": "59286211860443151",
+      "twitterId": "maid_10oclock",
+      "tier": "マスター クラス5",
+      "points": 40,
+      "winCount": 178,
+      "loseCount": 195,
+      "drawCount": 64,
+      "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/402474661940613129",
+      "name": "黄ピクミン",
+      "userId": "402474661940613129",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 39,
+      "winCount": 59,
+      "loseCount": 49,
+      "drawCount": 26,
+      "maxConsecutiveWinCount": 5
+    },
+    {
+      "characterImage": "/images/579945071015510028",
       "name": "おあんでん",
       "userId": "579945071015510028",
       "twitterId": "oandenden",
@@ -939,7 +963,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/377363739883024384",
       "name": "実力をください",
       "userId": "377363739883024384",
       "twitterId": "",
@@ -951,7 +975,7 @@
       "maxConsecutiveWinCount": 4
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/550635891603554307",
       "name": "はにゃ@初心に帰る者",
       "userId": "550635891603554307",
       "twitterId": "",
@@ -963,7 +987,7 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5576641707982856",
       "name": "Atl/ねむむ♬",
       "userId": "5576641707982856",
       "twitterId": "Nemu_3157",
@@ -975,19 +999,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
-      "name": "黄ピクミン",
-      "userId": "402474661940613129",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 34,
-      "winCount": 56,
-      "loseCount": 49,
-      "drawCount": 25,
-      "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": null,
+      "characterImage": "/images/294030286845030405",
       "name": "れぺ",
       "userId": "294030286845030405",
       "twitterId": "repe0423",
@@ -999,7 +1011,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/150921978743693322",
       "name": "リンちゃんは神",
       "userId": "150921978743693322",
       "twitterId": "necomaru_prsk",
@@ -1011,19 +1023,7 @@
       "maxConsecutiveWinCount": 4
     },
     {
-      "characterImage": null,
-      "name": "明日10時集合ね。",
-      "userId": "59286211860443151",
-      "twitterId": "maid_10oclock",
-      "tier": "マスター クラス5",
-      "points": 34,
-      "winCount": 172,
-      "loseCount": 194,
-      "drawCount": 64,
-      "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": null,
+      "characterImage": "/images/192508853737119748",
       "name": "穂波推し",
       "userId": "192508853737119748",
       "twitterId": "aue1111111111",
@@ -1035,7 +1035,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/252752225839644680",
       "name": "senboku",
       "userId": "252752225839644680",
       "twitterId": "senbokudayo",
@@ -1047,7 +1047,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/426295403618516992",
       "name": "そうさきフレンド募集",
       "userId": "426295403618516992",
       "twitterId": "sousaki_prsk",
@@ -1059,19 +1059,19 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/283966015176409092",
       "name": "小晴のか",
       "userId": "283966015176409092",
       "twitterId": "hanappi_nitizyo",
       "tier": "マスター クラス5",
       "points": 32,
-      "winCount": 85,
-      "loseCount": 76,
+      "winCount": 90,
+      "loseCount": 81,
       "drawCount": 29,
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/798828771922837519",
       "name": "　",
       "userId": "798828771922837519",
       "twitterId": "",
@@ -1083,7 +1083,19 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5210899505954826",
+      "name": "めげないまん",
+      "userId": "5210899505954826",
+      "twitterId": "maboroshiawa",
+      "tier": "マスター クラス5",
+      "points": 31,
+      "winCount": 89,
+      "loseCount": 81,
+      "drawCount": 40,
+      "maxConsecutiveWinCount": 6
+    },
+    {
+      "characterImage": "/images/527419323758821386",
       "name": "しゅん@時間浪費",
       "userId": "527419323758821386",
       "twitterId": "jobanensen0217",
@@ -1095,7 +1107,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/301273920757866510",
       "name": "上たけのこ",
       "userId": "301273920757866510",
       "twitterId": "",
@@ -1107,7 +1119,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/80924208191782912",
       "name": "Ast*star",
       "userId": "80924208191782912",
       "twitterId": "kuro72716",
@@ -1119,7 +1131,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/217602232681594880",
       "name": "Xb10r",
       "userId": "217602232681594880",
       "twitterId": "",
@@ -1131,7 +1143,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/29461366259593226",
       "name": "tikinnnn",
       "userId": "29461366259593226",
       "twitterId": "tikinnnn1007",
@@ -1143,19 +1155,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
-      "name": "めげないまん",
-      "userId": "5210899505954826",
-      "twitterId": "maboroshiawa",
-      "tier": "マスター クラス5",
-      "points": 28,
-      "winCount": 85,
-      "loseCount": 80,
-      "drawCount": 38,
-      "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": null,
+      "characterImage": "/images/135689402882740230",
       "name": "　",
       "userId": "135689402882740230",
       "twitterId": "",
@@ -1167,7 +1167,7 @@
       "maxConsecutiveWinCount": 3
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/149699732893224974",
       "name": "ぽかせ",
       "userId": "149699732893224974",
       "twitterId": "",
@@ -1179,7 +1179,7 @@
       "maxConsecutiveWinCount": 14
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/524395401635188738",
       "name": "しゅん",
       "userId": "524395401635188738",
       "twitterId": "",
@@ -1191,7 +1191,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/325936680581718030",
       "name": "ss ",
       "userId": "325936680581718030",
       "twitterId": "7oD2smJfmD1902",
