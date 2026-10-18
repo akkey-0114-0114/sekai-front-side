@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T18:45:57.331Z",
+  "updatedAt": "2026-10-18T19:06:01.280Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 866,
-      "winCount": 701,
-      "loseCount": 258,
-      "drawCount": 318,
+      "points": 867,
+      "winCount": 702,
+      "loseCount": 259,
+      "drawCount": 319,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -104,10 +104,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 417,
-      "winCount": 294,
+      "points": 422,
+      "winCount": 297,
       "loseCount": 86,
-      "drawCount": 152,
+      "drawCount": 153,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -213,9 +213,9 @@
       "twitterId": "piti_fx39",
       "tier": "マスター クラス5",
       "points": 233,
-      "winCount": 221,
-      "loseCount": 114,
-      "drawCount": 105,
+      "winCount": 222,
+      "loseCount": 118,
+      "drawCount": 107,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -484,7 +484,7 @@
     },
     {
       "characterImage": "/images/184185197172760576",
-      "name": "ぴぴ",
+      "name": "ぴぴ♡",
       "userId": "184185197172760576",
       "twitterId": "210_wa_",
       "tier": "マスター クラス5",
