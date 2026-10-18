@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T13:34:21.811Z",
+  "updatedAt": "2026-10-18T14:04:31.233Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1340,
-      "winCount": 941,
+      "points": 1349,
+      "winCount": 948,
       "loseCount": 208,
-      "drawCount": 420,
+      "drawCount": 421,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -32,21 +32,21 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 668,
-      "winCount": 576,
-      "loseCount": 266,
-      "drawCount": 271,
+      "points": 674,
+      "winCount": 579,
+      "loseCount": 268,
+      "drawCount": 275,
       "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/132831494322683918",
-      "name": "ぽるる",
+      "name": "何このゲーム",
       "userId": "132831494322683918",
       "twitterId": "sngporu",
       "tier": "マスター クラス5",
-      "points": 630,
-      "winCount": 451,
-      "loseCount": 116,
+      "points": 631,
+      "winCount": 453,
+      "loseCount": 117,
       "drawCount": 219,
       "maxConsecutiveWinCount": 11
     },
@@ -56,10 +56,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 596,
-      "winCount": 662,
-      "loseCount": 447,
-      "drawCount": 288,
+      "points": 598,
+      "winCount": 665,
+      "loseCount": 451,
+      "drawCount": 290,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -80,10 +80,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 559,
-      "winCount": 478,
-      "loseCount": 186,
-      "drawCount": 211,
+      "points": 566,
+      "winCount": 483,
+      "loseCount": 187,
+      "drawCount": 213,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -152,9 +152,9 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 280,
-      "winCount": 402,
-      "loseCount": 326,
+      "points": 281,
+      "winCount": 405,
+      "loseCount": 328,
       "drawCount": 175,
       "maxConsecutiveWinCount": 7
     },
@@ -568,7 +568,7 @@
     },
     {
       "characterImage": "/images/173615932274876419",
-      "name": "紫輪みおん",
+      "name": "おかえり",
       "userId": "173615932274876419",
       "twitterId": "Koz_otg",
       "tier": "マスター クラス5",
@@ -663,6 +663,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/156246250497101836",
+      "name": "チーズバーガーハン",
+      "userId": "156246250497101836",
+      "twitterId": "2026_475",
+      "tier": "マスター クラス5",
+      "points": 76,
+      "winCount": 59,
+      "loseCount": 18,
+      "drawCount": 28,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/308495680779231245",
       "name": "阿修羅",
       "userId": "308495680779231245",
@@ -673,18 +685,6 @@
       "loseCount": 115,
       "drawCount": 57,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/156246250497101836",
-      "name": "ブルーアンビエンス",
-      "userId": "156246250497101836",
-      "twitterId": "2026_475",
-      "tier": "マスター クラス5",
-      "points": 74,
-      "winCount": 58,
-      "loseCount": 17,
-      "drawCount": 27,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/156909858960904206",
@@ -872,8 +872,8 @@
       "userId": "60665947660550154",
       "twitterId": "ghosthk720",
       "tier": "マスター クラス5",
-      "points": 50,
-      "winCount": 54,
+      "points": 51,
+      "winCount": 55,
       "loseCount": 14,
       "drawCount": 19,
       "maxConsecutiveWinCount": 9
@@ -915,6 +915,18 @@
       "maxConsecutiveWinCount": 5
     },
     {
+      "characterImage": "/images/550635891603554307",
+      "name": "ASPARAGUS",
+      "userId": "550635891603554307",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 46,
+      "winCount": 47,
+      "loseCount": 6,
+      "drawCount": 22,
+      "maxConsecutiveWinCount": 10
+    },
+    {
       "characterImage": "/images/173705749663137797",
       "name": "δr1p",
       "userId": "173705749663137797",
@@ -937,18 +949,6 @@
       "loseCount": 24,
       "drawCount": 17,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/550635891603554307",
-      "name": "はにゃ@初心に帰る者",
-      "userId": "550635891603554307",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 42,
-      "winCount": 45,
-      "loseCount": 5,
-      "drawCount": 19,
-      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/5576641707982856",
