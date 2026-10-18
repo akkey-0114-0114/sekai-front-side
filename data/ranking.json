@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T08:52:18.944Z",
+  "updatedAt": "2026-10-18T09:12:29.404Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,11 +20,11 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 831,
-      "winCount": 669,
+      "points": 838,
+      "winCount": 675,
       "loseCount": 247,
       "drawCount": 308,
-      "maxConsecutiveWinCount": 9
+      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/182063036832174093",
@@ -56,9 +56,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 593,
+      "points": 592,
       "winCount": 657,
-      "loseCount": 444,
+      "loseCount": 445,
       "drawCount": 287,
       "maxConsecutiveWinCount": 11
     },
@@ -92,10 +92,10 @@
       "userId": "802685989315678217",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 518,
-      "winCount": 326,
+      "points": 524,
+      "winCount": 330,
       "loseCount": 0,
-      "drawCount": 112,
+      "drawCount": 113,
       "maxConsecutiveWinCount": 13
     },
     {
@@ -364,7 +364,7 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "らく",
+      "name": "謎の石油王軍団が襲来",
       "userId": "301112565824430082",
       "twitterId": "pber_ask",
       "tier": "マスター クラス5",
@@ -663,6 +663,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/308495680779231245",
+      "name": "阿修羅",
+      "userId": "308495680779231245",
+      "twitterId": "9vS2ZZWPXl33900",
+      "tier": "マスター クラス5",
+      "points": 75,
+      "winCount": 128,
+      "loseCount": 115,
+      "drawCount": 57,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/156246250497101836",
       "name": "ブルーアンビエンス",
       "userId": "156246250497101836",
@@ -673,18 +685,6 @@
       "loseCount": 17,
       "drawCount": 27,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/308495680779231245",
-      "name": "阿修羅",
-      "userId": "308495680779231245",
-      "twitterId": "9vS2ZZWPXl33900",
-      "tier": "マスター クラス5",
-      "points": 74,
-      "winCount": 126,
-      "loseCount": 114,
-      "drawCount": 57,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/156909858960904206",
@@ -927,6 +927,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/59286211860443151",
+      "name": "明日10時集合ね。",
+      "userId": "59286211860443151",
+      "twitterId": "maid_10oclock",
+      "tier": "マスター クラス5",
+      "points": 43,
+      "winCount": 186,
+      "loseCount": 202,
+      "drawCount": 65,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/402474661940613129",
       "name": "黄ピクミン",
       "userId": "402474661940613129",
@@ -939,28 +951,16 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/294030286845030405",
-      "name": "れぺ",
-      "userId": "294030286845030405",
-      "twitterId": "repe0423",
+      "characterImage": "/images/5210899505954826",
+      "name": "めげないまん",
+      "userId": "5210899505954826",
+      "twitterId": "maboroshiawa",
       "tier": "マスター クラス5",
       "points": 39,
-      "winCount": 56,
-      "loseCount": 25,
-      "drawCount": 16,
-      "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/59286211860443151",
-      "name": "明日10時集合ね。",
-      "userId": "59286211860443151",
-      "twitterId": "maid_10oclock",
-      "tier": "マスター クラス5",
-      "points": 38,
-      "winCount": 182,
-      "loseCount": 201,
-      "drawCount": 64,
-      "maxConsecutiveWinCount": 8
+      "winCount": 97,
+      "loseCount": 84,
+      "drawCount": 43,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/579945071015510028",
@@ -973,6 +973,18 @@
       "loseCount": 49,
       "drawCount": 33,
       "maxConsecutiveWinCount": 5
+    },
+    {
+      "characterImage": "/images/294030286845030405",
+      "name": "れぺ",
+      "userId": "294030286845030405",
+      "twitterId": "repe0423",
+      "tier": "マスター クラス5",
+      "points": 36,
+      "winCount": 56,
+      "loseCount": 28,
+      "drawCount": 16,
+      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/377363739883024384",
@@ -1069,18 +1081,6 @@
       "loseCount": 76,
       "drawCount": 36,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/5210899505954826",
-      "name": "めげないまん",
-      "userId": "5210899505954826",
-      "twitterId": "maboroshiawa",
-      "tier": "マスター クラス5",
-      "points": 32,
-      "winCount": 91,
-      "loseCount": 84,
-      "drawCount": 43,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/798828771922837519",
