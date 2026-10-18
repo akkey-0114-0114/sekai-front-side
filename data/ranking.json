@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T16:45:27.693Z",
+  "updatedAt": "2026-10-18T17:05:31.684Z",
   "seasonId": 20,
   "players": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "characterImage": "/images/182063036832174093",
-      "name": "ゆー@YT配信中",
+      "name": "ゆー@ようつべ",
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
@@ -56,9 +56,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 610,
-      "winCount": 678,
-      "loseCount": 460,
+      "points": 611,
+      "winCount": 679,
+      "loseCount": 461,
       "drawCount": 297,
       "maxConsecutiveWinCount": 11
     },
@@ -404,9 +404,9 @@
       "userId": "5166926901084172",
       "twitterId": "richi_prsk",
       "tier": "マスター クラス5",
-      "points": 117,
-      "winCount": 112,
-      "loseCount": 53,
+      "points": 118,
+      "winCount": 114,
+      "loseCount": 54,
       "drawCount": 53,
       "maxConsecutiveWinCount": 10
     },
