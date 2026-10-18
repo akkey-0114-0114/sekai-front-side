@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:55:41.757Z",
+  "updatedAt": "2026-10-18T18:15:45.768Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,9 +20,9 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 870,
+      "points": 867,
       "winCount": 699,
-      "loseCount": 251,
+      "loseCount": 254,
       "drawCount": 317,
       "maxConsecutiveWinCount": 15
     },
@@ -104,10 +104,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 408,
-      "winCount": 291,
+      "points": 413,
+      "winCount": 294,
       "loseCount": 85,
-      "drawCount": 146,
+      "drawCount": 148,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -363,6 +363,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/5166926901084172",
+      "name": "りちょれ",
+      "userId": "5166926901084172",
+      "twitterId": "richi_prsk",
+      "tier": "マスター クラス5",
+      "points": 124,
+      "winCount": 119,
+      "loseCount": 60,
+      "drawCount": 59,
+      "maxConsecutiveWinCount": 10
+    },
+    {
       "characterImage": "/images/301112565824430082",
       "name": "アスパガラス",
       "userId": "301112565824430082",
@@ -397,18 +409,6 @@
       "loseCount": 39,
       "drawCount": 44,
       "maxConsecutiveWinCount": 12
-    },
-    {
-      "characterImage": "/images/5166926901084172",
-      "name": "りちょれ",
-      "userId": "5166926901084172",
-      "twitterId": "richi_prsk",
-      "tier": "マスター クラス5",
-      "points": 120,
-      "winCount": 117,
-      "loseCount": 59,
-      "drawCount": 57,
-      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/291480420415225858",
