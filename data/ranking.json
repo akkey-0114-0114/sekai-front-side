@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:45:15.179Z",
+  "updatedAt": "2026-10-18T16:15:21.346Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1379,
-      "winCount": 969,
+      "points": 1384,
+      "winCount": 973,
       "loseCount": 209,
-      "drawCount": 429,
+      "drawCount": 430,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -44,10 +44,10 @@
       "userId": "132831494322683918",
       "twitterId": "sngporu",
       "tier": "マスター クラス5",
-      "points": 651,
-      "winCount": 466,
-      "loseCount": 120,
-      "drawCount": 226,
+      "points": 655,
+      "winCount": 470,
+      "loseCount": 122,
+      "drawCount": 227,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -57,9 +57,9 @@
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
       "points": 602,
-      "winCount": 670,
-      "loseCount": 457,
-      "drawCount": 294,
+      "winCount": 671,
+      "loseCount": 459,
+      "drawCount": 295,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -68,9 +68,9 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 580,
-      "winCount": 494,
-      "loseCount": 190,
+      "points": 582,
+      "winCount": 497,
+      "loseCount": 191,
       "drawCount": 217,
       "maxConsecutiveWinCount": 11
     },
@@ -568,7 +568,7 @@
     },
     {
       "characterImage": "/images/173615932274876419",
-      "name": "おかえり",
+      "name": "紫輪みおん",
       "userId": "173615932274876419",
       "twitterId": "Koz_otg",
       "tier": "マスター クラス5",
