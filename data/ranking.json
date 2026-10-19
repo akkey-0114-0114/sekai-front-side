@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:13:05.232Z",
+  "updatedAt": "2026-10-19T21:43:11.261Z",
   "seasonId": 20,
   "players": [
     {
@@ -183,18 +183,6 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/5156416285716480",
-      "name": "ぴち",
-      "userId": "5156416285716480",
-      "twitterId": "piti_fx39",
-      "tier": "マスター クラス5",
-      "points": 237,
-      "winCount": 224,
-      "loseCount": 120,
-      "drawCount": 110,
-      "maxConsecutiveWinCount": 9
-    },
-    {
       "characterImage": "/images/245318273696182286",
       "name": "ぽ",
       "userId": "245318273696182286",
@@ -205,6 +193,18 @@
       "loseCount": 38,
       "drawCount": 74,
       "maxConsecutiveWinCount": 11
+    },
+    {
+      "characterImage": "/images/5156416285716480",
+      "name": "ぴち",
+      "userId": "5156416285716480",
+      "twitterId": "piti_fx39",
+      "tier": "マスター クラス5",
+      "points": 236,
+      "winCount": 224,
+      "loseCount": 121,
+      "drawCount": 110,
+      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/5170409750286344",
@@ -236,8 +236,8 @@
       "userId": "802686073332027398",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 196,
-      "winCount": 128,
+      "points": 197,
+      "winCount": 129,
       "loseCount": 0,
       "drawCount": 46,
       "maxConsecutiveWinCount": 12
