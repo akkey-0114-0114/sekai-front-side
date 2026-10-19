@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T23:57:03.023Z",
+  "updatedAt": "2026-10-19T00:37:11.013Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,8 +20,8 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 881,
-      "winCount": 718,
+      "points": 882,
+      "winCount": 719,
       "loseCount": 263,
       "drawCount": 320,
       "maxConsecutiveWinCount": 15
@@ -40,7 +40,7 @@
     },
     {
       "characterImage": "/images/132831494322683918",
-      "name": "ラグ楽しいな！！！！",
+      "name": "シルヴィ",
       "userId": "132831494322683918",
       "twitterId": "sngporu",
       "tier": "マスター クラス5",
@@ -104,10 +104,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 430,
-      "winCount": 303,
+      "points": 436,
+      "winCount": 307,
       "loseCount": 86,
-      "drawCount": 154,
+      "drawCount": 155,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -116,9 +116,9 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 378,
+      "points": 377,
       "winCount": 311,
-      "loseCount": 78,
+      "loseCount": 79,
       "drawCount": 111,
       "maxConsecutiveWinCount": 30
     },
@@ -807,6 +807,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/550635891603554307",
+      "name": "はにゃ@初心に帰る者",
+      "userId": "550635891603554307",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 56,
+      "winCount": 49,
+      "loseCount": 7,
+      "drawCount": 29,
+      "maxConsecutiveWinCount": 10
+    },
+    {
       "characterImage": "/images/5150526401081346",
       "name": "あるちゃっとGPT",
       "userId": "5150526401081346",
@@ -841,18 +853,6 @@
       "loseCount": 74,
       "drawCount": 38,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/550635891603554307",
-      "name": "はにゃ@初心に帰る者",
-      "userId": "550635891603554307",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 55,
-      "winCount": 49,
-      "loseCount": 7,
-      "drawCount": 28,
-      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/225448700428521487",
