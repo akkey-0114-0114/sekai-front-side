@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:43:11.261Z",
+  "updatedAt": "2026-10-19T22:13:17.511Z",
   "seasonId": 20,
   "players": [
     {
@@ -159,18 +159,6 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/625197524291788810",
-      "name": "えむα",
-      "userId": "625197524291788810",
-      "twitterId": "M_a1XD",
-      "tier": "マスター クラス5",
-      "points": 252,
-      "winCount": 266,
-      "loseCount": 209,
-      "drawCount": 154,
-      "maxConsecutiveWinCount": 9
-    },
-    {
       "characterImage": "/images/37698146989649926",
       "name": "y",
       "userId": "37698146989649926",
@@ -183,6 +171,30 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/625197524291788810",
+      "name": "えむα",
+      "userId": "625197524291788810",
+      "twitterId": "M_a1XD",
+      "tier": "マスター クラス5",
+      "points": 249,
+      "winCount": 266,
+      "loseCount": 213,
+      "drawCount": 155,
+      "maxConsecutiveWinCount": 9
+    },
+    {
+      "characterImage": "/images/5156416285716480",
+      "name": "ぴち",
+      "userId": "5156416285716480",
+      "twitterId": "piti_fx39",
+      "tier": "マスター クラス5",
+      "points": 238,
+      "winCount": 227,
+      "loseCount": 123,
+      "drawCount": 111,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/245318273696182286",
       "name": "ぽ",
       "userId": "245318273696182286",
@@ -193,18 +205,6 @@
       "loseCount": 38,
       "drawCount": 74,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/5156416285716480",
-      "name": "ぴち",
-      "userId": "5156416285716480",
-      "twitterId": "piti_fx39",
-      "tier": "マスター クラス5",
-      "points": 236,
-      "winCount": 224,
-      "loseCount": 121,
-      "drawCount": 110,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/5170409750286344",
@@ -236,8 +236,8 @@
       "userId": "802686073332027398",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 197,
-      "winCount": 129,
+      "points": 204,
+      "winCount": 135,
       "loseCount": 0,
       "drawCount": 46,
       "maxConsecutiveWinCount": 12
