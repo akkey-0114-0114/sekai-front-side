@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T08:39:07.253Z",
+  "updatedAt": "2026-10-19T09:19:15.899Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1404,
-      "winCount": 984,
-      "loseCount": 211,
-      "drawCount": 438,
+      "points": 1410,
+      "winCount": 988,
+      "loseCount": 212,
+      "drawCount": 440,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -61,18 +61,6 @@
       "loseCount": 461,
       "drawCount": 297,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/802685989315678217",
-      "name": "アスパラガス",
-      "userId": "802685989315678217",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 584,
-      "winCount": 366,
-      "loseCount": 0,
-      "drawCount": 127,
-      "maxConsecutiveWinCount": 13
     },
     {
       "characterImage": "/images/175168648301985796",
@@ -376,7 +364,7 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "アスパガラス",
+      "name": "檸檬2",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -416,10 +404,10 @@
       "userId": "5192823763361798",
       "twitterId": "KOEDA_KINOKO",
       "tier": "マスター クラス5",
-      "points": 117,
-      "winCount": 129,
-      "loseCount": 74,
-      "drawCount": 62,
+      "points": 120,
+      "winCount": 136,
+      "loseCount": 79,
+      "drawCount": 64,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -783,18 +771,6 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": "/images/550635891603554307",
-      "name": "はにゃ@初心に帰る者",
-      "userId": "550635891603554307",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 58,
-      "winCount": 50,
-      "loseCount": 7,
-      "drawCount": 29,
-      "maxConsecutiveWinCount": 10
-    },
-    {
       "characterImage": "/images/802686073332027398",
       "name": "Odango",
       "userId": "802686073332027398",
@@ -944,9 +920,9 @@
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
       "tier": "マスター クラス5",
-      "points": 46,
+      "points": 45,
       "winCount": 204,
-      "loseCount": 229,
+      "loseCount": 230,
       "drawCount": 76,
       "maxConsecutiveWinCount": 8
     },
@@ -963,6 +939,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/5576641707982856",
+      "name": "Atl/ねむむ♬",
+      "userId": "5576641707982856",
+      "twitterId": "Nemu_3157",
+      "tier": "マスター クラス5",
+      "points": 44,
+      "winCount": 97,
+      "loseCount": 68,
+      "drawCount": 18,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/239757103719305216",
       "name": "アムール・エテルネル",
       "userId": "239757103719305216",
@@ -973,18 +961,6 @@
       "loseCount": 24,
       "drawCount": 17,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/5576641707982856",
-      "name": "Atl/ねむむ♬",
-      "userId": "5576641707982856",
-      "twitterId": "Nemu_3157",
-      "tier": "マスター クラス5",
-      "points": 41,
-      "winCount": 93,
-      "loseCount": 67,
-      "drawCount": 18,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/150921978743693322",
@@ -1180,7 +1156,7 @@
     },
     {
       "characterImage": "/images/135689402882740230",
-      "name": "　",
+      "name": "ほらたくV",
       "userId": "135689402882740230",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -1201,6 +1177,30 @@
       "loseCount": 66,
       "drawCount": 30,
       "maxConsecutiveWinCount": 14
+    },
+    {
+      "characterImage": "/images/524395401635188738",
+      "name": "しゅん",
+      "userId": "524395401635188738",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 25,
+      "winCount": 41,
+      "loseCount": 12,
+      "drawCount": 9,
+      "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": "/images/206875471094263818",
+      "name": "もりらばんぞう",
+      "userId": "206875471094263818",
+      "twitterId": "Nosuke_495",
+      "tier": "マスター クラス5",
+      "points": 24,
+      "winCount": 45,
+      "loseCount": 37,
+      "drawCount": 22,
+      "maxConsecutiveWinCount": 6
     }
   ]
 }
