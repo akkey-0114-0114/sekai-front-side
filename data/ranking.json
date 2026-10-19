@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T07:58:49.396Z",
+  "updatedAt": "2026-10-19T08:39:07.253Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1393,
-      "winCount": 978,
-      "loseCount": 210,
-      "drawCount": 433,
+      "points": 1404,
+      "winCount": 984,
+      "loseCount": 211,
+      "drawCount": 438,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 902,
-      "winCount": 734,
-      "loseCount": 264,
-      "drawCount": 323,
+      "points": 906,
+      "winCount": 739,
+      "loseCount": 267,
+      "drawCount": 324,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -248,10 +248,10 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 184,
+      "points": 186,
       "winCount": 142,
-      "loseCount": 44,
-      "drawCount": 74,
+      "loseCount": 45,
+      "drawCount": 76,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -291,6 +291,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/246835375226441734",
+      "name": "ど根性ストレート肉球",
+      "userId": "246835375226441734",
+      "twitterId": "Nari_haberi",
+      "tier": "マスター クラス5",
+      "points": 157,
+      "winCount": 178,
+      "loseCount": 91,
+      "drawCount": 57,
+      "maxConsecutiveWinCount": 12
+    },
+    {
       "characterImage": "/images/201098380143054854",
       "name": "紅葉まんじゅー",
       "userId": "201098380143054854",
@@ -301,18 +313,6 @@
       "loseCount": 101,
       "drawCount": 69,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/246835375226441734",
-      "name": "ど根性ストレート肉球",
-      "userId": "246835375226441734",
-      "twitterId": "Nari_haberi",
-      "tier": "マスター クラス5",
-      "points": 153,
-      "winCount": 176,
-      "loseCount": 91,
-      "drawCount": 56,
-      "maxConsecutiveWinCount": 12
     },
     {
       "characterImage": "/images/5173610738434060",
@@ -378,7 +378,7 @@
       "characterImage": "/images/301112565824430082",
       "name": "アスパガラス",
       "userId": "301112565824430082",
-      "twitterId": "pber_ask",
+      "twitterId": "",
       "tier": "マスター クラス5",
       "points": 122,
       "winCount": 199,
@@ -416,10 +416,10 @@
       "userId": "5192823763361798",
       "twitterId": "KOEDA_KINOKO",
       "tier": "マスター クラス5",
-      "points": 115,
-      "winCount": 125,
-      "loseCount": 69,
-      "drawCount": 60,
+      "points": 117,
+      "winCount": 129,
+      "loseCount": 74,
+      "drawCount": 62,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -692,9 +692,9 @@
       "userId": "156909858960904206",
       "twitterId": "kamibiki_ningen",
       "tier": "マスター クラス5",
-      "points": 73,
+      "points": 72,
       "winCount": 68,
-      "loseCount": 17,
+      "loseCount": 18,
       "drawCount": 26,
       "maxConsecutiveWinCount": 6
     },
@@ -987,6 +987,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/150921978743693322",
+      "name": "リンちゃんは神",
+      "userId": "150921978743693322",
+      "twitterId": "necomaru_prsk",
+      "tier": "マスター クラス5",
+      "points": 41,
+      "winCount": 96,
+      "loseCount": 91,
+      "drawCount": 43,
+      "maxConsecutiveWinCount": 5
+    },
+    {
       "characterImage": "/images/402474661940613129",
       "name": "黄ピクミン",
       "userId": "402474661940613129",
@@ -1032,18 +1044,6 @@
       "winCount": 45,
       "loseCount": 40,
       "drawCount": 31,
-      "maxConsecutiveWinCount": 4
-    },
-    {
-      "characterImage": "/images/150921978743693322",
-      "name": "リンちゃんは神",
-      "userId": "150921978743693322",
-      "twitterId": "necomaru_prsk",
-      "tier": "マスター クラス5",
-      "points": 34,
-      "winCount": 89,
-      "loseCount": 88,
-      "drawCount": 41,
       "maxConsecutiveWinCount": 4
     },
     {
