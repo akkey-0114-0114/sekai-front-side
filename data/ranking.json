@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T03:57:52.458Z",
+  "updatedAt": "2026-10-19T04:27:58.757Z",
   "seasonId": 20,
   "players": [
     {
@@ -968,9 +968,9 @@
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
       "tier": "マスター クラス5",
-      "points": 41,
+      "points": 40,
       "winCount": 197,
-      "loseCount": 223,
+      "loseCount": 224,
       "drawCount": 70,
       "maxConsecutiveWinCount": 8
     },
