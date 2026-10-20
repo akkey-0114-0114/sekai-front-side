@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:18:55.696Z",
+  "updatedAt": "2026-10-20T19:59:04.020Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1030,
-      "winCount": 829,
-      "loseCount": 298,
-      "drawCount": 371,
+      "points": 1033,
+      "winCount": 830,
+      "loseCount": 299,
+      "drawCount": 373,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -80,10 +80,10 @@
       "userId": "533558892414337026",
       "twitterId": "qskp9",
       "tier": "マスター クラス5",
-      "points": 551,
-      "winCount": 471,
+      "points": 555,
+      "winCount": 473,
       "loseCount": 178,
-      "drawCount": 178,
+      "drawCount": 179,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -92,10 +92,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 443,
+      "points": 445,
       "winCount": 313,
       "loseCount": 88,
-      "drawCount": 158,
+      "drawCount": 159,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -147,6 +147,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/5156416285716480",
+      "name": "ぴち",
+      "userId": "5156416285716480",
+      "twitterId": "piti_fx39",
+      "tier": "マスター クラス5",
+      "points": 265,
+      "winCount": 244,
+      "loseCount": 126,
+      "drawCount": 120,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/5144945912909827",
       "name": "ルンパッパ",
       "userId": "5144945912909827",
@@ -168,18 +180,6 @@
       "winCount": 274,
       "loseCount": 219,
       "drawCount": 162,
-      "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/5156416285716480",
-      "name": "ぴち",
-      "userId": "5156416285716480",
-      "twitterId": "piti_fx39",
-      "tier": "マスター クラス5",
-      "points": 258,
-      "winCount": 242,
-      "loseCount": 125,
-      "drawCount": 116,
       "maxConsecutiveWinCount": 9
     },
     {
