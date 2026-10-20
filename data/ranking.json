@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T17:38:35.467Z",
+  "updatedAt": "2026-10-20T18:08:41.371Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1028,
-      "winCount": 828,
+      "points": 1030,
+      "winCount": 829,
       "loseCount": 298,
-      "drawCount": 370,
+      "drawCount": 371,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -195,6 +195,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/5156416285716480",
+      "name": "ぴち",
+      "userId": "5156416285716480",
+      "twitterId": "piti_fx39",
+      "tier": "マスター クラス5",
+      "points": 247,
+      "winCount": 235,
+      "loseCount": 124,
+      "drawCount": 112,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/5170409750286344",
       "name": "みょん",
       "userId": "5170409750286344",
@@ -205,18 +217,6 @@
       "loseCount": 88,
       "drawCount": 98,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/5156416285716480",
-      "name": "ぴち",
-      "userId": "5156416285716480",
-      "twitterId": "piti_fx39",
-      "tier": "マスター クラス5",
-      "points": 243,
-      "winCount": 231,
-      "loseCount": 123,
-      "drawCount": 111,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/323383674971267073",
@@ -296,8 +296,8 @@
       "userId": "5166926901084172",
       "twitterId": "richi_prsk",
       "tier": "マスター クラス5",
-      "points": 162,
-      "winCount": 151,
+      "points": 164,
+      "winCount": 153,
       "loseCount": 65,
       "drawCount": 65,
       "maxConsecutiveWinCount": 11
