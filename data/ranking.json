@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T02:24:09.738Z",
+  "updatedAt": "2026-10-20T02:54:16.267Z",
   "seasonId": 20,
   "players": [
     {
@@ -147,6 +147,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/802686073332027398",
+      "name": "Odango",
+      "userId": "802686073332027398",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 259,
+      "winCount": 174,
+      "loseCount": 0,
+      "drawCount": 53,
+      "maxConsecutiveWinCount": 14
+    },
+    {
       "characterImage": "/images/5144945912909827",
       "name": "ルンパッパ",
       "userId": "5144945912909827",
@@ -181,18 +193,6 @@
       "loseCount": 95,
       "drawCount": 97,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/802686073332027398",
-      "name": "Odango",
-      "userId": "802686073332027398",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 249,
-      "winCount": 167,
-      "loseCount": 0,
-      "drawCount": 51,
-      "maxConsecutiveWinCount": 14
     },
     {
       "characterImage": "/images/5156416285716480",
