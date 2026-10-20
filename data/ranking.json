@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T15:57:51.573Z",
+  "updatedAt": "2026-10-20T16:28:19.997Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1570,
-      "winCount": 1100,
-      "loseCount": 222,
-      "drawCount": 474,
+      "points": 1578,
+      "winCount": 1106,
+      "loseCount": 223,
+      "drawCount": 476,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1011,
-      "winCount": 813,
-      "loseCount": 292,
-      "drawCount": 364,
+      "points": 1014,
+      "winCount": 816,
+      "loseCount": 294,
+      "drawCount": 365,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -32,10 +32,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 746,
-      "winCount": 635,
-      "loseCount": 288,
-      "drawCount": 300,
+      "points": 750,
+      "winCount": 638,
+      "loseCount": 289,
+      "drawCount": 301,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -56,22 +56,22 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 641,
+      "points": 640,
       "winCount": 547,
-      "loseCount": 205,
+      "loseCount": 206,
       "drawCount": 232,
       "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/243323553462300684",
-      "name": "りんさんずYT配信中",
+      "name": "負けても折れない",
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
       "points": 640,
-      "winCount": 729,
-      "loseCount": 508,
-      "drawCount": 317,
+      "winCount": 731,
+      "loseCount": 512,
+      "drawCount": 318,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -152,8 +152,8 @@
       "userId": "5144945912909827",
       "twitterId": "hagekingu0917",
       "tier": "マスター クラス5",
-      "points": 261,
-      "winCount": 268,
+      "points": 262,
+      "winCount": 269,
       "loseCount": 154,
       "drawCount": 113,
       "maxConsecutiveWinCount": 9
@@ -352,7 +352,7 @@
     },
     {
       "characterImage": "/images/16766381643124744",
-      "name": "こうや",
+      "name": "32練習マン",
       "userId": "16766381643124744",
       "twitterId": "Kouya03153450",
       "tier": "マスター クラス5",
