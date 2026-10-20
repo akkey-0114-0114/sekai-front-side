@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T05:34:51.376Z",
+  "updatedAt": "2026-10-20T06:05:00.033Z",
   "seasonId": 20,
   "players": [
     {
@@ -135,6 +135,18 @@
       "maxConsecutiveWinCount": 17
     },
     {
+      "characterImage": "/images/802686073332027398",
+      "name": "Odango",
+      "userId": "802686073332027398",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 312,
+      "winCount": 207,
+      "loseCount": 0,
+      "drawCount": 64,
+      "maxConsecutiveWinCount": 16
+    },
+    {
       "characterImage": "/images/753572528120254477",
       "name": "ピコX配信中！",
       "userId": "753572528120254477",
@@ -145,18 +157,6 @@
       "loseCount": 351,
       "drawCount": 192,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/802686073332027398",
-      "name": "Odango",
-      "userId": "802686073332027398",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 304,
-      "winCount": 200,
-      "loseCount": 0,
-      "drawCount": 64,
-      "maxConsecutiveWinCount": 14
     },
     {
       "characterImage": "/images/5144945912909827",
@@ -260,11 +260,11 @@
       "userId": "457338724789698560",
       "twitterId": "teikyodai0000",
       "tier": "マスター クラス5",
-      "points": 177,
-      "winCount": 195,
+      "points": 179,
+      "winCount": 196,
       "loseCount": 94,
       "drawCount": 64,
-      "maxConsecutiveWinCount": 8
+      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/192937409625243655",
@@ -488,9 +488,9 @@
       "userId": "516538870970327054",
       "twitterId": "Wu__hhh",
       "tier": "マスター クラス5",
-      "points": 107,
+      "points": 106,
       "winCount": 162,
-      "loseCount": 137,
+      "loseCount": 138,
       "drawCount": 84,
       "maxConsecutiveWinCount": 6
     },
