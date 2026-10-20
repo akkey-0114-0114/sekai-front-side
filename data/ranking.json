@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-20T10:46:20.351Z",
+  "updatedAt": "2026-10-20T11:06:24.341Z",
   "seasonId": 20,
   "players": [
     {
       "characterImage": "/images/156990469561196558",
-      "name": "ほっぺ依存症",
+      "name": "レディオブザレイク",
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1500,
-      "winCount": 1049,
+      "points": 1501,
+      "winCount": 1050,
       "loseCount": 217,
       "drawCount": 460,
       "maxConsecutiveWinCount": 15
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 969,
-      "winCount": 787,
-      "loseCount": 288,
-      "drawCount": 350,
+      "points": 975,
+      "winCount": 789,
+      "loseCount": 289,
+      "drawCount": 354,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -44,11 +44,11 @@
       "userId": "132831494322683918",
       "twitterId": "sngporu",
       "tier": "マスター クラス5",
-      "points": 689,
-      "winCount": 499,
-      "loseCount": 126,
+      "points": 690,
+      "winCount": 501,
+      "loseCount": 127,
       "drawCount": 232,
-      "maxConsecutiveWinCount": 11
+      "maxConsecutiveWinCount": 13
     },
     {
       "characterImage": "/images/243323553462300684",
@@ -140,9 +140,9 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 314,
-      "winCount": 448,
-      "loseCount": 360,
+      "points": 315,
+      "winCount": 451,
+      "loseCount": 363,
       "drawCount": 194,
       "maxConsecutiveWinCount": 7
     },
@@ -188,9 +188,9 @@
       "userId": "245318273696182286",
       "twitterId": "Pocky_prsk",
       "tier": "マスター クラス5",
-      "points": 243,
+      "points": 242,
       "winCount": 186,
-      "loseCount": 39,
+      "loseCount": 40,
       "drawCount": 75,
       "maxConsecutiveWinCount": 11
     },
@@ -795,6 +795,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/798828771922837519",
+      "name": "あだご",
+      "userId": "798828771922837519",
+      "twitterId": "A1D1G5_",
+      "tier": "マスター クラス5",
+      "points": 56,
+      "winCount": 56,
+      "loseCount": 32,
+      "drawCount": 36,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/5150526401081346",
       "name": "あるちゃっとGPT",
       "userId": "5150526401081346",
@@ -889,18 +901,6 @@
       "loseCount": 27,
       "drawCount": 20,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/798828771922837519",
-      "name": "あだご",
-      "userId": "798828771922837519",
-      "twitterId": "A1D1G5_",
-      "tier": "マスター クラス5",
-      "points": 49,
-      "winCount": 55,
-      "loseCount": 32,
-      "drawCount": 31,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/214376984868667406",
