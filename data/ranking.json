@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T17:08:29.153Z",
+  "updatedAt": "2026-10-20T17:38:35.467Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1026,
-      "winCount": 826,
-      "loseCount": 295,
-      "drawCount": 367,
+      "points": 1028,
+      "winCount": 828,
+      "loseCount": 298,
+      "drawCount": 370,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "characterImage": "/images/175168648301985796",
-      "name": "れいらっち♡",
+      "name": "°.♡れいら♡. °",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 648,
-      "winCount": 553,
+      "points": 650,
+      "winCount": 554,
       "loseCount": 208,
       "drawCount": 236,
       "maxConsecutiveWinCount": 11
@@ -195,28 +195,28 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/5156416285716480",
-      "name": "ぴち",
-      "userId": "5156416285716480",
-      "twitterId": "piti_fx39",
-      "tier": "マスター クラス5",
-      "points": 238,
-      "winCount": 227,
-      "loseCount": 123,
-      "drawCount": 111,
-      "maxConsecutiveWinCount": 9
-    },
-    {
       "characterImage": "/images/5170409750286344",
       "name": "みょん",
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 236,
-      "winCount": 203,
-      "loseCount": 87,
-      "drawCount": 96,
+      "points": 243,
+      "winCount": 208,
+      "loseCount": 88,
+      "drawCount": 98,
       "maxConsecutiveWinCount": 6
+    },
+    {
+      "characterImage": "/images/5156416285716480",
+      "name": "ぴち",
+      "userId": "5156416285716480",
+      "twitterId": "piti_fx39",
+      "tier": "マスター クラス5",
+      "points": 243,
+      "winCount": 231,
+      "loseCount": 123,
+      "drawCount": 111,
+      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/323383674971267073",
@@ -644,8 +644,8 @@
       "userId": "142584032610131980",
       "twitterId": "ryokuseki_1666",
       "tier": "マスター クラス5",
-      "points": 82,
-      "winCount": 108,
+      "points": 83,
+      "winCount": 109,
       "loseCount": 41,
       "drawCount": 20,
       "maxConsecutiveWinCount": 15
