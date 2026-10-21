@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T19:33:25.727Z",
+  "updatedAt": "2026-10-21T20:03:31.932Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1663,
-      "winCount": 1173,
+      "points": 1671,
+      "winCount": 1179,
       "loseCount": 239,
-      "drawCount": 497,
+      "drawCount": 498,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -56,9 +56,9 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 682,
+      "points": 681,
       "winCount": 584,
-      "loseCount": 217,
+      "loseCount": 218,
       "drawCount": 244,
       "maxConsecutiveWinCount": 11
     },
@@ -80,9 +80,9 @@
       "userId": "533558892414337026",
       "twitterId": "qskp9",
       "tier": "マスター クラス5",
-      "points": 560,
+      "points": 559,
       "winCount": 478,
-      "loseCount": 180,
+      "loseCount": 181,
       "drawCount": 181,
       "maxConsecutiveWinCount": 11
     },
