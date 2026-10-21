@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T20:43:41.167Z",
+  "updatedAt": "2026-10-21T21:13:46.839Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,8 +8,8 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1677,
-      "winCount": 1185,
+      "points": 1679,
+      "winCount": 1187,
       "loseCount": 240,
       "drawCount": 498,
       "maxConsecutiveWinCount": 17
