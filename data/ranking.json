@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T05:25:56.323Z",
+  "updatedAt": "2026-10-21T05:56:30.797Z",
   "seasonId": 20,
   "players": [
     {
@@ -117,8 +117,8 @@
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
       "points": 343,
-      "winCount": 477,
-      "loseCount": 375,
+      "winCount": 479,
+      "loseCount": 378,
       "drawCount": 206,
       "maxConsecutiveWinCount": 7
     },
@@ -915,18 +915,6 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/173705749663137797",
-      "name": "δr1p",
-      "userId": "173705749663137797",
-      "twitterId": "dr1p_uu",
-      "tier": "マスター クラス5",
-      "points": 46,
-      "winCount": 78,
-      "loseCount": 41,
-      "drawCount": 22,
-      "maxConsecutiveWinCount": 11
-    },
-    {
       "characterImage": "/images/5576641707982856",
       "name": "Atl/ねむむ♬",
       "userId": "5576641707982856",
@@ -937,6 +925,18 @@
       "loseCount": 73,
       "drawCount": 19,
       "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": "/images/173705749663137797",
+      "name": "δr1p",
+      "userId": "173705749663137797",
+      "twitterId": "dr1p_uu",
+      "tier": "マスター クラス5",
+      "points": 45,
+      "winCount": 79,
+      "loseCount": 43,
+      "drawCount": 22,
+      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/239757103719305216",
