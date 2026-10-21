@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T05:56:30.797Z",
+  "updatedAt": "2026-10-21T06:37:07.313Z",
   "seasonId": 20,
   "players": [
     {
@@ -88,7 +88,7 @@
     },
     {
       "characterImage": "/images/272110013727850501",
-      "name": "KAITO FAN",
+      "name": "KOHANE FAN",
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -116,9 +116,9 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 343,
-      "winCount": 479,
-      "loseCount": 378,
+      "points": 341,
+      "winCount": 480,
+      "loseCount": 381,
       "drawCount": 206,
       "maxConsecutiveWinCount": 7
     },
@@ -915,18 +915,6 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/5576641707982856",
-      "name": "Atl/ねむむ♬",
-      "userId": "5576641707982856",
-      "twitterId": "Nemu_3157",
-      "tier": "マスター クラス5",
-      "points": 45,
-      "winCount": 102,
-      "loseCount": 73,
-      "drawCount": 19,
-      "maxConsecutiveWinCount": 7
-    },
-    {
       "characterImage": "/images/173705749663137797",
       "name": "δr1p",
       "userId": "173705749663137797",
@@ -937,6 +925,18 @@
       "loseCount": 43,
       "drawCount": 22,
       "maxConsecutiveWinCount": 11
+    },
+    {
+      "characterImage": "/images/5576641707982856",
+      "name": "Atl/ねむむ♬",
+      "userId": "5576641707982856",
+      "twitterId": "Nemu_3157",
+      "tier": "マスター クラス5",
+      "points": 45,
+      "winCount": 105,
+      "loseCount": 76,
+      "drawCount": 19,
+      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/239757103719305216",
@@ -1033,6 +1033,18 @@
       "loseCount": 28,
       "drawCount": 16,
       "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/802686073390616582",
+      "name": "Ninjin",
+      "userId": "802686073390616582",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 36,
+      "winCount": 35,
+      "loseCount": 0,
+      "drawCount": 2,
+      "maxConsecutiveWinCount": 19
     },
     {
       "characterImage": "/images/377363739883024384",
@@ -1189,18 +1201,6 @@
       "loseCount": 19,
       "drawCount": 17,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/135689402882740230",
-      "name": " ",
-      "userId": "135689402882740230",
-      "twitterId": "bokumitsurudayo",
-      "tier": "マスター クラス5",
-      "points": 27,
-      "winCount": 85,
-      "loseCount": 101,
-      "drawCount": 45,
-      "maxConsecutiveWinCount": 3
     }
   ]
 }
