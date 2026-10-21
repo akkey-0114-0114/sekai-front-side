@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T23:29:46.042Z",
+  "updatedAt": "2026-10-21T04:55:40.792Z",
   "seasonId": 20,
   "players": [
     {
@@ -116,10 +116,10 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 330,
-      "winCount": 467,
+      "points": 343,
+      "winCount": 476,
       "loseCount": 374,
-      "drawCount": 202,
+      "drawCount": 205,
       "maxConsecutiveWinCount": 7
     },
     {
@@ -296,8 +296,8 @@
       "userId": "5166926901084172",
       "twitterId": "richi_prsk",
       "tier": "マスター クラス5",
-      "points": 164,
-      "winCount": 153,
+      "points": 169,
+      "winCount": 158,
       "loseCount": 65,
       "drawCount": 65,
       "maxConsecutiveWinCount": 11
@@ -680,9 +680,9 @@
       "userId": "308495680779231245",
       "twitterId": "9vS2ZZWPXl33900",
       "tier": "マスター クラス5",
-      "points": 74,
-      "winCount": 139,
-      "loseCount": 131,
+      "points": 75,
+      "winCount": 142,
+      "loseCount": 133,
       "drawCount": 59,
       "maxConsecutiveWinCount": 6
     },
@@ -783,18 +783,6 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": "/images/325160296154284033",
-      "name": "AFE☂あいばなちゃ",
-      "userId": "325160296154284033",
-      "twitterId": "aibanachannnnnn",
-      "tier": "マスター クラス5",
-      "points": 58,
-      "winCount": 152,
-      "loseCount": 132,
-      "drawCount": 41,
-      "maxConsecutiveWinCount": 10
-    },
-    {
       "characterImage": "/images/5150526401081346",
       "name": "あるちゃっとGPT",
       "userId": "5150526401081346",
@@ -841,6 +829,18 @@
       "loseCount": 39,
       "drawCount": 37,
       "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/325160296154284033",
+      "name": "AFE☂あいばなちゃ",
+      "userId": "325160296154284033",
+      "twitterId": "aibanachannnnnn",
+      "tier": "マスター クラス5",
+      "points": 55,
+      "winCount": 152,
+      "loseCount": 135,
+      "drawCount": 41,
+      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/225448700428521487",
