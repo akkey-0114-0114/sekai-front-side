@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T16:11:52.057Z",
+  "updatedAt": "2026-10-21T16:42:42.679Z",
   "seasonId": 20,
   "players": [
     {
@@ -56,10 +56,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 667,
-      "winCount": 571,
-      "loseCount": 214,
-      "drawCount": 241,
+      "points": 675,
+      "winCount": 578,
+      "loseCount": 215,
+      "drawCount": 242,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 649,
-      "winCount": 756,
-      "loseCount": 541,
-      "drawCount": 327,
+      "points": 651,
+      "winCount": 761,
+      "loseCount": 545,
+      "drawCount": 328,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -171,18 +171,6 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/245318273696182286",
-      "name": "ぽ",
-      "userId": "245318273696182286",
-      "twitterId": "Pocky_prsk",
-      "tier": "マスター クラス5",
-      "points": 264,
-      "winCount": 204,
-      "loseCount": 50,
-      "drawCount": 85,
-      "maxConsecutiveWinCount": 11
-    },
-    {
       "characterImage": "/images/5144945912909827",
       "name": "ルンパッパ",
       "userId": "5144945912909827",
@@ -193,6 +181,18 @@
       "loseCount": 157,
       "drawCount": 116,
       "maxConsecutiveWinCount": 9
+    },
+    {
+      "characterImage": "/images/245318273696182286",
+      "name": "ぽ",
+      "userId": "245318273696182286",
+      "twitterId": "Pocky_prsk",
+      "tier": "マスター クラス5",
+      "points": 259,
+      "winCount": 204,
+      "loseCount": 56,
+      "drawCount": 86,
+      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/5170409750286344",
@@ -248,10 +248,10 @@
       "userId": "5173610738434060",
       "twitterId": "Ru_k0t0",
       "tier": "マスター クラス5",
-      "points": 219,
-      "winCount": 257,
-      "loseCount": 167,
-      "drawCount": 106,
+      "points": 220,
+      "winCount": 259,
+      "loseCount": 170,
+      "drawCount": 107,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -368,11 +368,11 @@
       "userId": "28746192208850952",
       "twitterId": "Loveleaf0622",
       "tier": "マスター クラス5",
-      "points": 136,
-      "winCount": 135,
-      "loseCount": 75,
-      "drawCount": 66,
-      "maxConsecutiveWinCount": 6
+      "points": 141,
+      "winCount": 140,
+      "loseCount": 77,
+      "drawCount": 67,
+      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/285639560352178185",
