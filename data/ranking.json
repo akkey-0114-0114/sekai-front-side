@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T08:47:49.695Z",
+  "updatedAt": "2026-10-21T09:18:01.912Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,9 +8,9 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1599,
-      "winCount": 1123,
-      "loseCount": 225,
+      "points": 1605,
+      "winCount": 1130,
+      "loseCount": 227,
       "drawCount": 480,
       "maxConsecutiveWinCount": 17
     },
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1045,
-      "winCount": 845,
-      "loseCount": 307,
-      "drawCount": 378,
+      "points": 1051,
+      "winCount": 851,
+      "loseCount": 309,
+      "drawCount": 379,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -128,9 +128,9 @@
       "userId": "416928587080196105",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 317,
+      "points": 316,
       "winCount": 248,
-      "loseCount": 103,
+      "loseCount": 104,
       "drawCount": 127,
       "maxConsecutiveWinCount": 17
     },
@@ -248,9 +248,9 @@
       "userId": "170427380858368014",
       "twitterId": "kirikiri0907",
       "tier": "マスター クラス5",
-      "points": 184,
-      "winCount": 288,
-      "loseCount": 183,
+      "points": 185,
+      "winCount": 292,
+      "loseCount": 186,
       "drawCount": 69,
       "maxConsecutiveWinCount": 11
     },
@@ -340,7 +340,7 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "よっ",
+      "name": "対よろ　/　対あり",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -644,9 +644,9 @@
       "userId": "142584032610131980",
       "twitterId": "ryokuseki_1666",
       "tier": "マスター クラス5",
-      "points": 87,
+      "points": 86,
       "winCount": 117,
-      "loseCount": 46,
+      "loseCount": 47,
       "drawCount": 20,
       "maxConsecutiveWinCount": 15
     },
