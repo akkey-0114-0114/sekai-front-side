@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T03:45:11.499Z",
+  "updatedAt": "2026-10-22T04:15:17.293Z",
   "seasonId": 20,
   "players": [
     {
@@ -92,10 +92,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 473,
-      "winCount": 329,
-      "loseCount": 91,
-      "drawCount": 171,
+      "points": 477,
+      "winCount": 332,
+      "loseCount": 92,
+      "drawCount": 172,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -687,6 +687,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/802686073386627082",
+      "name": "城ケ崎ノア",
+      "userId": "802686073386627082",
+      "twitterId": "13witch_Trials",
+      "tier": "マスター クラス5",
+      "points": 74,
+      "winCount": 54,
+      "loseCount": 0,
+      "drawCount": 14,
+      "maxConsecutiveWinCount": 13
+    },
+    {
       "characterImage": "/images/156909858960904206",
       "name": "カメラとめんなよ！",
       "userId": "156909858960904206",
@@ -745,18 +757,6 @@
       "loseCount": 14,
       "drawCount": 24,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/802686073386627082",
-      "name": "城ケ崎ノア",
-      "userId": "802686073386627082",
-      "twitterId": "13witch_Trials",
-      "tier": "マスター クラス5",
-      "points": 66,
-      "winCount": 49,
-      "loseCount": 0,
-      "drawCount": 13,
-      "maxConsecutiveWinCount": 13
     },
     {
       "characterImage": "/images/87767420961353737",
