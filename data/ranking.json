@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T20:32:45.586Z",
+  "updatedAt": "2026-10-22T21:03:00.916Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1184,
-      "winCount": 943,
-      "loseCount": 361,
-      "drawCount": 448,
+      "points": 1189,
+      "winCount": 945,
+      "loseCount": 362,
+      "drawCount": 451,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -92,10 +92,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 522,
-      "winCount": 367,
-      "loseCount": 100,
-      "drawCount": 183,
+      "points": 527,
+      "winCount": 369,
+      "loseCount": 101,
+      "drawCount": 186,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -220,7 +220,7 @@
     },
     {
       "characterImage": "/images/37698146989649926",
-      "name": "y",
+      "name": "すいせーーー",
       "userId": "37698146989649926",
       "twitterId": "sekai_uau",
       "tier": "マスター クラス5",
@@ -351,18 +351,6 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": "/images/301112565824430082",
-      "name": "腹痛で起きた",
-      "userId": "301112565824430082",
-      "twitterId": "pber_ask",
-      "tier": "マスター クラス5",
-      "points": 142,
-      "winCount": 229,
-      "loseCount": 201,
-      "drawCount": 99,
-      "maxConsecutiveWinCount": 8
-    },
-    {
       "characterImage": "/images/16766381643124744",
       "name": "33練習マン",
       "userId": "16766381643124744",
@@ -373,6 +361,18 @@
       "loseCount": 43,
       "drawCount": 53,
       "maxConsecutiveWinCount": 6
+    },
+    {
+      "characterImage": "/images/301112565824430082",
+      "name": "腹痛で起きた",
+      "userId": "301112565824430082",
+      "twitterId": "pber_ask",
+      "tier": "マスター クラス5",
+      "points": 141,
+      "winCount": 229,
+      "loseCount": 202,
+      "drawCount": 99,
+      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/285639560352178185",
