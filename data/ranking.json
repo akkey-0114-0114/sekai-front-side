@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T20:02:31.094Z",
+  "updatedAt": "2026-10-22T20:32:45.586Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1180,
-      "winCount": 940,
-      "loseCount": 359,
-      "drawCount": 446,
+      "points": 1184,
+      "winCount": 943,
+      "loseCount": 361,
+      "drawCount": 448,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -92,8 +92,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 519,
-      "winCount": 364,
+      "points": 522,
+      "winCount": 367,
       "loseCount": 100,
       "drawCount": 183,
       "maxConsecutiveWinCount": 17
@@ -352,14 +352,14 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "アントニオ猪木",
+      "name": "腹痛で起きた",
       "userId": "301112565824430082",
       "twitterId": "pber_ask",
       "tier": "マスター クラス5",
       "points": 142,
-      "winCount": 228,
-      "loseCount": 198,
-      "drawCount": 97,
+      "winCount": 229,
+      "loseCount": 201,
+      "drawCount": 99,
       "maxConsecutiveWinCount": 8
     },
     {
