@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T17:21:06.928Z",
+  "updatedAt": "2026-10-22T17:51:22.581Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1167,
-      "winCount": 931,
-      "loseCount": 353,
-      "drawCount": 439,
+      "points": 1174,
+      "winCount": 936,
+      "loseCount": 354,
+      "drawCount": 441,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -92,8 +92,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 502,
-      "winCount": 352,
+      "points": 508,
+      "winCount": 357,
       "loseCount": 98,
       "drawCount": 179,
       "maxConsecutiveWinCount": 17
@@ -284,9 +284,9 @@
       "userId": "5166926901084172",
       "twitterId": "richi_prsk",
       "tier": "マスター クラス5",
-      "points": 179,
+      "points": 178,
       "winCount": 165,
-      "loseCount": 68,
+      "loseCount": 69,
       "drawCount": 69,
       "maxConsecutiveWinCount": 11
     },
@@ -472,7 +472,7 @@
     },
     {
       "characterImage": "/images/173615932274876419",
-      "name": "紫輪みおん",
+      "name": "おかえり",
       "userId": "173615932274876419",
       "twitterId": "Koz_otg",
       "tier": "マスター クラス5",
