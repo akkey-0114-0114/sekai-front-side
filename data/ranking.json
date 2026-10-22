@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T17:51:22.581Z",
+  "updatedAt": "2026-10-22T18:11:33.748Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,9 +20,9 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1174,
+      "points": 1173,
       "winCount": 936,
-      "loseCount": 354,
+      "loseCount": 355,
       "drawCount": 441,
       "maxConsecutiveWinCount": 15
     },
@@ -92,9 +92,9 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 508,
-      "winCount": 357,
-      "loseCount": 98,
+      "points": 511,
+      "winCount": 360,
+      "loseCount": 99,
       "drawCount": 179,
       "maxConsecutiveWinCount": 17
     },
@@ -375,8 +375,8 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
-      "name": "ウコキム",
+      "characterImage": "/images/285639560352178185",
+      "name": "乚ちゃんtv",
       "userId": "285639560352178185",
       "twitterId": "",
       "tier": "マスター クラス5",
