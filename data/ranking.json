@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T05:25:49.940Z",
+  "updatedAt": "2026-10-22T06:05:58.107Z",
   "seasonId": 20,
   "players": [
     {
@@ -92,9 +92,9 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 480,
-      "winCount": 334,
-      "loseCount": 92,
+      "points": 484,
+      "winCount": 339,
+      "loseCount": 94,
       "drawCount": 173,
       "maxConsecutiveWinCount": 17
     },
@@ -483,6 +483,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/802686073386627082",
+      "name": "城ケ崎ノア",
+      "userId": "802686073386627082",
+      "twitterId": "13witch_Trials",
+      "tier": "マスター クラス5",
+      "points": 108,
+      "winCount": 79,
+      "loseCount": 0,
+      "drawCount": 18,
+      "maxConsecutiveWinCount": 18
+    },
+    {
       "characterImage": "/images/516538870970327054",
       "name": "無.",
       "userId": "516538870970327054",
@@ -507,6 +519,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/203342689135669260",
+      "name": "エンペラータイム",
+      "userId": "203342689135669260",
+      "twitterId": "EmpErroR_time",
+      "tier": "マスター クラス5",
+      "points": 104,
+      "winCount": 118,
+      "loseCount": 71,
+      "drawCount": 52,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/168701028770590727",
       "name": "絵",
       "userId": "168701028770590727",
@@ -517,18 +541,6 @@
       "loseCount": 37,
       "drawCount": 40,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/203342689135669260",
-      "name": "エンペラータイム",
-      "userId": "203342689135669260",
-      "twitterId": "EmpErroR_time",
-      "tier": "マスター クラス5",
-      "points": 102,
-      "winCount": 116,
-      "loseCount": 71,
-      "drawCount": 52,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/184185197172760576",
@@ -577,18 +589,6 @@
       "loseCount": 41,
       "drawCount": 39,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/802686073386627082",
-      "name": "城ケ崎ノア",
-      "userId": "802686073386627082",
-      "twitterId": "13witch_Trials",
-      "tier": "マスター クラス5",
-      "points": 94,
-      "winCount": 68,
-      "loseCount": 0,
-      "drawCount": 17,
-      "maxConsecutiveWinCount": 13
     },
     {
       "characterImage": "/images/5243709529157646",
@@ -789,8 +789,8 @@
       "twitterId": "Reyamuuuuuuu",
       "tier": "マスター クラス5",
       "points": 64,
-      "winCount": 107,
-      "loseCount": 76,
+      "winCount": 110,
+      "loseCount": 78,
       "drawCount": 33,
       "maxConsecutiveWinCount": 7
     },
