@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T04:55:25.262Z",
+  "updatedAt": "2026-10-22T05:25:49.940Z",
   "seasonId": 20,
   "players": [
     {
@@ -92,8 +92,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 478,
-      "winCount": 332,
+      "points": 480,
+      "winCount": 334,
       "loseCount": 92,
       "drawCount": 173,
       "maxConsecutiveWinCount": 17
@@ -579,6 +579,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/802686073386627082",
+      "name": "城ケ崎ノア",
+      "userId": "802686073386627082",
+      "twitterId": "13witch_Trials",
+      "tier": "マスター クラス5",
+      "points": 94,
+      "winCount": 68,
+      "loseCount": 0,
+      "drawCount": 17,
+      "maxConsecutiveWinCount": 13
+    },
+    {
       "characterImage": "/images/5243709529157646",
       "name": "茫洋　あの影は誰",
       "userId": "5243709529157646",
@@ -649,18 +661,6 @@
       "loseCount": 54,
       "drawCount": 32,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/802686073386627082",
-      "name": "城ケ崎ノア",
-      "userId": "802686073386627082",
-      "twitterId": "13witch_Trials",
-      "tier": "マスター クラス5",
-      "points": 86,
-      "winCount": 61,
-      "loseCount": 0,
-      "drawCount": 17,
-      "maxConsecutiveWinCount": 13
     },
     {
       "characterImage": "/images/138499419482853382",
@@ -784,7 +784,7 @@
     },
     {
       "characterImage": "/images/183956109303750663",
-      "name": "れやむ",
+      "name": "おふざけの「ふ」",
       "userId": "183956109303750663",
       "twitterId": "Reyamuuuuuuu",
       "tier": "マスター クラス5",
