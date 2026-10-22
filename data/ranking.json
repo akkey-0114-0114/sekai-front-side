@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T02:45:00.316Z",
+  "updatedAt": "2026-10-22T03:15:06.093Z",
   "seasonId": 20,
   "players": [
     {
@@ -92,10 +92,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 458,
-      "winCount": 323,
+      "points": 465,
+      "winCount": 325,
       "loseCount": 91,
-      "drawCount": 164,
+      "drawCount": 168,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -783,6 +783,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/802686073386627082",
+      "name": "城ケ崎ノア",
+      "userId": "802686073386627082",
+      "twitterId": "13witch_Trials",
+      "tier": "マスター クラス5",
+      "points": 59,
+      "winCount": 44,
+      "loseCount": 0,
+      "drawCount": 12,
+      "maxConsecutiveWinCount": 13
+    },
+    {
       "characterImage": "/images/325160296154284033",
       "name": "AFE☂あいばなちゃ",
       "userId": "325160296154284033",
@@ -877,18 +889,6 @@
       "loseCount": 23,
       "drawCount": 27,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/802686073386627082",
-      "name": "城ケ崎ノア",
-      "userId": "802686073386627082",
-      "twitterId": "13witch_Trials",
-      "tier": "マスター クラス5",
-      "points": 51,
-      "winCount": 43,
-      "loseCount": 0,
-      "drawCount": 6,
-      "maxConsecutiveWinCount": 13
     },
     {
       "characterImage": "/images/317627041230159885",
