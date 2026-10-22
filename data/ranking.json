@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T16:50:47.914Z",
+  "updatedAt": "2026-10-22T17:21:06.928Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1162,
-      "winCount": 927,
-      "loseCount": 352,
-      "drawCount": 437,
+      "points": 1167,
+      "winCount": 931,
+      "loseCount": 353,
+      "drawCount": 439,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -68,9 +68,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 681,
+      "points": 680,
       "winCount": 803,
-      "loseCount": 578,
+      "loseCount": 579,
       "drawCount": 341,
       "maxConsecutiveWinCount": 11
     },
@@ -92,8 +92,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 500,
-      "winCount": 350,
+      "points": 502,
+      "winCount": 352,
       "loseCount": 98,
       "drawCount": 179,
       "maxConsecutiveWinCount": 17
@@ -657,8 +657,8 @@
       "twitterId": "",
       "tier": "マスター クラス5",
       "points": 81,
-      "winCount": 80,
-      "loseCount": 24,
+      "winCount": 81,
+      "loseCount": 25,
       "drawCount": 20,
       "maxConsecutiveWinCount": 7
     },
@@ -831,7 +831,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/60665947660550154",
+      "characterImage": null,
       "name": "tuppi",
       "userId": "60665947660550154",
       "twitterId": "ghosthk720",
