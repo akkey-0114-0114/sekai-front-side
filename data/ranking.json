@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T01:04:32.565Z",
+  "updatedAt": "2026-10-22T01:34:46.294Z",
   "seasonId": 20,
   "players": [
     {
@@ -1107,6 +1107,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/802686073386627082",
+      "name": "城ケ崎ノア",
+      "userId": "802686073386627082",
+      "twitterId": "13witch_Trials",
+      "tier": "マスター クラス5",
+      "points": 32,
+      "winCount": 30,
+      "loseCount": 0,
+      "drawCount": 3,
+      "maxConsecutiveWinCount": 13
+    },
+    {
       "characterImage": "/images/344429746691465225",
       "name": "らっ子",
       "userId": "344429746691465225",
@@ -1189,18 +1201,6 @@
       "loseCount": 13,
       "drawCount": 12,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/527419323758821386",
-      "name": "しゅん@時間浪費",
-      "userId": "527419323758821386",
-      "twitterId": "jobanensen0217",
-      "tier": "マスター クラス5",
-      "points": 28,
-      "winCount": 39,
-      "loseCount": 19,
-      "drawCount": 17,
-      "maxConsecutiveWinCount": 6
     }
   ]
 }
