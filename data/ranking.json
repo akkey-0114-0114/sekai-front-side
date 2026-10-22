@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T19:32:14.813Z",
+  "updatedAt": "2026-10-22T20:02:31.094Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,8 +20,8 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1178,
-      "winCount": 938,
+      "points": 1180,
+      "winCount": 940,
       "loseCount": 359,
       "drawCount": 446,
       "maxConsecutiveWinCount": 15
@@ -352,7 +352,7 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "環境強すぎの萎",
+      "name": "アントニオ猪木",
       "userId": "301112565824430082",
       "twitterId": "pber_ask",
       "tier": "マスター クラス5",
