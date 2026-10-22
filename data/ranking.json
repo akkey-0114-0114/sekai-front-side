@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T22:43:52.202Z",
+  "updatedAt": "2026-10-22T23:04:02.870Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1201,
-      "winCount": 954,
-      "loseCount": 366,
-      "drawCount": 457,
+      "points": 1205,
+      "winCount": 956,
+      "loseCount": 368,
+      "drawCount": 460,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -92,9 +92,9 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 533,
-      "winCount": 375,
-      "loseCount": 107,
+      "points": 534,
+      "winCount": 377,
+      "loseCount": 109,
       "drawCount": 191,
       "maxConsecutiveWinCount": 17
     },
@@ -1144,7 +1144,7 @@
     },
     {
       "characterImage": null,
-      "name": "篠路キャッツアイお疲",
+      "name": "ぶ",
       "userId": "64290960531558414",
       "twitterId": "Bny_prsk",
       "tier": "マスター クラス5",
