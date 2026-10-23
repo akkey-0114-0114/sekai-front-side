@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T05:47:35.526Z",
+  "updatedAt": "2026-10-23T06:17:50.477Z",
   "seasonId": 20,
   "players": [
     {
@@ -76,6 +76,18 @@
     },
     {
       "characterImage": null,
+      "name": "KOHANE FAN",
+      "userId": "272110013727850501",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 566,
+      "winCount": 397,
+      "loseCount": 117,
+      "drawCount": 209,
+      "maxConsecutiveWinCount": 17
+    },
+    {
+      "characterImage": null,
       "name": "AFE☂めッ",
       "userId": "533558892414337026",
       "twitterId": "qskp9",
@@ -85,18 +97,6 @@
       "loseCount": 184,
       "drawCount": 186,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": null,
-      "name": "KOHANE FAN",
-      "userId": "272110013727850501",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 564,
-      "winCount": 397,
-      "loseCount": 116,
-      "drawCount": 206,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": null,
@@ -508,6 +508,18 @@
     },
     {
       "characterImage": null,
+      "name": "Onigiri",
+      "userId": "806056137304670211",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 110,
+      "winCount": 77,
+      "loseCount": 0,
+      "drawCount": 21,
+      "maxConsecutiveWinCount": 22
+    },
+    {
+      "characterImage": null,
       "name": "りゅうじ",
       "userId": "259659435240767501",
       "twitterId": "H11rag1s",
@@ -565,18 +577,6 @@
       "loseCount": 42,
       "drawCount": 42,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": null,
-      "name": "Onigiri",
-      "userId": "806056137304670211",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 99,
-      "winCount": 68,
-      "loseCount": 0,
-      "drawCount": 21,
-      "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": null,
