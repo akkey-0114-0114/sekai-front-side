@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:34:10.398Z",
+  "updatedAt": "2026-10-23T19:54:14.400Z",
   "seasonId": 20,
   "players": [
     {
@@ -9,9 +9,9 @@
       "twitterId": "",
       "tier": "マスター クラス5",
       "points": 1867,
-      "winCount": 1311,
-      "loseCount": 265,
-      "drawCount": 561,
+      "winCount": 1313,
+      "loseCount": 267,
+      "drawCount": 562,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1290,
-      "winCount": 1016,
-      "loseCount": 399,
-      "drawCount": 500,
+      "points": 1291,
+      "winCount": 1017,
+      "loseCount": 402,
+      "drawCount": 502,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -140,10 +140,10 @@
       "userId": "245318273696182286",
       "twitterId": "Pocky_prsk",
       "tier": "マスター クラス5",
-      "points": 335,
-      "winCount": 258,
-      "loseCount": 77,
-      "drawCount": 117,
+      "points": 339,
+      "winCount": 262,
+      "loseCount": 79,
+      "drawCount": 118,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -728,10 +728,10 @@
       "userId": "807202039415824386",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 74,
-      "winCount": 45,
+      "points": 76,
+      "winCount": 46,
       "loseCount": 0,
-      "drawCount": 23,
+      "drawCount": 24,
       "maxConsecutiveWinCount": 14
     },
     {
@@ -837,9 +837,9 @@
       "twitterId": "rumiya05_",
       "tier": "マスター クラス5",
       "points": 58,
-      "winCount": 118,
-      "loseCount": 83,
-      "drawCount": 38,
+      "winCount": 120,
+      "loseCount": 86,
+      "drawCount": 39,
       "maxConsecutiveWinCount": 7
     },
     {
