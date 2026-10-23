@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:34:45.720Z",
+  "updatedAt": "2026-10-23T22:54:52.755Z",
   "seasonId": 20,
   "players": [
     {
@@ -399,6 +399,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/807202039415824386",
+      "name": " ",
+      "userId": "807202039415824386",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 138,
+      "winCount": 94,
+      "loseCount": 0,
+      "drawCount": 28,
+      "maxConsecutiveWinCount": 23
+    },
+    {
       "characterImage": "/images/285639560352178185",
       "name": "フレネミー",
       "userId": "285639560352178185",
@@ -433,18 +445,6 @@
       "loseCount": 95,
       "drawCount": 70,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/807202039415824386",
-      "name": " ",
-      "userId": "807202039415824386",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 130,
-      "winCount": 87,
-      "loseCount": 0,
-      "drawCount": 28,
-      "maxConsecutiveWinCount": 23
     },
     {
       "characterImage": "/images/532825330736398341",
@@ -568,7 +568,7 @@
     },
     {
       "characterImage": "/images/184185197172760576",
-      "name": "ぴぴ♡",
+      "name": "ぴぴ♡(本物)",
       "userId": "184185197172760576",
       "twitterId": "210_wa_",
       "tier": "マスター クラス5",
@@ -999,18 +999,6 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/550662564516651011",
-      "name": "rumiya05",
-      "userId": "550662564516651011",
-      "twitterId": "rumiya05_",
-      "tier": "マスター クラス5",
-      "points": 44,
-      "winCount": 133,
-      "loseCount": 118,
-      "drawCount": 41,
-      "maxConsecutiveWinCount": 7
-    },
-    {
       "characterImage": "/images/579945071015510028",
       "name": "おあんでん",
       "userId": "579945071015510028",
@@ -1081,6 +1069,18 @@
       "loseCount": 19,
       "drawCount": 19,
       "maxConsecutiveWinCount": 6
+    },
+    {
+      "characterImage": "/images/550662564516651011",
+      "name": "rumiya05",
+      "userId": "550662564516651011",
+      "twitterId": "rumiya05_",
+      "tier": "マスター クラス5",
+      "points": 38,
+      "winCount": 134,
+      "loseCount": 125,
+      "drawCount": 41,
+      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/294030286845030405",
