@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T00:04:32.512Z",
+  "updatedAt": "2026-10-23T00:44:52.191Z",
   "seasonId": 20,
   "players": [
     {
@@ -999,6 +999,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/806056137304670211",
+      "name": "セカイの住人",
+      "userId": "806056137304670211",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 42,
+      "winCount": 35,
+      "loseCount": 0,
+      "drawCount": 7,
+      "maxConsecutiveWinCount": 16
+    },
+    {
       "characterImage": "/images/5577230604546062",
       "name": "ハコイクク",
       "userId": "5577230604546062",
@@ -1153,18 +1165,6 @@
       "loseCount": 57,
       "drawCount": 26,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/806056137304670211",
-      "name": "セカイの住人",
-      "userId": "806056137304670211",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 32,
-      "winCount": 26,
-      "loseCount": 0,
-      "drawCount": 7,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/80924208191782912",
