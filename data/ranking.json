@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T07:15:10.264Z",
+  "updatedAt": "2026-10-23T07:55:49.304Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1746,
-      "winCount": 1229,
-      "loseCount": 248,
-      "drawCount": 521,
+      "points": 1753,
+      "winCount": 1235,
+      "loseCount": 251,
+      "drawCount": 525,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1220,
-      "winCount": 962,
-      "loseCount": 371,
-      "drawCount": 469,
+      "points": 1231,
+      "winCount": 970,
+      "loseCount": 373,
+      "drawCount": 472,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -68,9 +68,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 684,
-      "winCount": 810,
-      "loseCount": 582,
+      "points": 682,
+      "winCount": 814,
+      "loseCount": 589,
       "drawCount": 341,
       "maxConsecutiveWinCount": 11
     },
@@ -112,13 +112,13 @@
     },
     {
       "characterImage": null,
-      "name": "ピコ2500粒目標！",
+      "name": "ピコ遊ぶぞー",
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
       "points": 351,
-      "winCount": 515,
-      "loseCount": 420,
+      "winCount": 516,
+      "loseCount": 421,
       "drawCount": 215,
       "maxConsecutiveWinCount": 7
     },
@@ -260,8 +260,8 @@
       "userId": "457338724789698560",
       "twitterId": "teikyodai0000",
       "tier": "マスター クラス5",
-      "points": 190,
-      "winCount": 203,
+      "points": 195,
+      "winCount": 207,
       "loseCount": 97,
       "drawCount": 70,
       "maxConsecutiveWinCount": 9
@@ -364,7 +364,7 @@
     },
     {
       "characterImage": null,
-      "name": "腹痛で起きた",
+      "name": "オマーンの首都",
       "userId": "301112565824430082",
       "twitterId": "pber_ask",
       "tier": "マスター クラス5",
@@ -388,6 +388,18 @@
     },
     {
       "characterImage": null,
+      "name": "Onigiri",
+      "userId": "806056137304670211",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 131,
+      "winCount": 88,
+      "loseCount": 0,
+      "drawCount": 28,
+      "maxConsecutiveWinCount": 22
+    },
+    {
+      "characterImage": null,
       "name": "だすと",
       "userId": "532825330736398341",
       "twitterId": "dasutooo",
@@ -404,10 +416,10 @@
       "userId": "5192823763361798",
       "twitterId": "KOEDA_KINOKO",
       "tier": "マスター クラス5",
-      "points": 124,
-      "winCount": 142,
-      "loseCount": 81,
-      "drawCount": 65,
+      "points": 126,
+      "winCount": 148,
+      "loseCount": 86,
+      "drawCount": 66,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -433,18 +445,6 @@
       "loseCount": 44,
       "drawCount": 43,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": null,
-      "name": "Onigiri",
-      "userId": "806056137304670211",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 120,
-      "winCount": 81,
-      "loseCount": 0,
-      "drawCount": 26,
-      "maxConsecutiveWinCount": 22
     },
     {
       "characterImage": null,
