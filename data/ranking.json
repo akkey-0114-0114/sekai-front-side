@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:54:52.755Z",
+  "updatedAt": "2026-10-23T23:24:58.685Z",
   "seasonId": 20,
   "players": [
     {
@@ -140,9 +140,9 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 352,
+      "points": 351,
       "winCount": 516,
-      "loseCount": 421,
+      "loseCount": 422,
       "drawCount": 216,
       "maxConsecutiveWinCount": 7
     },
@@ -340,14 +340,14 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "多機能電子レンジ",
+      "name": "人間と当たりたい",
       "userId": "301112565824430082",
       "twitterId": "pber_ask",
       "tier": "マスター クラス5",
-      "points": 160,
+      "points": 159,
       "winCount": 248,
-      "loseCount": 211,
-      "drawCount": 107,
+      "loseCount": 213,
+      "drawCount": 108,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -361,6 +361,18 @@
       "loseCount": 106,
       "drawCount": 69,
       "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/807202039415824386",
+      "name": " ",
+      "userId": "807202039415824386",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 148,
+      "winCount": 102,
+      "loseCount": 0,
+      "drawCount": 28,
+      "maxConsecutiveWinCount": 29
     },
     {
       "characterImage": "/images/590810665171611661",
@@ -397,18 +409,6 @@
       "loseCount": 43,
       "drawCount": 53,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/807202039415824386",
-      "name": " ",
-      "userId": "807202039415824386",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 138,
-      "winCount": 94,
-      "loseCount": 0,
-      "drawCount": 28,
-      "maxConsecutiveWinCount": 23
     },
     {
       "characterImage": "/images/285639560352178185",
@@ -1076,10 +1076,10 @@
       "userId": "550662564516651011",
       "twitterId": "rumiya05_",
       "tier": "マスター クラス5",
-      "points": 38,
-      "winCount": 134,
-      "loseCount": 125,
-      "drawCount": 41,
+      "points": 39,
+      "winCount": 137,
+      "loseCount": 128,
+      "drawCount": 42,
       "maxConsecutiveWinCount": 7
     },
     {
