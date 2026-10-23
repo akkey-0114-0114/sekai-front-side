@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T01:25:12.811Z",
+  "updatedAt": "2026-10-23T01:55:28.219Z",
   "seasonId": 20,
   "players": [
     {
@@ -94,8 +94,8 @@
       "tier": "マスター クラス5",
       "points": 536,
       "winCount": 379,
-      "loseCount": 113,
-      "drawCount": 194,
+      "loseCount": 114,
+      "drawCount": 195,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -315,18 +315,6 @@
       "maxConsecutiveWinCount": 12
     },
     {
-      "characterImage": "/images/28746192208850952",
-      "name": "あいは..❖",
-      "userId": "28746192208850952",
-      "twitterId": "Loveleaf0622",
-      "tier": "マスター クラス5",
-      "points": 153,
-      "winCount": 152,
-      "loseCount": 82,
-      "drawCount": 71,
-      "maxConsecutiveWinCount": 8
-    },
-    {
       "characterImage": "/images/201098380143054854",
       "name": "下埋め",
       "userId": "201098380143054854",
@@ -336,6 +324,18 @@
       "winCount": 160,
       "loseCount": 106,
       "drawCount": 69,
+      "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/28746192208850952",
+      "name": "あいは..❖",
+      "userId": "28746192208850952",
+      "twitterId": "Loveleaf0622",
+      "tier": "マスター クラス5",
+      "points": 152,
+      "winCount": 152,
+      "loseCount": 83,
+      "drawCount": 71,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -783,6 +783,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/806056137304670211",
+      "name": "セカイの住人",
+      "userId": "806056137304670211",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 60,
+      "winCount": 46,
+      "loseCount": 0,
+      "drawCount": 11,
+      "maxConsecutiveWinCount": 16
+    },
+    {
       "characterImage": "/images/150921978743693322",
       "name": "バ○通信の陰謀の部分",
       "userId": "150921978743693322",
@@ -865,18 +877,6 @@
       "loseCount": 124,
       "drawCount": 49,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/806056137304670211",
-      "name": "セカイの住人",
-      "userId": "806056137304670211",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 54,
-      "winCount": 43,
-      "loseCount": 0,
-      "drawCount": 9,
-      "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": null,
@@ -1004,9 +1004,9 @@
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
       "tier": "マスター クラス5",
-      "points": 44,
+      "points": 42,
       "winCount": 215,
-      "loseCount": 245,
+      "loseCount": 246,
       "drawCount": 80,
       "maxConsecutiveWinCount": 8
     },
