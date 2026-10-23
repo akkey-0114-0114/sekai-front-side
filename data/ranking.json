@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T01:55:28.219Z",
+  "updatedAt": "2026-10-23T02:25:43.999Z",
   "seasonId": 20,
   "players": [
     {
@@ -92,10 +92,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 536,
-      "winCount": 379,
+      "points": 538,
+      "winCount": 381,
       "loseCount": 114,
-      "drawCount": 195,
+      "drawCount": 196,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -759,6 +759,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/806056137304670211",
+      "name": "セカイの住人",
+      "userId": "806056137304670211",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 65,
+      "winCount": 49,
+      "loseCount": 0,
+      "drawCount": 12,
+      "maxConsecutiveWinCount": 16
+    },
+    {
       "characterImage": "/images/87767420961353737",
       "name": "フルコンします",
       "userId": "87767420961353737",
@@ -781,18 +793,6 @@
       "loseCount": 102,
       "drawCount": 47,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/806056137304670211",
-      "name": "セカイの住人",
-      "userId": "806056137304670211",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 60,
-      "winCount": 46,
-      "loseCount": 0,
-      "drawCount": 11,
-      "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": "/images/150921978743693322",
