@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T05:07:13.137Z",
+  "updatedAt": "2026-10-23T05:47:35.526Z",
   "seasonId": 20,
   "players": [
     {
@@ -460,7 +460,7 @@
     },
     {
       "characterImage": null,
-      "name": "Its Me",
+      "name": "僕の影に凭れ霞んでく",
       "userId": "170111531962687499",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -568,6 +568,18 @@
     },
     {
       "characterImage": null,
+      "name": "Onigiri",
+      "userId": "806056137304670211",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 99,
+      "winCount": 68,
+      "loseCount": 0,
+      "drawCount": 21,
+      "maxConsecutiveWinCount": 16
+    },
+    {
+      "characterImage": null,
       "name": "チーズバーガーハン",
       "userId": "156246250497101836",
       "twitterId": "2026_475",
@@ -649,18 +661,6 @@
       "loseCount": 54,
       "drawCount": 32,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": null,
-      "name": "Onigiri",
-      "userId": "806056137304670211",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 83,
-      "winCount": 55,
-      "loseCount": 0,
-      "drawCount": 21,
-      "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": null,
@@ -1000,18 +1000,6 @@
     },
     {
       "characterImage": null,
-      "name": "いつか夢見た舞台へ",
-      "userId": "59286211860443151",
-      "twitterId": "maid_10oclock",
-      "tier": "マスター クラス5",
-      "points": 42,
-      "winCount": 215,
-      "loseCount": 246,
-      "drawCount": 80,
-      "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": null,
       "name": "ハコイクク",
       "userId": "5577230604546062",
       "twitterId": "haribote85199",
@@ -1045,6 +1033,18 @@
       "loseCount": 59,
       "drawCount": 36,
       "maxConsecutiveWinCount": 5
+    },
+    {
+      "characterImage": null,
+      "name": "いつか夢見た舞台へ",
+      "userId": "59286211860443151",
+      "twitterId": "maid_10oclock",
+      "tier": "マスター クラス5",
+      "points": 41,
+      "winCount": 215,
+      "loseCount": 247,
+      "drawCount": 80,
+      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": null,
