@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T04:47:02.918Z",
+  "updatedAt": "2026-10-23T05:07:13.137Z",
   "seasonId": 20,
   "players": [
     {
@@ -92,10 +92,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 562,
+      "points": 564,
       "winCount": 397,
-      "loseCount": 115,
-      "drawCount": 204,
+      "loseCount": 116,
+      "drawCount": 206,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -652,6 +652,18 @@
     },
     {
       "characterImage": null,
+      "name": "Onigiri",
+      "userId": "806056137304670211",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 83,
+      "winCount": 55,
+      "loseCount": 0,
+      "drawCount": 21,
+      "maxConsecutiveWinCount": 16
+    },
+    {
+      "characterImage": null,
       "name": "村人",
       "userId": "208077752997638150",
       "twitterId": "",
@@ -709,18 +721,6 @@
       "loseCount": 144,
       "drawCount": 60,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": null,
-      "name": "Onigiri",
-      "userId": "806056137304670211",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 76,
-      "winCount": 51,
-      "loseCount": 0,
-      "drawCount": 19,
-      "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": null,
