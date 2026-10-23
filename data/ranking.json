@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T00:44:52.191Z",
+  "updatedAt": "2026-10-23T01:25:12.811Z",
   "seasonId": 20,
   "players": [
     {
@@ -867,6 +867,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/806056137304670211",
+      "name": "セカイの住人",
+      "userId": "806056137304670211",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 54,
+      "winCount": 43,
+      "loseCount": 0,
+      "drawCount": 9,
+      "maxConsecutiveWinCount": 16
+    },
+    {
       "characterImage": null,
       "name": "あうぇる",
       "userId": "249530031214424064",
@@ -992,23 +1004,11 @@
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
       "tier": "マスター クラス5",
-      "points": 43,
+      "points": 44,
       "winCount": 215,
-      "loseCount": 244,
-      "drawCount": 79,
+      "loseCount": 245,
+      "drawCount": 80,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/806056137304670211",
-      "name": "セカイの住人",
-      "userId": "806056137304670211",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 42,
-      "winCount": 35,
-      "loseCount": 0,
-      "drawCount": 7,
-      "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": "/images/5577230604546062",
