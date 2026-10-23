@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T06:17:50.477Z",
+  "updatedAt": "2026-10-23T07:15:10.264Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1738,
-      "winCount": 1226,
-      "loseCount": 247,
-      "drawCount": 517,
+      "points": 1746,
+      "winCount": 1229,
+      "loseCount": 248,
+      "drawCount": 521,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1210,
-      "winCount": 958,
-      "loseCount": 369,
-      "drawCount": 463,
+      "points": 1220,
+      "winCount": 962,
+      "loseCount": 371,
+      "drawCount": 469,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -68,9 +68,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 680,
-      "winCount": 803,
-      "loseCount": 579,
+      "points": 684,
+      "winCount": 810,
+      "loseCount": 582,
       "drawCount": 341,
       "maxConsecutiveWinCount": 11
     },
@@ -80,8 +80,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 566,
-      "winCount": 397,
+      "points": 569,
+      "winCount": 399,
       "loseCount": 117,
       "drawCount": 209,
       "maxConsecutiveWinCount": 17
@@ -404,10 +404,10 @@
       "userId": "5192823763361798",
       "twitterId": "KOEDA_KINOKO",
       "tier": "マスター クラス5",
-      "points": 123,
-      "winCount": 139,
-      "loseCount": 79,
-      "drawCount": 64,
+      "points": 124,
+      "winCount": 142,
+      "loseCount": 81,
+      "drawCount": 65,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -433,6 +433,18 @@
       "loseCount": 44,
       "drawCount": 43,
       "maxConsecutiveWinCount": 6
+    },
+    {
+      "characterImage": null,
+      "name": "Onigiri",
+      "userId": "806056137304670211",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 120,
+      "winCount": 81,
+      "loseCount": 0,
+      "drawCount": 26,
+      "maxConsecutiveWinCount": 22
     },
     {
       "characterImage": null,
@@ -505,18 +517,6 @@
       "loseCount": 66,
       "drawCount": 47,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": null,
-      "name": "Onigiri",
-      "userId": "806056137304670211",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 110,
-      "winCount": 77,
-      "loseCount": 0,
-      "drawCount": 21,
-      "maxConsecutiveWinCount": 22
     },
     {
       "characterImage": null,
