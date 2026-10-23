@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T10:07:15.637Z",
+  "updatedAt": "2026-10-23T10:47:23.791Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1777,
-      "winCount": 1252,
+      "points": 1787,
+      "winCount": 1259,
       "loseCount": 256,
-      "drawCount": 533,
+      "drawCount": 534,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -44,9 +44,9 @@
       "userId": "132831494322683918",
       "twitterId": "sngporu",
       "tier": "マスター クラス5",
-      "points": 771,
+      "points": 770,
       "winCount": 566,
-      "loseCount": 141,
+      "loseCount": 142,
       "drawCount": 251,
       "maxConsecutiveWinCount": 13
     },
@@ -152,10 +152,10 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 307,
-      "winCount": 235,
-      "loseCount": 69,
-      "drawCount": 113,
+      "points": 320,
+      "winCount": 244,
+      "loseCount": 70,
+      "drawCount": 116,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -284,10 +284,10 @@
       "userId": "192937409625243655",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 180,
-      "winCount": 170,
-      "loseCount": 79,
-      "drawCount": 73,
+      "points": 181,
+      "winCount": 172,
+      "loseCount": 82,
+      "drawCount": 74,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -308,10 +308,10 @@
       "userId": "806056137304670211",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 164,
-      "winCount": 107,
+      "points": 178,
+      "winCount": 118,
       "loseCount": 0,
-      "drawCount": 36,
+      "drawCount": 37,
       "maxConsecutiveWinCount": 22
     },
     {
@@ -430,8 +430,8 @@
       "tier": "マスター クラス5",
       "points": 124,
       "winCount": 142,
-      "loseCount": 89,
-      "drawCount": 63,
+      "loseCount": 91,
+      "drawCount": 65,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -453,9 +453,9 @@
       "twitterId": "Niwaaa_tori",
       "tier": "マスター クラス5",
       "points": 122,
-      "winCount": 120,
-      "loseCount": 44,
-      "drawCount": 43,
+      "winCount": 121,
+      "loseCount": 46,
+      "drawCount": 44,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -480,6 +480,18 @@
       "winCount": 88,
       "loseCount": 40,
       "drawCount": 57,
+      "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": "/images/304143941762568205",
+      "name": "りきティー",
+      "userId": "304143941762568205",
+      "twitterId": "Riki220225",
+      "tier": "マスター クラス5",
+      "points": 113,
+      "winCount": 111,
+      "loseCount": 47,
+      "drawCount": 46,
       "maxConsecutiveWinCount": 7
     },
     {
@@ -529,18 +541,6 @@
       "loseCount": 171,
       "drawCount": 77,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/304143941762568205",
-      "name": "りきティー",
-      "userId": "304143941762568205",
-      "twitterId": "Riki220225",
-      "tier": "マスター クラス5",
-      "points": 109,
-      "winCount": 106,
-      "loseCount": 45,
-      "drawCount": 45,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/9155210933485573",
@@ -716,9 +716,9 @@
       "userId": "308495680779231245",
       "twitterId": "9vS2ZZWPXl33900",
       "tier": "マスター クラス5",
-      "points": 76,
-      "winCount": 151,
-      "loseCount": 144,
+      "points": 75,
+      "winCount": 152,
+      "loseCount": 145,
       "drawCount": 60,
       "maxConsecutiveWinCount": 6
     },
@@ -915,6 +915,18 @@
       "maxConsecutiveWinCount": 5
     },
     {
+      "characterImage": "/images/550662564516651011",
+      "name": "rumiya05",
+      "userId": "550662564516651011",
+      "twitterId": "rumiya05_",
+      "tier": "マスター クラス5",
+      "points": 50,
+      "winCount": 60,
+      "loseCount": 20,
+      "drawCount": 27,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/5242530551664648",
       "name": "ハラショー",
       "userId": "5242530551664648",
@@ -937,18 +949,6 @@
       "loseCount": 22,
       "drawCount": 20,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/550662564516651011",
-      "name": "rumiya05",
-      "userId": "550662564516651011",
-      "twitterId": "rumiya05_",
-      "tier": "マスター クラス5",
-      "points": 48,
-      "winCount": 53,
-      "loseCount": 14,
-      "drawCount": 27,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/239757103719305216",
@@ -1089,9 +1089,9 @@
       "twitterId": "rumiya05_",
       "tier": "マスター クラス5",
       "points": 36,
-      "winCount": 49,
-      "loseCount": 15,
-      "drawCount": 26,
+      "winCount": 53,
+      "loseCount": 21,
+      "drawCount": 27,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -1120,7 +1120,7 @@
     },
     {
       "characterImage": "/images/426295403618516992",
-      "name": "怪獣愛してる",
+      "name": "そうさきフレンド募集",
       "userId": "426295403618516992",
       "twitterId": "sousaki_prsk",
       "tier": "マスター クラス5",
@@ -1167,6 +1167,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/285588746132697096",
+      "name": "ペガーナ",
+      "userId": "285588746132697096",
+      "twitterId": "lyfelix23",
+      "tier": "マスター クラス5",
+      "points": 32,
+      "winCount": 40,
+      "loseCount": 13,
+      "drawCount": 13,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/80924208191782912",
       "name": "Ast*star",
       "userId": "80924208191782912",
@@ -1189,18 +1201,6 @@
       "loseCount": 184,
       "drawCount": 74,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/66856142936215562",
-      "name": "もちゃり",
-      "userId": "66856142936215562",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 31,
-      "winCount": 55,
-      "loseCount": 34,
-      "drawCount": 18,
-      "maxConsecutiveWinCount": 7
     }
   ]
 }
