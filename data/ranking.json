@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T09:49:03.020Z",
+  "updatedAt": "2026-10-24T10:09:07.055Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1956,
-      "winCount": 1373,
-      "loseCount": 291,
-      "drawCount": 601,
+      "points": 1962,
+      "winCount": 1377,
+      "loseCount": 292,
+      "drawCount": 603,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1338,
-      "winCount": 1059,
+      "points": 1345,
+      "winCount": 1063,
       "loseCount": 414,
-      "drawCount": 512,
+      "drawCount": 514,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -40,13 +40,13 @@
     },
     {
       "characterImage": "/images/132831494322683918",
-      "name": ".",
+      "name": "はぁ",
       "userId": "132831494322683918",
       "twitterId": "sngporu",
       "tier": "マスター クラス5",
       "points": 794,
-      "winCount": 585,
-      "loseCount": 144,
+      "winCount": 586,
+      "loseCount": 145,
       "drawCount": 256,
       "maxConsecutiveWinCount": 13
     },
@@ -104,10 +104,10 @@
       "userId": "806056137304670211",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 414,
-      "winCount": 258,
+      "points": 419,
+      "winCount": 259,
       "loseCount": 0,
-      "drawCount": 94,
+      "drawCount": 97,
       "maxConsecutiveWinCount": 22
     },
     {
@@ -188,10 +188,10 @@
       "userId": "807202039415824386",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 321,
-      "winCount": 191,
+      "points": 327,
+      "winCount": 195,
       "loseCount": 0,
-      "drawCount": 83,
+      "drawCount": 84,
       "maxConsecutiveWinCount": 31
     },
     {
@@ -308,10 +308,10 @@
       "userId": "170427380858368014",
       "twitterId": "kirikiri0907",
       "tier": "マスター クラス5",
-      "points": 187,
-      "winCount": 308,
-      "loseCount": 205,
-      "drawCount": 74,
+      "points": 190,
+      "winCount": 310,
+      "loseCount": 207,
+      "drawCount": 76,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -332,8 +332,8 @@
       "userId": "301112565824430082",
       "twitterId": "pber_ask",
       "tier": "マスター クラス5",
-      "points": 180,
-      "winCount": 282,
+      "points": 182,
+      "winCount": 284,
       "loseCount": 240,
       "drawCount": 118,
       "maxConsecutiveWinCount": 8
@@ -580,7 +580,7 @@
     },
     {
       "characterImage": "/images/184185197172760576",
-      "name": "ぴぴ♡(本物)",
+      "name": "ぴぴ♡",
       "userId": "184185197172760576",
       "twitterId": "210_wa_",
       "tier": "マスター クラス5",
@@ -639,6 +639,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/208077752997638150",
+      "name": "村人",
+      "userId": "208077752997638150",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 92,
+      "winCount": 91,
+      "loseCount": 35,
+      "drawCount": 29,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/142584032610131980",
       "name": "りょくせき",
       "userId": "142584032610131980",
@@ -649,18 +661,6 @@
       "loseCount": 56,
       "drawCount": 22,
       "maxConsecutiveWinCount": 15
-    },
-    {
-      "characterImage": "/images/208077752997638150",
-      "name": "村人",
-      "userId": "208077752997638150",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 90,
-      "winCount": 90,
-      "loseCount": 35,
-      "drawCount": 27,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/313622802980560898",
@@ -908,9 +908,9 @@
       "userId": "5242530551664648",
       "twitterId": "harasho_g",
       "tier": "マスター クラス5",
-      "points": 54,
-      "winCount": 65,
-      "loseCount": 30,
+      "points": 52,
+      "winCount": 67,
+      "loseCount": 34,
       "drawCount": 22,
       "maxConsecutiveWinCount": 7
     },
