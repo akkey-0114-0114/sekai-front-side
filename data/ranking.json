@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T04:56:17.546Z",
+  "updatedAt": "2026-10-24T05:26:39.996Z",
   "seasonId": 20,
   "players": [
     {
@@ -27,6 +27,18 @@
       "maxConsecutiveWinCount": 15
     },
     {
+      "characterImage": "/images/182063036832174093",
+      "name": "ゆー@ようつべ",
+      "userId": "182063036832174093",
+      "twitterId": "yuuyuu_28",
+      "tier": "マスター クラス5",
+      "points": 792,
+      "winCount": 676,
+      "loseCount": 310,
+      "drawCount": 319,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/132831494322683918",
       "name": "ぽるる",
       "userId": "132831494322683918",
@@ -37,18 +49,6 @@
       "loseCount": 143,
       "drawCount": 254,
       "maxConsecutiveWinCount": 13
-    },
-    {
-      "characterImage": "/images/182063036832174093",
-      "name": "ゆー@ようつべ",
-      "userId": "182063036832174093",
-      "twitterId": "yuuyuu_28",
-      "tier": "マスター クラス5",
-      "points": 784,
-      "winCount": 669,
-      "loseCount": 309,
-      "drawCount": 318,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/175168648301985796",
@@ -80,10 +80,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 627,
-      "winCount": 434,
+      "points": 630,
+      "winCount": 435,
       "loseCount": 124,
-      "drawCount": 230,
+      "drawCount": 231,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -243,28 +243,28 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/323383674971267073",
-      "name": "伊達叶絵",
-      "userId": "323383674971267073",
-      "twitterId": "morrrrrrrr_8",
-      "tier": "マスター クラス5",
-      "points": 243,
-      "winCount": 285,
-      "loseCount": 159,
-      "drawCount": 95,
-      "maxConsecutiveWinCount": 6
-    },
-    {
       "characterImage": "/images/807202039415824386",
       "name": " ",
       "userId": "807202039415824386",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 243,
-      "winCount": 154,
+      "points": 248,
+      "winCount": 156,
       "loseCount": 0,
-      "drawCount": 55,
+      "drawCount": 57,
       "maxConsecutiveWinCount": 31
+    },
+    {
+      "characterImage": "/images/323383674971267073",
+      "name": "伊達叶絵",
+      "userId": "323383674971267073",
+      "twitterId": "morrrrrrrr_8",
+      "tier": "マスター クラス5",
+      "points": 248,
+      "winCount": 291,
+      "loseCount": 160,
+      "drawCount": 95,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/5173610738434060",
@@ -291,7 +291,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/192937409625243655",
       "name": "I can fly",
       "userId": "192937409625243655",
       "twitterId": "",
@@ -328,13 +328,13 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "全自動食洗機",
+      "name": "全自動卵割り機",
       "userId": "301112565824430082",
       "twitterId": "pber_ask",
       "tier": "マスター クラス5",
-      "points": 168,
-      "winCount": 262,
-      "loseCount": 224,
+      "points": 171,
+      "winCount": 266,
+      "loseCount": 226,
       "drawCount": 113,
       "maxConsecutiveWinCount": 8
     },
