@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T18:52:16.668Z",
+  "updatedAt": "2026-10-24T19:12:20.588Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,9 +8,9 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2014,
-      "winCount": 1408,
-      "loseCount": 300,
+      "points": 2018,
+      "winCount": 1412,
+      "loseCount": 301,
       "drawCount": 623,
       "maxConsecutiveWinCount": 17
     },
@@ -56,9 +56,9 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 772,
-      "winCount": 657,
-      "loseCount": 243,
+      "points": 773,
+      "winCount": 659,
+      "loseCount": 244,
       "drawCount": 274,
       "maxConsecutiveWinCount": 11
     },
@@ -80,10 +80,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 687,
-      "winCount": 469,
+      "points": 693,
+      "winCount": 473,
       "loseCount": 126,
-      "drawCount": 248,
+      "drawCount": 249,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -92,8 +92,8 @@
       "userId": "806056137304670211",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 588,
-      "winCount": 354,
+      "points": 590,
+      "winCount": 355,
       "loseCount": 0,
       "drawCount": 143,
       "maxConsecutiveWinCount": 22
@@ -116,10 +116,10 @@
       "userId": "807202039415824386",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 483,
-      "winCount": 276,
+      "points": 489,
+      "winCount": 278,
       "loseCount": 0,
-      "drawCount": 133,
+      "drawCount": 136,
       "maxConsecutiveWinCount": 31
     },
     {
@@ -272,10 +272,10 @@
       "userId": "5173610738434060",
       "twitterId": "Ru_k0t0",
       "tier": "マスター クラス5",
-      "points": 246,
-      "winCount": 280,
-      "loseCount": 180,
-      "drawCount": 119,
+      "points": 248,
+      "winCount": 281,
+      "loseCount": 181,
+      "drawCount": 121,
       "maxConsecutiveWinCount": 6
     },
     {
