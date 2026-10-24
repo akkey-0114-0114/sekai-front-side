@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T04:25:58.687Z",
+  "updatedAt": "2026-10-24T04:56:17.546Z",
   "seasonId": 20,
   "players": [
     {
@@ -44,8 +44,8 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 783,
-      "winCount": 668,
+      "points": 784,
+      "winCount": 669,
       "loseCount": 309,
       "drawCount": 318,
       "maxConsecutiveWinCount": 9
@@ -80,10 +80,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 621,
-      "winCount": 429,
-      "loseCount": 123,
-      "drawCount": 229,
+      "points": 627,
+      "winCount": 434,
+      "loseCount": 124,
+      "drawCount": 230,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -255,6 +255,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/807202039415824386",
+      "name": " ",
+      "userId": "807202039415824386",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 243,
+      "winCount": 154,
+      "loseCount": 0,
+      "drawCount": 55,
+      "maxConsecutiveWinCount": 31
+    },
+    {
       "characterImage": "/images/5173610738434060",
       "name": "馬力強い馬",
       "userId": "5173610738434060",
@@ -265,18 +277,6 @@
       "loseCount": 175,
       "drawCount": 114,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/807202039415824386",
-      "name": " ",
-      "userId": "807202039415824386",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 236,
-      "winCount": 148,
-      "loseCount": 0,
-      "drawCount": 55,
-      "maxConsecutiveWinCount": 31
     },
     {
       "characterImage": "/images/457338724789698560",
@@ -291,8 +291,8 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/192937409625243655",
-      "name": "もやし半額デー",
+      "characterImage": null,
+      "name": "I can fly",
       "userId": "192937409625243655",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -327,6 +327,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/301112565824430082",
+      "name": "全自動食洗機",
+      "userId": "301112565824430082",
+      "twitterId": "pber_ask",
+      "tier": "マスター クラス5",
+      "points": 168,
+      "winCount": 262,
+      "loseCount": 224,
+      "drawCount": 113,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/28746192208850952",
       "name": "あいは..❖",
       "userId": "28746192208850952",
@@ -336,18 +348,6 @@
       "winCount": 162,
       "loseCount": 85,
       "drawCount": 74,
-      "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/301112565824430082",
-      "name": "早くBANしろや",
-      "userId": "301112565824430082",
-      "twitterId": "pber_ask",
-      "tier": "マスター クラス5",
-      "points": 165,
-      "winCount": 259,
-      "loseCount": 224,
-      "drawCount": 113,
       "maxConsecutiveWinCount": 8
     },
     {
