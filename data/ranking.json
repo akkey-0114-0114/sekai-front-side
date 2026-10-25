@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T16:32:38.870Z",
+  "updatedAt": "2026-10-25T17:02:44.327Z",
   "seasonId": 20,
   "players": [
     {
@@ -51,6 +51,18 @@
       "maxConsecutiveWinCount": 22
     },
     {
+      "characterImage": "/images/807202039415824386",
+      "name": " ",
+      "userId": "807202039415824386",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 831,
+      "winCount": 446,
+      "loseCount": 0,
+      "drawCount": 253,
+      "maxConsecutiveWinCount": 31
+    },
+    {
       "characterImage": "/images/175168648301985796",
       "name": "れいらちゃん♡",
       "userId": "175168648301985796",
@@ -61,18 +73,6 @@
       "loseCount": 254,
       "drawCount": 285,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/807202039415824386",
-      "name": " ",
-      "userId": "807202039415824386",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 822,
-      "winCount": 441,
-      "loseCount": 0,
-      "drawCount": 251,
-      "maxConsecutiveWinCount": 31
     },
     {
       "characterImage": "/images/182063036832174093",
@@ -92,9 +92,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 767,
-      "winCount": 937,
-      "loseCount": 686,
+      "points": 770,
+      "winCount": 941,
+      "loseCount": 687,
       "drawCount": 385,
       "maxConsecutiveWinCount": 11
     },
@@ -243,6 +243,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/5173610738434060",
+      "name": "馬力強い馬",
+      "userId": "5173610738434060",
+      "twitterId": "Ru_k0t0",
+      "tier": "マスター クラス5",
+      "points": 263,
+      "winCount": 296,
+      "loseCount": 189,
+      "drawCount": 126,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/5144945912909827",
       "name": "ルンパッパ",
       "userId": "5144945912909827",
@@ -253,18 +265,6 @@
       "loseCount": 158,
       "drawCount": 116,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/5173610738434060",
-      "name": "馬力強い馬",
-      "userId": "5173610738434060",
-      "twitterId": "Ru_k0t0",
-      "tier": "マスター クラス5",
-      "points": 258,
-      "winCount": 292,
-      "loseCount": 188,
-      "drawCount": 125,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/37698146989649926",
