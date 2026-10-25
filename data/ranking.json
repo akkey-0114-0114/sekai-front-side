@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T09:56:57.574Z",
+  "updatedAt": "2026-10-25T10:27:03.474Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1438,
-      "winCount": 1136,
+      "points": 1449,
+      "winCount": 1142,
       "loseCount": 439,
-      "drawCount": 546,
+      "drawCount": 549,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -80,10 +80,10 @@
       "userId": "807202039415824386",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 771,
-      "winCount": 409,
+      "points": 777,
+      "winCount": 412,
       "loseCount": 0,
-      "drawCount": 240,
+      "drawCount": 242,
       "maxConsecutiveWinCount": 31
     },
     {
@@ -116,10 +116,10 @@
       "userId": "533558892414337026",
       "twitterId": "qskp9",
       "tier": "マスター クラス5",
-      "points": 575,
-      "winCount": 490,
+      "points": 578,
+      "winCount": 492,
       "loseCount": 186,
-      "drawCount": 188,
+      "drawCount": 189,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -176,9 +176,9 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 354,
+      "points": 353,
       "winCount": 523,
-      "loseCount": 429,
+      "loseCount": 430,
       "drawCount": 218,
       "maxConsecutiveWinCount": 7
     },
@@ -255,6 +255,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/5173610738434060",
+      "name": "馬力強い馬",
+      "userId": "5173610738434060",
+      "twitterId": "Ru_k0t0",
+      "tier": "マスター クラス5",
+      "points": 250,
+      "winCount": 285,
+      "loseCount": 186,
+      "drawCount": 123,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/37698146989649926",
       "name": "y",
       "userId": "37698146989649926",
@@ -265,18 +277,6 @@
       "loseCount": 95,
       "drawCount": 97,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/5173610738434060",
-      "name": "馬力強い馬",
-      "userId": "5173610738434060",
-      "twitterId": "Ru_k0t0",
-      "tier": "マスター クラス5",
-      "points": 249,
-      "winCount": 284,
-      "loseCount": 186,
-      "drawCount": 123,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/301112565824430082",
@@ -320,10 +320,10 @@
       "userId": "170427380858368014",
       "twitterId": "kirikiri0907",
       "tier": "マスター クラス5",
-      "points": 194,
-      "winCount": 323,
-      "loseCount": 217,
-      "drawCount": 76,
+      "points": 199,
+      "winCount": 328,
+      "loseCount": 219,
+      "drawCount": 77,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -611,7 +611,7 @@
       "points": 101,
       "winCount": 182,
       "loseCount": 159,
-      "drawCount": 74,
+      "drawCount": 75,
       "maxConsecutiveWinCount": 5
     },
     {
@@ -675,6 +675,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/308495680779231245",
+      "name": "阿修羅",
+      "userId": "308495680779231245",
+      "twitterId": "9vS2ZZWPXl33900",
+      "tier": "マスター クラス5",
+      "points": 93,
+      "winCount": 177,
+      "loseCount": 161,
+      "drawCount": 65,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/142584032610131980",
       "name": "りょくせき",
       "userId": "142584032610131980",
@@ -697,18 +709,6 @@
       "loseCount": 161,
       "drawCount": 76,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/308495680779231245",
-      "name": "阿修羅",
-      "userId": "308495680779231245",
-      "twitterId": "9vS2ZZWPXl33900",
-      "tier": "マスター クラス5",
-      "points": 89,
-      "winCount": 171,
-      "loseCount": 159,
-      "drawCount": 65,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/313622802980560898",
