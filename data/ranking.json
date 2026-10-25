@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T15:31:55.075Z",
+  "updatedAt": "2026-10-25T16:02:17.396Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2166,
-      "winCount": 1519,
+      "points": 2171,
+      "winCount": 1522,
       "loseCount": 329,
-      "drawCount": 670,
+      "drawCount": 671,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -56,8 +56,8 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 822,
-      "winCount": 701,
+      "points": 823,
+      "winCount": 702,
       "loseCount": 254,
       "drawCount": 285,
       "maxConsecutiveWinCount": 11
@@ -68,10 +68,10 @@
       "userId": "807202039415824386",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 812,
-      "winCount": 435,
+      "points": 816,
+      "winCount": 437,
       "loseCount": 0,
-      "drawCount": 248,
+      "drawCount": 250,
       "maxConsecutiveWinCount": 31
     },
     {
@@ -260,10 +260,10 @@
       "userId": "5173610738434060",
       "twitterId": "Ru_k0t0",
       "tier": "マスター クラス5",
-      "points": 255,
-      "winCount": 289,
-      "loseCount": 187,
-      "drawCount": 124,
+      "points": 258,
+      "winCount": 292,
+      "loseCount": 188,
+      "drawCount": 125,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -1028,9 +1028,9 @@
       "userId": "5577230604546062",
       "twitterId": "haribote85199",
       "tier": "マスター クラス5",
-      "points": 41,
-      "winCount": 35,
-      "loseCount": 11,
+      "points": 42,
+      "winCount": 37,
+      "loseCount": 12,
       "drawCount": 18,
       "maxConsecutiveWinCount": 5
     },
