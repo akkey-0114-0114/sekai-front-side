@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:53:56.710Z",
+  "updatedAt": "2026-10-25T22:14:00.291Z",
   "seasonId": 20,
   "players": [
     {
@@ -22,8 +22,8 @@
       "tier": "マスター クラス5",
       "points": 1471,
       "winCount": 1160,
-      "loseCount": 452,
-      "drawCount": 561,
+      "loseCount": 454,
+      "drawCount": 563,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -32,10 +32,10 @@
       "userId": "807202039415824386",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 894,
+      "points": 900,
       "winCount": 478,
       "loseCount": 0,
-      "drawCount": 274,
+      "drawCount": 279,
       "maxConsecutiveWinCount": 31
     },
     {
@@ -56,10 +56,10 @@
       "userId": "806056137304670211",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 851,
-      "winCount": 479,
+      "points": 860,
+      "winCount": 480,
       "loseCount": 0,
-      "drawCount": 237,
+      "drawCount": 243,
       "maxConsecutiveWinCount": 22
     },
     {
@@ -104,10 +104,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 765,
-      "winCount": 522,
+      "points": 770,
+      "winCount": 523,
       "loseCount": 149,
-      "drawCount": 281,
+      "drawCount": 284,
       "maxConsecutiveWinCount": 17
     },
     {
