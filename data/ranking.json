@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T14:30:49.859Z",
+  "updatedAt": "2026-10-25T15:01:17.586Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2147,
-      "winCount": 1506,
+      "points": 2157,
+      "winCount": 1513,
       "loseCount": 329,
-      "drawCount": 666,
+      "drawCount": 668,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -56,11 +56,23 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 809,
-      "winCount": 690,
-      "loseCount": 252,
-      "drawCount": 283,
+      "points": 814,
+      "winCount": 695,
+      "loseCount": 254,
+      "drawCount": 284,
       "maxConsecutiveWinCount": 11
+    },
+    {
+      "characterImage": "/images/807202039415824386",
+      "name": " ",
+      "userId": "807202039415824386",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 804,
+      "winCount": 432,
+      "loseCount": 0,
+      "drawCount": 245,
+      "maxConsecutiveWinCount": 31
     },
     {
       "characterImage": "/images/182063036832174093",
@@ -75,26 +87,14 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/807202039415824386",
-      "name": " ",
-      "userId": "807202039415824386",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 798,
-      "winCount": 429,
-      "loseCount": 0,
-      "drawCount": 243,
-      "maxConsecutiveWinCount": 31
-    },
-    {
       "characterImage": "/images/243323553462300684",
       "name": "りんさんずYT配信中",
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 761,
-      "winCount": 927,
-      "loseCount": 680,
+      "points": 760,
+      "winCount": 931,
+      "loseCount": 685,
       "drawCount": 384,
       "maxConsecutiveWinCount": 11
     },
@@ -596,9 +596,9 @@
       "userId": "308495680779231245",
       "twitterId": "9vS2ZZWPXl33900",
       "tier": "マスター クラス5",
-      "points": 104,
-      "winCount": 194,
-      "loseCount": 171,
+      "points": 106,
+      "winCount": 196,
+      "loseCount": 172,
       "drawCount": 67,
       "maxConsecutiveWinCount": 7
     },
@@ -627,15 +627,15 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/196496874391470090",
+      "characterImage": null,
       "name": "カイロ@tiktok",
       "userId": "196496874391470090",
       "twitterId": "jyuku11",
       "tier": "マスター クラス5",
-      "points": 96,
-      "winCount": 211,
-      "loseCount": 198,
-      "drawCount": 75,
+      "points": 101,
+      "winCount": 215,
+      "loseCount": 199,
+      "drawCount": 76,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -651,7 +651,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/173705749663137797",
+      "characterImage": null,
       "name": "δr1p",
       "userId": "173705749663137797",
       "twitterId": "dr1p_uu",
@@ -1155,8 +1155,20 @@
       "maxConsecutiveWinCount": 4
     },
     {
-      "characterImage": "/images/64290960531558414",
-      "name": "ポゴSTAGE1",
+      "characterImage": null,
+      "name": "うぽの母音うお",
+      "userId": "484635223970000906",
+      "twitterId": "ponsan1027",
+      "tier": "マスター クラス5",
+      "points": 35,
+      "winCount": 76,
+      "loseCount": 46,
+      "drawCount": 22,
+      "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": null,
+      "name": "ぶんや",
       "userId": "64290960531558414",
       "twitterId": "Bny_prsk",
       "tier": "マスター クラス5",
@@ -1189,18 +1201,6 @@
       "loseCount": 6,
       "drawCount": 14,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/80924208191782912",
-      "name": "Ast*star",
-      "userId": "80924208191782912",
-      "twitterId": "kuro72716",
-      "tier": "マスター クラス5",
-      "points": 31,
-      "winCount": 36,
-      "loseCount": 22,
-      "drawCount": 23,
-      "maxConsecutiveWinCount": 5
     }
   ]
 }
