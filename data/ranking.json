@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T19:23:22.360Z",
+  "updatedAt": "2026-10-25T19:43:26.379Z",
   "seasonId": 20,
   "players": [
     {
@@ -27,6 +27,18 @@
       "maxConsecutiveWinCount": 15
     },
     {
+      "characterImage": "/images/807202039415824386",
+      "name": " ",
+      "userId": "807202039415824386",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 866,
+      "winCount": 464,
+      "loseCount": 0,
+      "drawCount": 264,
+      "maxConsecutiveWinCount": 31
+    },
+    {
       "characterImage": "/images/132831494322683918",
       "name": "るな",
       "userId": "132831494322683918",
@@ -37,18 +49,6 @@
       "loseCount": 155,
       "drawCount": 280,
       "maxConsecutiveWinCount": 13
-    },
-    {
-      "characterImage": "/images/807202039415824386",
-      "name": " ",
-      "userId": "807202039415824386",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 862,
-      "winCount": 462,
-      "loseCount": 0,
-      "drawCount": 263,
-      "maxConsecutiveWinCount": 31
     },
     {
       "characterImage": "/images/806056137304670211",
