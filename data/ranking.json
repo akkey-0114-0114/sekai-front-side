@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T18:23:11.575Z",
+  "updatedAt": "2026-10-25T18:53:16.957Z",
   "seasonId": 20,
   "players": [
     {
@@ -39,6 +39,18 @@
       "maxConsecutiveWinCount": 13
     },
     {
+      "characterImage": "/images/807202039415824386",
+      "name": " ",
+      "userId": "807202039415824386",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 855,
+      "winCount": 459,
+      "loseCount": 0,
+      "drawCount": 260,
+      "maxConsecutiveWinCount": 31
+    },
+    {
       "characterImage": "/images/806056137304670211",
       "name": "Onigiri",
       "userId": "806056137304670211",
@@ -51,26 +63,14 @@
       "maxConsecutiveWinCount": 22
     },
     {
-      "characterImage": "/images/807202039415824386",
-      "name": " ",
-      "userId": "807202039415824386",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 846,
-      "winCount": 454,
-      "loseCount": 0,
-      "drawCount": 258,
-      "maxConsecutiveWinCount": 31
-    },
-    {
       "characterImage": "/images/175168648301985796",
       "name": "れいらちゃん♡",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 823,
+      "points": 822,
       "winCount": 702,
-      "loseCount": 254,
+      "loseCount": 255,
       "drawCount": 285,
       "maxConsecutiveWinCount": 11
     },
@@ -104,10 +104,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 745,
-      "winCount": 512,
-      "loseCount": 143,
-      "drawCount": 269,
+      "points": 752,
+      "winCount": 517,
+      "loseCount": 144,
+      "drawCount": 271,
       "maxConsecutiveWinCount": 17
     },
     {
