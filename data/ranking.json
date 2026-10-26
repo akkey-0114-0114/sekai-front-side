@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T18:27:36.075Z",
+  "updatedAt": "2026-10-26T19:17:44.995Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,8 +32,8 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 891,
-      "winCount": 757,
+      "points": 899,
+      "winCount": 764,
       "loseCount": 269,
       "drawCount": 305,
       "maxConsecutiveWinCount": 11
@@ -351,6 +351,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/806056196587864064",
+      "name": "Mikan",
+      "userId": "806056196587864064",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 157,
+      "winCount": 100,
+      "loseCount": 0,
+      "drawCount": 37,
+      "maxConsecutiveWinCount": 15
+    },
+    {
       "characterImage": "/images/201098380143054854",
       "name": "下埋め",
       "userId": "201098380143054854",
@@ -361,18 +373,6 @@
       "loseCount": 107,
       "drawCount": 69,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/806056196587864064",
-      "name": "Mikan",
-      "userId": "806056196587864064",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 149,
-      "winCount": 94,
-      "loseCount": 0,
-      "drawCount": 37,
-      "maxConsecutiveWinCount": 13
     },
     {
       "characterImage": "/images/304143941762568205",
