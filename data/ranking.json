@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T22:08:52.428Z",
+  "updatedAt": "2026-10-26T22:38:58.094Z",
   "seasonId": 20,
   "players": [
     {
@@ -80,8 +80,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 780,
-      "winCount": 528,
+      "points": 781,
+      "winCount": 529,
       "loseCount": 158,
       "drawCount": 295,
       "maxConsecutiveWinCount": 17
@@ -128,10 +128,10 @@
       "userId": "245318273696182286",
       "twitterId": "Pocky_prsk",
       "tier": "マスター クラス5",
-      "points": 420,
-      "winCount": 319,
-      "loseCount": 92,
-      "drawCount": 144,
+      "points": 424,
+      "winCount": 322,
+      "loseCount": 93,
+      "drawCount": 145,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -315,6 +315,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/806056196587864064",
+      "name": "Mikan",
+      "userId": "806056196587864064",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 185,
+      "winCount": 118,
+      "loseCount": 0,
+      "drawCount": 43,
+      "maxConsecutiveWinCount": 21
+    },
+    {
       "characterImage": "/images/28746192208850952",
       "name": "あいは..❖",
       "userId": "28746192208850952",
@@ -325,18 +337,6 @@
       "loseCount": 93,
       "drawCount": 80,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/806056196587864064",
-      "name": "Mikan",
-      "userId": "806056196587864064",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 178,
-      "winCount": 114,
-      "loseCount": 0,
-      "drawCount": 41,
-      "maxConsecutiveWinCount": 21
     },
     {
       "characterImage": "/images/246835375226441734",
