@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T04:17:17.546Z",
+  "updatedAt": "2026-10-26T04:57:35.618Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,9 +20,9 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1473,
-      "winCount": 1161,
-      "loseCount": 455,
+      "points": 1470,
+      "winCount": 1162,
+      "loseCount": 459,
       "drawCount": 564,
       "maxConsecutiveWinCount": 15
     },
@@ -296,9 +296,9 @@
       "userId": "192937409625243655",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 205,
-      "winCount": 191,
-      "loseCount": 87,
+      "points": 213,
+      "winCount": 200,
+      "loseCount": 89,
       "drawCount": 81,
       "maxConsecutiveWinCount": 9
     },
@@ -436,7 +436,7 @@
     },
     {
       "characterImage": "/images/285639560352178185",
-      "name": "　",
+      "name": "雪景シキ",
       "userId": "285639560352178185",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -507,7 +507,7 @@
       "maxConsecutiveWinCount": 12
     },
     {
-      "characterImage": "/images/291480420415225858",
+      "characterImage": null,
       "name": "ひいらぎ",
       "userId": "291480420415225858",
       "twitterId": "",
@@ -843,6 +843,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/5577230604546062",
+      "name": "ハコイクク",
+      "userId": "5577230604546062",
+      "twitterId": "haribote85199",
+      "tier": "マスター クラス5",
+      "points": 62,
+      "winCount": 55,
+      "loseCount": 14,
+      "drawCount": 19,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/325160296154284033",
       "name": "AFE☂あいばなちゃ",
       "userId": "325160296154284033",
@@ -913,18 +925,6 @@
       "loseCount": 48,
       "drawCount": 25,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/5577230604546062",
-      "name": "ハコイクク",
-      "userId": "5577230604546062",
-      "twitterId": "haribote85199",
-      "tier": "マスター クラス5",
-      "points": 54,
-      "winCount": 46,
-      "loseCount": 12,
-      "drawCount": 19,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/13978876032626697",
