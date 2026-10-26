@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T20:18:15.482Z",
+  "updatedAt": "2026-10-26T20:58:40.572Z",
   "seasonId": 20,
   "players": [
     {
@@ -80,10 +80,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 777,
+      "points": 780,
       "winCount": 528,
-      "loseCount": 157,
-      "drawCount": 292,
+      "loseCount": 158,
+      "drawCount": 295,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -243,7 +243,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/37698146989649926",
       "name": "スプラ募集@∞",
       "userId": "37698146989649926",
       "twitterId": "sekai_uau",
@@ -332,10 +332,10 @@
       "userId": "806056196587864064",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 167,
-      "winCount": 108,
+      "points": 172,
+      "winCount": 109,
       "loseCount": 0,
-      "drawCount": 38,
+      "drawCount": 41,
       "maxConsecutiveWinCount": 21
     },
     {
