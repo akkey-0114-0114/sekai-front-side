@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T17:47:24.263Z",
+  "updatedAt": "2026-10-26T18:27:36.075Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,11 +20,23 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1499,
-      "winCount": 1189,
-      "loseCount": 468,
-      "drawCount": 571,
+      "points": 1500,
+      "winCount": 1191,
+      "loseCount": 471,
+      "drawCount": 572,
       "maxConsecutiveWinCount": 15
+    },
+    {
+      "characterImage": "/images/175168648301985796",
+      "name": "°.♡れいら♡. °",
+      "userId": "175168648301985796",
+      "twitterId": "reira_shizuku",
+      "tier": "マスター クラス5",
+      "points": 891,
+      "winCount": 757,
+      "loseCount": 269,
+      "drawCount": 305,
+      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/132831494322683918",
@@ -37,18 +49,6 @@
       "loseCount": 162,
       "drawCount": 283,
       "maxConsecutiveWinCount": 13
-    },
-    {
-      "characterImage": "/images/175168648301985796",
-      "name": "れいらちゃん♡",
-      "userId": "175168648301985796",
-      "twitterId": "reira_shizuku",
-      "tier": "マスター クラス5",
-      "points": 886,
-      "winCount": 750,
-      "loseCount": 267,
-      "drawCount": 305,
-      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/182063036832174093",
@@ -195,6 +195,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/5173610738434060",
+      "name": "る〜こと..❖",
+      "userId": "5173610738434060",
+      "twitterId": "Ru_k0t0",
+      "tier": "マスター クラス5",
+      "points": 278,
+      "winCount": 317,
+      "loseCount": 203,
+      "drawCount": 131,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/323383674971267073",
       "name": "伊達叶絵",
       "userId": "323383674971267073",
@@ -204,18 +216,6 @@
       "winCount": 316,
       "loseCount": 174,
       "drawCount": 107,
-      "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/5173610738434060",
-      "name": "る〜こと..❖",
-      "userId": "5173610738434060",
-      "twitterId": "Ru_k0t0",
-      "tier": "マスター クラス5",
-      "points": 277,
-      "winCount": 316,
-      "loseCount": 202,
-      "drawCount": 130,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "characterImage": "/images/37698146989649926",
-      "name": "終末の歌声がきこえる",
+      "name": "スプラ募集@∞",
       "userId": "37698146989649926",
       "twitterId": "sekai_uau",
       "tier": "マスター クラス5",
@@ -363,6 +363,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/806056196587864064",
+      "name": "Mikan",
+      "userId": "806056196587864064",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 149,
+      "winCount": 94,
+      "loseCount": 0,
+      "drawCount": 37,
+      "maxConsecutiveWinCount": 13
+    },
+    {
       "characterImage": "/images/304143941762568205",
       "name": "りきティー",
       "userId": "304143941762568205",
@@ -409,18 +421,6 @@
       "loseCount": 207,
       "drawCount": 101,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/806056196587864064",
-      "name": "Mikan",
-      "userId": "806056196587864064",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 142,
-      "winCount": 88,
-      "loseCount": 0,
-      "drawCount": 37,
-      "maxConsecutiveWinCount": 13
     },
     {
       "characterImage": "/images/16766381643124744",
