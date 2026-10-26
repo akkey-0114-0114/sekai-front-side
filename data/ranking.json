@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:09:03.445Z",
+  "updatedAt": "2026-10-26T23:39:08.765Z",
   "seasonId": 20,
   "players": [
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 789,
-      "winCount": 971,
+      "points": 796,
+      "winCount": 975,
       "loseCount": 713,
-      "drawCount": 395,
+      "drawCount": 398,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -83,7 +83,7 @@
       "points": 781,
       "winCount": 529,
       "loseCount": 158,
-      "drawCount": 295,
+      "drawCount": 296,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -308,10 +308,10 @@
       "userId": "806056196587864064",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 190,
-      "winCount": 122,
+      "points": 201,
+      "winCount": 127,
       "loseCount": 0,
-      "drawCount": 43,
+      "drawCount": 47,
       "maxConsecutiveWinCount": 21
     },
     {
@@ -436,7 +436,7 @@
     },
     {
       "characterImage": "/images/285639560352178185",
-      "name": "恋見エイル",
+      "name": "ツクモノツキ",
       "userId": "285639560352178185",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -788,8 +788,8 @@
       "userId": "139555986458062851",
       "twitterId": "maetyan80806",
       "tier": "マスター クラス5",
-      "points": 69,
-      "winCount": 134,
+      "points": 70,
+      "winCount": 135,
       "loseCount": 108,
       "drawCount": 48,
       "maxConsecutiveWinCount": 10
