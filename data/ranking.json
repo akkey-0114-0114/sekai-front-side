@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T03:06:00.776Z",
+  "updatedAt": "2026-10-26T03:46:43.549Z",
   "seasonId": 20,
   "players": [
     {
@@ -152,8 +152,8 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 404,
-      "winCount": 333,
+      "points": 414,
+      "winCount": 342,
       "loseCount": 90,
       "drawCount": 123,
       "maxConsecutiveWinCount": 30
@@ -303,7 +303,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/192937409625243655",
+      "characterImage": null,
       "name": "I can fly",
       "userId": "192937409625243655",
       "twitterId": "",
@@ -987,6 +987,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/5577230604546062",
+      "name": "ハコイクク",
+      "userId": "5577230604546062",
+      "twitterId": "haribote85199",
+      "tier": "マスター クラス5",
+      "points": 45,
+      "winCount": 39,
+      "loseCount": 12,
+      "drawCount": 18,
+      "maxConsecutiveWinCount": 5
+    },
+    {
       "characterImage": "/images/579945071015510028",
       "name": "おあんでん",
       "userId": "579945071015510028",
@@ -1020,18 +1032,6 @@
       "winCount": 129,
       "loseCount": 130,
       "drawCount": 45,
-      "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/5577230604546062",
-      "name": "ハコイクク",
-      "userId": "5577230604546062",
-      "twitterId": "haribote85199",
-      "tier": "マスター クラス5",
-      "points": 42,
-      "winCount": 37,
-      "loseCount": 12,
-      "drawCount": 18,
       "maxConsecutiveWinCount": 5
     },
     {
@@ -1191,7 +1191,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/6847590100930562",
+      "characterImage": null,
       "name": "ちじゅちじゅ連邦",
       "userId": "6847590100930562",
       "twitterId": "",
