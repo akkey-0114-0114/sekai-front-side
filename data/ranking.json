@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T19:48:01.002Z",
+  "updatedAt": "2026-10-26T20:18:15.482Z",
   "seasonId": 20,
   "players": [
     {
@@ -33,8 +33,8 @@
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
       "points": 905,
-      "winCount": 771,
-      "loseCount": 271,
+      "winCount": 772,
+      "loseCount": 272,
       "drawCount": 305,
       "maxConsecutiveWinCount": 11
     },
@@ -80,10 +80,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 776,
-      "winCount": 527,
-      "loseCount": 156,
-      "drawCount": 291,
+      "points": 777,
+      "winCount": 528,
+      "loseCount": 157,
+      "drawCount": 292,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -243,7 +243,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/37698146989649926",
+      "characterImage": null,
       "name": "スプラ募集@∞",
       "userId": "37698146989649926",
       "twitterId": "sekai_uau",
@@ -327,6 +327,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/806056196587864064",
+      "name": "Mikan",
+      "userId": "806056196587864064",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 167,
+      "winCount": 108,
+      "loseCount": 0,
+      "drawCount": 38,
+      "maxConsecutiveWinCount": 21
+    },
+    {
       "characterImage": "/images/246835375226441734",
       "name": "ど根性ストレート肉球",
       "userId": "246835375226441734",
@@ -349,18 +361,6 @@
       "loseCount": 80,
       "drawCount": 64,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/806056196587864064",
-      "name": "Mikan",
-      "userId": "806056196587864064",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 161,
-      "winCount": 104,
-      "loseCount": 0,
-      "drawCount": 37,
-      "maxConsecutiveWinCount": 19
     },
     {
       "characterImage": "/images/201098380143054854",
