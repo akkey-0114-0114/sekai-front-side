@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:27:56.502Z",
+  "updatedAt": "2026-10-27T23:08:03.520Z",
   "seasonId": 20,
   "players": [
     {
@@ -759,18 +759,6 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/139555986458062851",
-      "name": "まえちゃんTT配信中",
-      "userId": "139555986458062851",
-      "twitterId": "maetyan80806",
-      "tier": "マスター クラス5",
-      "points": 73,
-      "winCount": 143,
-      "loseCount": 115,
-      "drawCount": 50,
-      "maxConsecutiveWinCount": 10
-    },
-    {
       "characterImage": "/images/183956109303750663",
       "name": "れやむ",
       "userId": "183956109303750663",
@@ -793,6 +781,18 @@
       "loseCount": 52,
       "drawCount": 46,
       "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/139555986458062851",
+      "name": "まえちゃんTT配信中",
+      "userId": "139555986458062851",
+      "twitterId": "maetyan80806",
+      "tier": "マスター クラス5",
+      "points": 70,
+      "winCount": 144,
+      "loseCount": 119,
+      "drawCount": 50,
+      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/204213269384208391",
