@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T16:36:47.279Z",
+  "updatedAt": "2026-10-27T17:27:02.341Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,9 +32,9 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 920,
-      "winCount": 792,
-      "loseCount": 283,
+      "points": 917,
+      "winCount": 793,
+      "loseCount": 287,
       "drawCount": 308,
       "maxConsecutiveWinCount": 11
     },
@@ -56,10 +56,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 833,
-      "winCount": 714,
-      "loseCount": 331,
-      "drawCount": 339,
+      "points": 838,
+      "winCount": 718,
+      "loseCount": 332,
+      "drawCount": 340,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -68,11 +68,11 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 813,
-      "winCount": 1010,
+      "points": 820,
+      "winCount": 1017,
       "loseCount": 741,
       "drawCount": 405,
-      "maxConsecutiveWinCount": 11
+      "maxConsecutiveWinCount": 12
     },
     {
       "characterImage": "/images/272110013727850501",
@@ -80,10 +80,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 804,
+      "points": 805,
       "winCount": 549,
       "loseCount": 160,
-      "drawCount": 298,
+      "drawCount": 299,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -183,7 +183,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5170409750286344",
       "name": "晴天のスヌーズ",
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
@@ -291,7 +291,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/457338724789698560",
       "name": "メガシャワーズ",
       "userId": "457338724789698560",
       "twitterId": "teikyodai0000",
@@ -1035,7 +1035,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5576641707982856",
       "name": "Atl/ねむむ♬",
       "userId": "5576641707982856",
       "twitterId": "Nemu_3157",
