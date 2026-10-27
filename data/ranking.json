@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:59:22.684Z",
+  "updatedAt": "2026-10-27T01:39:29.538Z",
   "seasonId": 20,
   "players": [
     {
@@ -80,10 +80,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 781,
-      "winCount": 529,
+      "points": 783,
+      "winCount": 530,
       "loseCount": 158,
-      "drawCount": 296,
+      "drawCount": 297,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -255,6 +255,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/806056196587864064",
+      "name": "Mikan",
+      "userId": "806056196587864064",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 229,
+      "winCount": 145,
+      "loseCount": 0,
+      "drawCount": 52,
+      "maxConsecutiveWinCount": 21
+    },
+    {
       "characterImage": "/images/192937409625243655",
       "name": "努力虚しくちるメロス",
       "userId": "192937409625243655",
@@ -265,18 +277,6 @@
       "loseCount": 92,
       "drawCount": 85,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/806056196587864064",
-      "name": "Mikan",
-      "userId": "806056196587864064",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 223,
-      "winCount": 141,
-      "loseCount": 0,
-      "drawCount": 51,
-      "maxConsecutiveWinCount": 21
     },
     {
       "characterImage": "/images/301112565824430082",
