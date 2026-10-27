@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:09:14.146Z",
+  "updatedAt": "2026-10-27T00:59:22.684Z",
   "seasonId": 20,
   "players": [
     {
@@ -267,6 +267,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/806056196587864064",
+      "name": "Mikan",
+      "userId": "806056196587864064",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 223,
+      "winCount": 141,
+      "loseCount": 0,
+      "drawCount": 51,
+      "maxConsecutiveWinCount": 21
+    },
+    {
       "characterImage": "/images/301112565824430082",
       "name": "謎のアラブ人集団",
       "userId": "301112565824430082",
@@ -277,18 +289,6 @@
       "loseCount": 270,
       "drawCount": 136,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/806056196587864064",
-      "name": "Mikan",
-      "userId": "806056196587864064",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 207,
-      "winCount": 132,
-      "loseCount": 0,
-      "drawCount": 47,
-      "maxConsecutiveWinCount": 21
     },
     {
       "characterImage": "/images/170427380858368014",
@@ -776,10 +776,10 @@
       "userId": "139555986458062851",
       "twitterId": "maetyan80806",
       "tier": "マスター クラス5",
-      "points": 75,
-      "winCount": 141,
-      "loseCount": 110,
-      "drawCount": 49,
+      "points": 73,
+      "winCount": 143,
+      "loseCount": 115,
+      "drawCount": 50,
       "maxConsecutiveWinCount": 10
     },
     {
