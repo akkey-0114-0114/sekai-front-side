@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T21:17:43.921Z",
+  "updatedAt": "2026-10-27T21:57:51.061Z",
   "seasonId": 20,
   "players": [
     {
@@ -63,6 +63,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/272110013727850501",
+      "name": "KOHANE FAN",
+      "userId": "272110013727850501",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 825,
+      "winCount": 559,
+      "loseCount": 164,
+      "drawCount": 309,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/243323553462300684",
       "name": "りんさんず",
       "userId": "243323553462300684",
@@ -73,18 +85,6 @@
       "loseCount": 741,
       "drawCount": 405,
       "maxConsecutiveWinCount": 12
-    },
-    {
-      "characterImage": "/images/272110013727850501",
-      "name": "KOHANE FAN",
-      "userId": "272110013727850501",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 820,
-      "winCount": 558,
-      "loseCount": 164,
-      "drawCount": 306,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/533558892414337026",
