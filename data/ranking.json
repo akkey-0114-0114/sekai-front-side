@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:39:08.765Z",
+  "updatedAt": "2026-10-27T00:09:14.146Z",
   "seasonId": 20,
   "players": [
     {
@@ -68,9 +68,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 796,
-      "winCount": 975,
-      "loseCount": 713,
+      "points": 793,
+      "winCount": 977,
+      "loseCount": 718,
       "drawCount": 398,
       "maxConsecutiveWinCount": 11
     },
@@ -279,6 +279,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/806056196587864064",
+      "name": "Mikan",
+      "userId": "806056196587864064",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 207,
+      "winCount": 132,
+      "loseCount": 0,
+      "drawCount": 47,
+      "maxConsecutiveWinCount": 21
+    },
+    {
       "characterImage": "/images/170427380858368014",
       "name": "きりな",
       "userId": "170427380858368014",
@@ -301,18 +313,6 @@
       "loseCount": 100,
       "drawCount": 74,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/806056196587864064",
-      "name": "Mikan",
-      "userId": "806056196587864064",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 201,
-      "winCount": 127,
-      "loseCount": 0,
-      "drawCount": 47,
-      "maxConsecutiveWinCount": 21
     },
     {
       "characterImage": "/images/5166926901084172",
@@ -771,6 +771,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/139555986458062851",
+      "name": "まえちゃんTT配信中",
+      "userId": "139555986458062851",
+      "twitterId": "maetyan80806",
+      "tier": "マスター クラス5",
+      "points": 75,
+      "winCount": 141,
+      "loseCount": 110,
+      "drawCount": 49,
+      "maxConsecutiveWinCount": 10
+    },
+    {
       "characterImage": "/images/798828771922837519",
       "name": "おれんじ",
       "userId": "798828771922837519",
@@ -781,18 +793,6 @@
       "loseCount": 52,
       "drawCount": 46,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/139555986458062851",
-      "name": "まえちゃん",
-      "userId": "139555986458062851",
-      "twitterId": "maetyan80806",
-      "tier": "マスター クラス5",
-      "points": 70,
-      "winCount": 135,
-      "loseCount": 108,
-      "drawCount": 48,
-      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/204213269384208391",
