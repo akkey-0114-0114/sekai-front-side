@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T03:59:40.209Z",
+  "updatedAt": "2026-10-28T04:39:47.438Z",
   "seasonId": 20,
   "players": [
     {
@@ -951,6 +951,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/783605815005265926",
+      "name": "Dreizehn",
+      "userId": "783605815005265926",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 52,
+      "winCount": 145,
+      "loseCount": 136,
+      "drawCount": 39,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/13978876032626697",
       "name": "千遥ライセ",
       "userId": "13978876032626697",
@@ -963,6 +975,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/806056196629368847",
+      "name": "Obento",
+      "userId": "806056196629368847",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 51,
+      "winCount": 40,
+      "loseCount": 0,
+      "drawCount": 13,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/317627041230159885",
       "name": "hiro",
       "userId": "317627041230159885",
@@ -973,18 +997,6 @@
       "loseCount": 73,
       "drawCount": 30,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/783605815005265926",
-      "name": "Dreizehn",
-      "userId": "783605815005265926",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 49,
-      "winCount": 141,
-      "loseCount": 132,
-      "drawCount": 37,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/249530031214424064",
@@ -1081,18 +1093,6 @@
       "loseCount": 249,
       "drawCount": 80,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/806056196629368847",
-      "name": "Obento",
-      "userId": "806056196629368847",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 37,
-      "winCount": 30,
-      "loseCount": 0,
-      "drawCount": 11,
-      "maxConsecutiveWinCount": 5
     },
     {
       "characterImage": "/images/285588746132697096",
