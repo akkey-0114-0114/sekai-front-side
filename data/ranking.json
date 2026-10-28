@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T05:19:54.812Z",
+  "updatedAt": "2026-10-28T06:00:02.010Z",
   "seasonId": 20,
   "players": [
     {
@@ -56,10 +56,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 842,
-      "winCount": 567,
-      "loseCount": 166,
-      "drawCount": 317,
+      "points": 846,
+      "winCount": 570,
+      "loseCount": 167,
+      "drawCount": 318,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -819,6 +819,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/806056196629368847",
+      "name": "Obento",
+      "userId": "806056196629368847",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 65,
+      "winCount": 51,
+      "loseCount": 0,
+      "drawCount": 14,
+      "maxConsecutiveWinCount": 13
+    },
+    {
       "characterImage": "/images/87767420961353737",
       "name": "れpーさん",
       "userId": "87767420961353737",
@@ -843,18 +855,6 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/806056196629368847",
-      "name": "Obento",
-      "userId": "806056196629368847",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 63,
-      "winCount": 50,
-      "loseCount": 0,
-      "drawCount": 13,
-      "maxConsecutiveWinCount": 12
-    },
-    {
       "characterImage": "/images/283966015176409092",
       "name": "小晴のか",
       "userId": "283966015176409092",
@@ -877,6 +877,18 @@
       "loseCount": 23,
       "drawCount": 20,
       "maxConsecutiveWinCount": 10
+    },
+    {
+      "characterImage": "/images/783605815005265926",
+      "name": "Dreizehn",
+      "userId": "783605815005265926",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 58,
+      "winCount": 153,
+      "loseCount": 141,
+      "drawCount": 40,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/325160296154284033",
@@ -961,18 +973,6 @@
       "loseCount": 86,
       "drawCount": 41,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/783605815005265926",
-      "name": "Dreizehn",
-      "userId": "783605815005265926",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 53,
-      "winCount": 149,
-      "loseCount": 141,
-      "drawCount": 40,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/13978876032626697",
