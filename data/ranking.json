@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T16:03:54.943Z",
+  "updatedAt": "2026-10-28T16:44:02.031Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 931,
-      "winCount": 807,
-      "loseCount": 295,
-      "drawCount": 314,
+      "points": 938,
+      "winCount": 813,
+      "loseCount": 297,
+      "drawCount": 316,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -56,10 +56,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 881,
-      "winCount": 749,
+      "points": 883,
+      "winCount": 750,
       "loseCount": 334,
-      "drawCount": 350,
+      "drawCount": 351,
       "maxConsecutiveWinCount": 10
     },
     {
@@ -80,10 +80,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 841,
-      "winCount": 1047,
-      "loseCount": 756,
-      "drawCount": 409,
+      "points": 840,
+      "winCount": 1051,
+      "loseCount": 763,
+      "drawCount": 410,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "characterImage": "/images/323383674971267073",
-      "name": "伊達叶絵",
+      "name": "指骨折したよ泣",
       "userId": "323383674971267073",
       "twitterId": "morrrrrrrr_8",
       "tier": "マスター クラス5",
@@ -272,10 +272,10 @@
       "userId": "806056196629368847",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 231,
-      "winCount": 163,
+      "points": 245,
+      "winCount": 173,
       "loseCount": 0,
-      "drawCount": 40,
+      "drawCount": 42,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -596,8 +596,8 @@
       "userId": "196496874391470090",
       "twitterId": "jyuku11",
       "tier": "マスター クラス5",
-      "points": 109,
-      "winCount": 227,
+      "points": 110,
+      "winCount": 228,
       "loseCount": 207,
       "drawCount": 79,
       "maxConsecutiveWinCount": 9
@@ -752,8 +752,8 @@
       "userId": "783605815005265926",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 85,
-      "winCount": 183,
+      "points": 87,
+      "winCount": 185,
       "loseCount": 157,
       "drawCount": 49,
       "maxConsecutiveWinCount": 6
@@ -1047,18 +1047,6 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/5576641707982856",
-      "name": "Atl/ねむむ♬",
-      "userId": "5576641707982856",
-      "twitterId": "Nemu_3157",
-      "tier": "マスター クラス5",
-      "points": 40,
-      "winCount": 108,
-      "loseCount": 87,
-      "drawCount": 23,
-      "maxConsecutiveWinCount": 7
-    },
-    {
       "characterImage": "/images/205434857866600455",
       "name": "ゆーくん",
       "userId": "205434857866600455",
@@ -1093,6 +1081,18 @@
       "loseCount": 249,
       "drawCount": 80,
       "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/5576641707982856",
+      "name": "Atl/ねむむ♬",
+      "userId": "5576641707982856",
+      "twitterId": "Nemu_3157",
+      "tier": "マスター クラス5",
+      "points": 38,
+      "winCount": 108,
+      "loseCount": 89,
+      "drawCount": 23,
+      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/285588746132697096",
