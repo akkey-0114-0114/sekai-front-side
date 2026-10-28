@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T23:58:12.590Z",
+  "updatedAt": "2026-10-28T00:58:31.437Z",
   "seasonId": 20,
   "players": [
     {
@@ -616,7 +616,7 @@
     },
     {
       "characterImage": "/images/184185197172760576",
-      "name": "ぴぴ♡",
+      "name": "ｵﾃﾞﾄ~",
       "userId": "184185197172760576",
       "twitterId": "210_wa_",
       "tier": "マスター クラス5",
@@ -784,7 +784,7 @@
     },
     {
       "characterImage": "/images/139555986458062851",
-      "name": "まえちゃんTT配信中",
+      "name": "まえちゃん",
       "userId": "139555986458062851",
       "twitterId": "maetyan80806",
       "tier": "マスター クラス5",
@@ -1131,6 +1131,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": null,
+      "name": "Dreizehn",
+      "userId": "783605815005265926",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 34,
+      "winCount": 125,
+      "loseCount": 119,
+      "drawCount": 29,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/6847590100930562",
       "name": "ちじゅちじゅ連邦",
       "userId": "6847590100930562",
@@ -1189,18 +1201,6 @@
       "loseCount": 184,
       "drawCount": 74,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/66856142936215562",
-      "name": "もちゃり",
-      "userId": "66856142936215562",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 31,
-      "winCount": 55,
-      "loseCount": 34,
-      "drawCount": 18,
-      "maxConsecutiveWinCount": 7
     }
   ]
 }
