@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T15:03:24.940Z",
+  "updatedAt": "2026-10-28T16:03:54.943Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,14 +32,14 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 928,
-      "winCount": 805,
+      "points": 931,
+      "winCount": 807,
       "loseCount": 295,
-      "drawCount": 313,
+      "drawCount": 314,
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/132831494322683918",
       "name": "あと100粒",
       "userId": "132831494322683918",
       "twitterId": "sngporu",
@@ -231,6 +231,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/192937409625243655",
+      "name": "Ⅰ c@n fIy",
+      "userId": "192937409625243655",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 263,
+      "winCount": 237,
+      "loseCount": 97,
+      "drawCount": 99,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/5144945912909827",
       "name": "ルンパッパ",
       "userId": "5144945912909827",
@@ -240,18 +252,6 @@
       "winCount": 269,
       "loseCount": 158,
       "drawCount": 116,
-      "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/192937409625243655",
-      "name": "Ⅰ c@n fIy",
-      "userId": "192937409625243655",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 259,
-      "winCount": 234,
-      "loseCount": 97,
-      "drawCount": 99,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -267,6 +267,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/806056196629368847",
+      "name": "Obento",
+      "userId": "806056196629368847",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 231,
+      "winCount": 163,
+      "loseCount": 0,
+      "drawCount": 40,
+      "maxConsecutiveWinCount": 15
+    },
+    {
       "characterImage": "/images/301112565824430082",
       "name": "BlueScreen",
       "userId": "301112565824430082",
@@ -277,18 +289,6 @@
       "loseCount": 283,
       "drawCount": 138,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/806056196629368847",
-      "name": "Obento",
-      "userId": "806056196629368847",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 214,
-      "winCount": 153,
-      "loseCount": 0,
-      "drawCount": 36,
-      "maxConsecutiveWinCount": 15
     },
     {
       "characterImage": "/images/170427380858368014",
@@ -452,8 +452,8 @@
       "userId": "16766381643124744",
       "twitterId": "Kouya03153450",
       "tier": "マスター クラス5",
-      "points": 141,
-      "winCount": 114,
+      "points": 143,
+      "winCount": 115,
       "loseCount": 43,
       "drawCount": 53,
       "maxConsecutiveWinCount": 6
@@ -501,9 +501,9 @@
       "twitterId": "haribote85199",
       "tier": "マスター クラス5",
       "points": 129,
-      "winCount": 106,
-      "loseCount": 25,
-      "drawCount": 41,
+      "winCount": 107,
+      "loseCount": 28,
+      "drawCount": 42,
       "maxConsecutiveWinCount": 9
     },
     {
