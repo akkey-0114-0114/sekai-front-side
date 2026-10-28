@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T02:29:18.422Z",
+  "updatedAt": "2026-10-28T03:09:31.284Z",
   "seasonId": 20,
   "players": [
     {
@@ -1035,6 +1035,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/783605815005265926",
+      "name": "Dreizehn",
+      "userId": "783605815005265926",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 41,
+      "winCount": 132,
+      "loseCount": 128,
+      "drawCount": 35,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/5576641707982856",
       "name": "Atl/ねむむ♬",
       "userId": "5576641707982856",
@@ -1045,18 +1057,6 @@
       "loseCount": 87,
       "drawCount": 23,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/783605815005265926",
-      "name": "Dreizehn",
-      "userId": "783605815005265926",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 40,
-      "winCount": 129,
-      "loseCount": 124,
-      "drawCount": 34,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/402474661940613129",
