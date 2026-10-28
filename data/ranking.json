@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T19:04:27.188Z",
+  "updatedAt": "2026-10-28T19:54:36.241Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 953,
-      "winCount": 826,
-      "loseCount": 299,
-      "drawCount": 320,
+      "points": 963,
+      "winCount": 834,
+      "loseCount": 300,
+      "drawCount": 322,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -171,6 +171,18 @@
       "maxConsecutiveWinCount": 17
     },
     {
+      "characterImage": "/images/806056196629368847",
+      "name": "Obento",
+      "userId": "806056196629368847",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 302,
+      "winCount": 200,
+      "loseCount": 0,
+      "drawCount": 62,
+      "maxConsecutiveWinCount": 15
+    },
+    {
       "characterImage": "/images/625197524291788810",
       "name": "えむα",
       "userId": "625197524291788810",
@@ -181,18 +193,6 @@
       "loseCount": 263,
       "drawCount": 179,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/806056196629368847",
-      "name": "Obento",
-      "userId": "806056196629368847",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 289,
-      "winCount": 194,
-      "loseCount": 0,
-      "drawCount": 57,
-      "maxConsecutiveWinCount": 15
     },
     {
       "characterImage": "/images/5170409750286344",
@@ -657,9 +657,9 @@
       "twitterId": "",
       "tier": "マスター クラス5",
       "points": 99,
-      "winCount": 196,
-      "loseCount": 172,
-      "drawCount": 61,
+      "winCount": 197,
+      "loseCount": 178,
+      "drawCount": 65,
       "maxConsecutiveWinCount": 6
     },
     {
