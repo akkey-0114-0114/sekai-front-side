@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T17:50:18.253Z",
+  "updatedAt": "2026-10-29T18:40:27.057Z",
   "seasonId": 20,
   "players": [
     {
@@ -555,6 +555,18 @@
       "maxConsecutiveWinCount": 12
     },
     {
+      "characterImage": "/images/610337147020034056",
+      "name": "E·n·T",
+      "userId": "610337147020034056",
+      "twitterId": "CoreNNmR",
+      "tier": "マスター クラス5",
+      "points": 117,
+      "winCount": 100,
+      "loseCount": 3,
+      "drawCount": 30,
+      "maxConsecutiveWinCount": 11
+    },
+    {
       "characterImage": "/images/173615932274876419",
       "name": "CV:平塚紗依",
       "userId": "173615932274876419",
@@ -565,18 +577,6 @@
       "loseCount": 22,
       "drawCount": 58,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/610337147020034056",
-      "name": "E·n·T",
-      "userId": "610337147020034056",
-      "twitterId": "CoreNNmR",
-      "tier": "マスター クラス5",
-      "points": 114,
-      "winCount": 98,
-      "loseCount": 3,
-      "drawCount": 30,
-      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/170111531962687499",
