@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:01:07.855Z",
+  "updatedAt": "2026-10-29T21:41:27.817Z",
   "seasonId": 20,
   "players": [
     {
@@ -15,7 +15,7 @@
       "maxConsecutiveWinCount": 17
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/137502081632583691",
       "name": "22時以降出来ません",
       "userId": "137502081632583691",
       "twitterId": "",
@@ -63,6 +63,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/272110013727850501",
+      "name": "MINORI FAN",
+      "userId": "272110013727850501",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 880,
+      "winCount": 590,
+      "loseCount": 175,
+      "drawCount": 335,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/243323553462300684",
       "name": "りんさんず",
       "userId": "243323553462300684",
@@ -73,18 +85,6 @@
       "loseCount": 794,
       "drawCount": 424,
       "maxConsecutiveWinCount": 16
-    },
-    {
-      "characterImage": "/images/272110013727850501",
-      "name": "MINORI FAN",
-      "userId": "272110013727850501",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 876,
-      "winCount": 588,
-      "loseCount": 175,
-      "drawCount": 334,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/533558892414337026",
@@ -184,14 +184,14 @@
     },
     {
       "characterImage": "/images/625197524291788810",
-      "name": "ゑむα",
+      "name": "えむα",
       "userId": "625197524291788810",
       "twitterId": "M_a1XD",
       "tier": "マスター クラス5",
-      "points": 295,
-      "winCount": 332,
-      "loseCount": 263,
-      "drawCount": 180,
+      "points": 298,
+      "winCount": 335,
+      "loseCount": 264,
+      "drawCount": 181,
       "maxConsecutiveWinCount": 9
     },
     {
