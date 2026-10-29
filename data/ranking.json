@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T17:10:11.074Z",
+  "updatedAt": "2026-10-29T17:50:18.253Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 992,
-      "winCount": 861,
-      "loseCount": 313,
-      "drawCount": 334,
+      "points": 1000,
+      "winCount": 866,
+      "loseCount": 314,
+      "drawCount": 337,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -63,6 +63,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/243323553462300684",
+      "name": "りんさんず",
+      "userId": "243323553462300684",
+      "twitterId": "RinSans3822",
+      "tier": "マスター クラス5",
+      "points": 878,
+      "winCount": 1098,
+      "loseCount": 794,
+      "drawCount": 424,
+      "maxConsecutiveWinCount": 16
+    },
+    {
       "characterImage": "/images/272110013727850501",
       "name": "MINORI FAN",
       "userId": "272110013727850501",
@@ -73,18 +85,6 @@
       "loseCount": 175,
       "drawCount": 334,
       "maxConsecutiveWinCount": 17
-    },
-    {
-      "characterImage": "/images/243323553462300684",
-      "name": "りんさんず",
-      "userId": "243323553462300684",
-      "twitterId": "RinSans3822",
-      "tier": "マスター クラス5",
-      "points": 876,
-      "winCount": 1094,
-      "loseCount": 791,
-      "drawCount": 424,
-      "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": "/images/533558892414337026",
@@ -176,10 +176,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 298,
-      "winCount": 274,
-      "loseCount": 133,
-      "drawCount": 122,
+      "points": 300,
+      "winCount": 275,
+      "loseCount": 134,
+      "drawCount": 123,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -568,7 +568,7 @@
     },
     {
       "characterImage": "/images/610337147020034056",
-      "name": "異次元トンネル機構",
+      "name": "E·n·T",
       "userId": "610337147020034056",
       "twitterId": "CoreNNmR",
       "tier": "マスター クラス5",
