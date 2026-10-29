@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:40:27.057Z",
+  "updatedAt": "2026-10-29T19:30:35.789Z",
   "seasonId": 20,
   "players": [
     {
@@ -556,12 +556,12 @@
     },
     {
       "characterImage": "/images/610337147020034056",
-      "name": "E·n·T",
+      "name": "Pr\"Cament\"",
       "userId": "610337147020034056",
       "twitterId": "CoreNNmR",
       "tier": "マスター クラス5",
-      "points": 117,
-      "winCount": 100,
+      "points": 121,
+      "winCount": 104,
       "loseCount": 3,
       "drawCount": 30,
       "maxConsecutiveWinCount": 11
