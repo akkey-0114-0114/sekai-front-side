@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:36:46.041Z",
+  "updatedAt": "2026-10-29T08:26:58.305Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2402,
-      "winCount": 1697,
-      "loseCount": 358,
-      "drawCount": 723,
+      "points": 2415,
+      "winCount": 1708,
+      "loseCount": 360,
+      "drawCount": 725,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -20,10 +20,10 @@
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1522,
-      "winCount": 1213,
-      "loseCount": 480,
-      "drawCount": 578,
+      "points": 1523,
+      "winCount": 1218,
+      "loseCount": 487,
+      "drawCount": 580,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -80,10 +80,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 848,
-      "winCount": 1064,
-      "loseCount": 772,
-      "drawCount": 412,
+      "points": 854,
+      "winCount": 1071,
+      "loseCount": 777,
+      "drawCount": 414,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -387,6 +387,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/783605815005265926",
+      "name": "Dreizehn",
+      "userId": "783605815005265926",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 149,
+      "winCount": 248,
+      "loseCount": 213,
+      "drawCount": 87,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/150921978743693322",
       "name": "かみちゃん",
       "userId": "150921978743693322",
@@ -457,18 +469,6 @@
       "loseCount": 34,
       "drawCount": 65,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/783605815005265926",
-      "name": "Dreizehn",
-      "userId": "783605815005265926",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 140,
-      "winCount": 239,
-      "loseCount": 210,
-      "drawCount": 85,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/532825330736398341",
@@ -663,18 +663,6 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/173705749663137797",
-      "name": "δr1p",
-      "userId": "173705749663137797",
-      "twitterId": "dr1p_uu",
-      "tier": "マスター クラス5",
-      "points": 94,
-      "winCount": 128,
-      "loseCount": 66,
-      "drawCount": 37,
-      "maxConsecutiveWinCount": 11
-    },
-    {
       "characterImage": "/images/5243709529157646",
       "name": "茫洋　あの影は誰",
       "userId": "5243709529157646",
@@ -697,6 +685,18 @@
       "loseCount": 35,
       "drawCount": 30,
       "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": "/images/173705749663137797",
+      "name": "δr1p",
+      "userId": "173705749663137797",
+      "twitterId": "dr1p_uu",
+      "tier": "マスター クラス5",
+      "points": 92,
+      "winCount": 128,
+      "loseCount": 68,
+      "drawCount": 38,
+      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/142584032610131980",
@@ -783,6 +783,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/283966015176409092",
+      "name": "小晴のか",
+      "userId": "283966015176409092",
+      "twitterId": "hanappi_nitizyo",
+      "tier": "マスター クラス5",
+      "points": 72,
+      "winCount": 168,
+      "loseCount": 159,
+      "drawCount": 57,
+      "maxConsecutiveWinCount": 5
+    },
+    {
       "characterImage": "/images/139555986458062851",
       "name": "まえちゃん",
       "userId": "139555986458062851",
@@ -793,18 +805,6 @@
       "loseCount": 119,
       "drawCount": 50,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/283966015176409092",
-      "name": "小晴のか",
-      "userId": "283966015176409092",
-      "twitterId": "hanappi_nitizyo",
-      "tier": "マスター クラス5",
-      "points": 70,
-      "winCount": 164,
-      "loseCount": 155,
-      "drawCount": 56,
-      "maxConsecutiveWinCount": 5
     },
     {
       "characterImage": "/images/5242530551664648",
@@ -951,6 +951,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/610337147020034056",
+      "name": "異次元トンネル機構",
+      "userId": "610337147020034056",
+      "twitterId": "CoreNNmR",
+      "tier": "マスター クラス5",
+      "points": 53,
+      "winCount": 57,
+      "loseCount": 3,
+      "drawCount": 18,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/13978876032626697",
       "name": "千遥ライセ",
       "userId": "13978876032626697",
@@ -1021,18 +1033,6 @@
       "loseCount": 69,
       "drawCount": 37,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/610337147020034056",
-      "name": "異次元トンネル機構",
-      "userId": "610337147020034056",
-      "twitterId": "CoreNNmR",
-      "tier": "マスター クラス5",
-      "points": 43,
-      "winCount": 50,
-      "loseCount": 3,
-      "drawCount": 17,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/294030286845030405",
