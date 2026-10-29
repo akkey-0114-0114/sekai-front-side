@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:10:43.012Z",
+  "updatedAt": "2026-10-29T21:01:07.855Z",
   "seasonId": 20,
   "players": [
     {
@@ -15,7 +15,7 @@
       "maxConsecutiveWinCount": 17
     },
     {
-      "characterImage": "/images/137502081632583691",
+      "characterImage": null,
       "name": "22時以降出来ません",
       "userId": "137502081632583691",
       "twitterId": "",
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1004,
-      "winCount": 868,
-      "loseCount": 315,
-      "drawCount": 339,
+      "points": 1016,
+      "winCount": 877,
+      "loseCount": 316,
+      "drawCount": 342,
       "maxConsecutiveWinCount": 11
     },
     {
