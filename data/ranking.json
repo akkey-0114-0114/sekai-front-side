@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:15:34.201Z",
+  "updatedAt": "2026-10-29T02:05:43.366Z",
   "seasonId": 20,
   "players": [
     {
@@ -68,9 +68,9 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 854,
-      "winCount": 577,
-      "loseCount": 171,
+      "points": 857,
+      "winCount": 580,
+      "loseCount": 172,
       "drawCount": 322,
       "maxConsecutiveWinCount": 17
     },
@@ -584,8 +584,8 @@
       "userId": "196496874391470090",
       "twitterId": "jyuku11",
       "tier": "マスター クラス5",
-      "points": 111,
-      "winCount": 233,
+      "points": 113,
+      "winCount": 235,
       "loseCount": 217,
       "drawCount": 85,
       "maxConsecutiveWinCount": 9
@@ -620,9 +620,9 @@
       "userId": "783605815005265926",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 106,
-      "winCount": 199,
-      "loseCount": 182,
+      "points": 107,
+      "winCount": 200,
+      "loseCount": 183,
       "drawCount": 72,
       "maxConsecutiveWinCount": 6
     },
