@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:38:17.787Z",
+  "updatedAt": "2026-10-29T12:18:25.093Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2452,
-      "winCount": 1734,
-      "loseCount": 366,
-      "drawCount": 735,
+      "points": 2457,
+      "winCount": 1740,
+      "loseCount": 370,
+      "drawCount": 737,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -56,10 +56,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 894,
-      "winCount": 756,
-      "loseCount": 335,
-      "drawCount": 355,
+      "points": 893,
+      "winCount": 760,
+      "loseCount": 342,
+      "drawCount": 356,
       "maxConsecutiveWinCount": 10
     },
     {
@@ -104,10 +104,10 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 501,
-      "winCount": 384,
-      "loseCount": 131,
-      "drawCount": 188,
+      "points": 508,
+      "winCount": 390,
+      "loseCount": 133,
+      "drawCount": 190,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "characterImage": "/images/245318273696182286",
-      "name": "p",
+      "name": "ぽっきー",
       "userId": "245318273696182286",
       "twitterId": "Pocky_prsk",
       "tier": "マスター クラス5",
@@ -152,10 +152,10 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 366,
-      "winCount": 566,
-      "loseCount": 475,
-      "drawCount": 228,
+      "points": 372,
+      "winCount": 572,
+      "loseCount": 476,
+      "drawCount": 230,
       "maxConsecutiveWinCount": 7
     },
     {
@@ -164,9 +164,9 @@
       "userId": "416928587080196105",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 351,
-      "winCount": 286,
-      "loseCount": 137,
+      "points": 355,
+      "winCount": 293,
+      "loseCount": 141,
       "drawCount": 149,
       "maxConsecutiveWinCount": 17
     },
@@ -236,10 +236,10 @@
       "userId": "192937409625243655",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 263,
-      "winCount": 237,
+      "points": 266,
+      "winCount": 239,
       "loseCount": 97,
-      "drawCount": 99,
+      "drawCount": 100,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -268,13 +268,13 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "context",
+      "name": "Blueberry",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
       "points": 231,
-      "winCount": 352,
-      "loseCount": 287,
+      "winCount": 353,
+      "loseCount": 288,
       "drawCount": 139,
       "maxConsecutiveWinCount": 8
     },
@@ -327,6 +327,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/246835375226441734",
+      "name": "フユニャン",
+      "userId": "246835375226441734",
+      "twitterId": "Nari_haberi",
+      "tier": "マスター クラス5",
+      "points": 178,
+      "winCount": 207,
+      "loseCount": 108,
+      "drawCount": 62,
+      "maxConsecutiveWinCount": 12
+    },
+    {
       "characterImage": "/images/783605815005265926",
       "name": "Dreizehn",
       "userId": "783605815005265926",
@@ -337,18 +349,6 @@
       "loseCount": 227,
       "drawCount": 92,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/246835375226441734",
-      "name": "フユニャン",
-      "userId": "246835375226441734",
-      "twitterId": "Nari_haberi",
-      "tier": "マスター クラス5",
-      "points": 177,
-      "winCount": 206,
-      "loseCount": 107,
-      "drawCount": 62,
-      "maxConsecutiveWinCount": 12
     },
     {
       "characterImage": "/images/590810665171611661",
@@ -368,10 +368,10 @@
       "userId": "304143941762568205",
       "twitterId": "Riki220225",
       "tier": "マスター クラス5",
-      "points": 157,
-      "winCount": 150,
-      "loseCount": 75,
-      "drawCount": 70,
+      "points": 162,
+      "winCount": 155,
+      "loseCount": 77,
+      "drawCount": 71,
       "maxConsecutiveWinCount": 7
     },
     {
