@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:17:39.469Z",
+  "updatedAt": "2026-10-29T10:08:01.795Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,9 +8,9 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2426,
-      "winCount": 1714,
-      "loseCount": 363,
+      "points": 2435,
+      "winCount": 1722,
+      "loseCount": 364,
       "drawCount": 731,
       "maxConsecutiveWinCount": 17
     },
@@ -272,10 +272,10 @@
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 228,
-      "winCount": 348,
-      "loseCount": 285,
-      "drawCount": 138,
+      "points": 231,
+      "winCount": 352,
+      "loseCount": 287,
+      "drawCount": 139,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -332,11 +332,23 @@
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
-      "points": 168,
-      "winCount": 196,
-      "loseCount": 105,
+      "points": 173,
+      "winCount": 202,
+      "loseCount": 107,
       "drawCount": 62,
       "maxConsecutiveWinCount": 12
+    },
+    {
+      "characterImage": "/images/783605815005265926",
+      "name": "Dreizehn",
+      "userId": "783605815005265926",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 164,
+      "winCount": 265,
+      "loseCount": 222,
+      "drawCount": 91,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/590810665171611661",
@@ -361,18 +373,6 @@
       "loseCount": 75,
       "drawCount": 70,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/783605815005265926",
-      "name": "Dreizehn",
-      "userId": "783605815005265926",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 157,
-      "winCount": 256,
-      "loseCount": 218,
-      "drawCount": 90,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/201098380143054854",
@@ -532,7 +532,7 @@
     },
     {
       "characterImage": "/images/392086958217097229",
-      "name": "if",
+      "name": "ゆらぎ",
       "userId": "392086958217097229",
       "twitterId": "yragi_otoge",
       "tier": "マスター クラス5",
@@ -1131,18 +1131,6 @@
       "maxConsecutiveWinCount": 4
     },
     {
-      "characterImage": "/images/426295403618516992",
-      "name": "そうさきフレンド募集",
-      "userId": "426295403618516992",
-      "twitterId": "sousaki_prsk",
-      "tier": "マスター クラス5",
-      "points": 35,
-      "winCount": 87,
-      "loseCount": 83,
-      "drawCount": 41,
-      "maxConsecutiveWinCount": 7
-    },
-    {
       "characterImage": "/images/233543097916801033",
       "name": "こた",
       "userId": "233543097916801033",
@@ -1165,6 +1153,18 @@
       "loseCount": 188,
       "drawCount": 75,
       "maxConsecutiveWinCount": 6
+    },
+    {
+      "characterImage": "/images/426295403618516992",
+      "name": "そうさきフレンド募集",
+      "userId": "426295403618516992",
+      "twitterId": "sousaki_prsk",
+      "tier": "マスター クラス5",
+      "points": 34,
+      "winCount": 89,
+      "loseCount": 86,
+      "drawCount": 41,
+      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/6847590100930562",
