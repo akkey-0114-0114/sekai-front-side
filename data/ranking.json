@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T02:55:52.245Z",
+  "updatedAt": "2026-10-29T03:46:00.880Z",
   "seasonId": 20,
   "players": [
     {
@@ -68,10 +68,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 858,
-      "winCount": 580,
-      "loseCount": 173,
-      "drawCount": 324,
+      "points": 865,
+      "winCount": 584,
+      "loseCount": 174,
+      "drawCount": 327,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -507,6 +507,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/308495680779231245",
+      "name": "阿修羅",
+      "userId": "308495680779231245",
+      "twitterId": "9vS2ZZWPXl33900",
+      "tier": "マスター クラス5",
+      "points": 127,
+      "winCount": 222,
+      "loseCount": 186,
+      "drawCount": 72,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/291480420415225858",
       "name": "ちるめろ（本物）",
       "userId": "291480420415225858",
@@ -531,16 +543,16 @@
       "maxConsecutiveWinCount": 12
     },
     {
-      "characterImage": "/images/308495680779231245",
-      "name": "阿修羅",
-      "userId": "308495680779231245",
-      "twitterId": "9vS2ZZWPXl33900",
+      "characterImage": "/images/783605815005265926",
+      "name": "Dreizehn",
+      "userId": "783605815005265926",
+      "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 122,
-      "winCount": 217,
-      "loseCount": 183,
-      "drawCount": 70,
-      "maxConsecutiveWinCount": 7
+      "points": 116,
+      "winCount": 207,
+      "loseCount": 189,
+      "drawCount": 78,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/156246250497101836",
@@ -565,18 +577,6 @@
       "loseCount": 22,
       "drawCount": 58,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/783605815005265926",
-      "name": "Dreizehn",
-      "userId": "783605815005265926",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 114,
-      "winCount": 204,
-      "loseCount": 183,
-      "drawCount": 74,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/170111531962687499",
