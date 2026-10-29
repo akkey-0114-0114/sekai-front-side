@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:08:01.795Z",
+  "updatedAt": "2026-10-29T10:58:10.586Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2435,
-      "winCount": 1722,
-      "loseCount": 364,
-      "drawCount": 731,
+      "points": 2439,
+      "winCount": 1725,
+      "loseCount": 366,
+      "drawCount": 733,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "characterImage": "/images/37698146989649926",
-      "name": "カラオケ70点台常連",
+      "name": "夕暮れ蝉日記",
       "userId": "37698146989649926",
       "twitterId": "sekai_uau",
       "tier": "マスター クラス5",
@@ -344,10 +344,10 @@
       "userId": "783605815005265926",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 164,
-      "winCount": 265,
-      "loseCount": 222,
-      "drawCount": 91,
+      "points": 172,
+      "winCount": 275,
+      "loseCount": 226,
+      "drawCount": 92,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -399,6 +399,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/259659435240767501",
+      "name": "りゅうじ",
+      "userId": "259659435240767501",
+      "twitterId": "H11rag1s",
+      "tier": "マスター クラス5",
+      "points": 149,
+      "winCount": 246,
+      "loseCount": 212,
+      "drawCount": 103,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/150921978743693322",
       "name": "かみちゃん",
       "userId": "150921978743693322",
@@ -409,18 +421,6 @@
       "loseCount": 216,
       "drawCount": 101,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/259659435240767501",
-      "name": "りゅうじ",
-      "userId": "259659435240767501",
-      "twitterId": "H11rag1s",
-      "tier": "マスター クラス5",
-      "points": 146,
-      "winCount": 242,
-      "loseCount": 211,
-      "drawCount": 103,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/5298627182645256",
