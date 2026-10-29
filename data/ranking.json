@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T00:15:23.274Z",
+  "updatedAt": "2026-10-29T01:15:34.201Z",
   "seasonId": 20,
   "players": [
     {
@@ -176,10 +176,10 @@
       "userId": "806056196629368847",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 333,
+      "points": 334,
       "winCount": 217,
       "loseCount": 0,
-      "drawCount": 71,
+      "drawCount": 72,
       "maxConsecutiveWinCount": 15
     },
     {
@@ -615,6 +615,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/783605815005265926",
+      "name": "Dreizehn",
+      "userId": "783605815005265926",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 106,
+      "winCount": 199,
+      "loseCount": 182,
+      "drawCount": 72,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/168701028770590727",
       "name": "こう見えて国語教師",
       "userId": "168701028770590727",
@@ -637,18 +649,6 @@
       "loseCount": 65,
       "drawCount": 51,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/783605815005265926",
-      "name": "Dreizehn",
-      "userId": "783605815005265926",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 102,
-      "winCount": 198,
-      "loseCount": 181,
-      "drawCount": 69,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/256302908484292613",
