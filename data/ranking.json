@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T05:16:16.442Z",
+  "updatedAt": "2026-10-29T05:56:23.315Z",
   "seasonId": 20,
   "players": [
     {
@@ -169,18 +169,6 @@
       "loseCount": 137,
       "drawCount": 149,
       "maxConsecutiveWinCount": 17
-    },
-    {
-      "characterImage": "/images/806056196629368847",
-      "name": "Obento",
-      "userId": "806056196629368847",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 334,
-      "winCount": 217,
-      "loseCount": 0,
-      "drawCount": 72,
-      "maxConsecutiveWinCount": 15
     },
     {
       "characterImage": "/images/625197524291788810",
@@ -507,6 +495,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/783605815005265926",
+      "name": "Dreizehn",
+      "userId": "783605815005265926",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 128,
+      "winCount": 222,
+      "loseCount": 199,
+      "drawCount": 82,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/308495680779231245",
       "name": "阿修羅",
       "userId": "308495680779231245",
@@ -541,18 +541,6 @@
       "loseCount": 42,
       "drawCount": 46,
       "maxConsecutiveWinCount": 12
-    },
-    {
-      "characterImage": "/images/783605815005265926",
-      "name": "Dreizehn",
-      "userId": "783605815005265926",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 123,
-      "winCount": 216,
-      "loseCount": 197,
-      "drawCount": 82,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/156246250497101836",
@@ -1201,6 +1189,18 @@
       "loseCount": 73,
       "drawCount": 33,
       "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/80924208191782912",
+      "name": "Ast*star",
+      "userId": "80924208191782912",
+      "twitterId": "kuro72716",
+      "tier": "マスター クラス5",
+      "points": 31,
+      "winCount": 36,
+      "loseCount": 22,
+      "drawCount": 23,
+      "maxConsecutiveWinCount": 5
     }
   ]
 }
