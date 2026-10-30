@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T04:23:21.128Z",
+  "updatedAt": "2026-10-30T05:13:29.958Z",
   "seasonId": 20,
   "players": [
     {
@@ -140,8 +140,8 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 374,
-      "winCount": 574,
+      "points": 377,
+      "winCount": 576,
       "loseCount": 476,
       "drawCount": 230,
       "maxConsecutiveWinCount": 7
@@ -428,10 +428,10 @@
       "userId": "516538870970327054",
       "twitterId": "Wu__hhh",
       "tier": "マスター クラス5",
-      "points": 150,
-      "winCount": 212,
-      "loseCount": 169,
-      "drawCount": 101,
+      "points": 149,
+      "winCount": 213,
+      "loseCount": 172,
+      "drawCount": 102,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -1191,16 +1191,16 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": "/images/6847590100930562",
-      "name": "ちじゅちじゅ連邦",
-      "userId": "6847590100930562",
-      "twitterId": "",
+      "characterImage": "/images/5187604429455361",
+      "name": "雪は何色",
+      "userId": "5187604429455361",
+      "twitterId": "neet_late",
       "tier": "マスター クラス5",
-      "points": 33,
-      "winCount": 32,
-      "loseCount": 6,
-      "drawCount": 15,
-      "maxConsecutiveWinCount": 8
+      "points": 34,
+      "winCount": 92,
+      "loseCount": 72,
+      "drawCount": 26,
+      "maxConsecutiveWinCount": 6
     }
   ]
 }
