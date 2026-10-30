@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:52:34.485Z",
+  "updatedAt": "2026-10-30T03:43:03.158Z",
   "seasonId": 20,
   "players": [
     {
@@ -15,8 +15,8 @@
       "maxConsecutiveWinCount": 17
     },
     {
-      "characterImage": "/images/137502081632583691",
-      "name": "22時以降出来ません",
+      "characterImage": null,
+      "name": "^^v",
       "userId": "137502081632583691",
       "twitterId": "",
       "tier": "マスター クラス5",
