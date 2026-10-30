@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T18:58:32.339Z",
+  "updatedAt": "2026-10-30T19:48:41.090Z",
   "seasonId": 20,
   "players": [
     {
@@ -320,8 +320,8 @@
       "userId": "5166926901084172",
       "twitterId": "richi_prsk",
       "tier": "マスター クラス5",
-      "points": 195,
-      "winCount": 189,
+      "points": 196,
+      "winCount": 190,
       "loseCount": 84,
       "drawCount": 73,
       "maxConsecutiveWinCount": 11
