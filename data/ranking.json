@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T22:49:13.051Z",
+  "updatedAt": "2026-10-30T23:19:18.479Z",
   "seasonId": 20,
   "players": [
     {
@@ -63,6 +63,18 @@
       "maxConsecutiveWinCount": 16
     },
     {
+      "characterImage": "/images/272110013727850501",
+      "name": "MINORI FAN",
+      "userId": "272110013727850501",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 913,
+      "winCount": 620,
+      "loseCount": 179,
+      "drawCount": 340,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/132831494322683918",
       "name": "シルヴィ",
       "userId": "132831494322683918",
@@ -73,18 +85,6 @@
       "loseCount": 165,
       "drawCount": 289,
       "maxConsecutiveWinCount": 14
-    },
-    {
-      "characterImage": "/images/272110013727850501",
-      "name": "MINORI FAN",
-      "userId": "272110013727850501",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 910,
-      "winCount": 617,
-      "loseCount": 178,
-      "drawCount": 337,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/533558892414337026",
@@ -104,10 +104,10 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 537,
-      "winCount": 410,
+      "points": 540,
+      "winCount": 411,
       "loseCount": 138,
-      "drawCount": 199,
+      "drawCount": 201,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "characterImage": "/images/5144945912909827",
-      "name": "わわわ",
+      "name": "パッパンル",
       "userId": "5144945912909827",
       "twitterId": "hagekingu0917",
       "tier": "マスター クラス5",
