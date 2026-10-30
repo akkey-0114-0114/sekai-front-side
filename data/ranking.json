@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T03:43:03.158Z",
+  "updatedAt": "2026-10-30T04:23:21.128Z",
   "seasonId": 20,
   "players": [
     {
@@ -15,7 +15,7 @@
       "maxConsecutiveWinCount": 17
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/137502081632583691",
       "name": "^^v",
       "userId": "137502081632583691",
       "twitterId": "",
@@ -135,6 +135,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/753572528120254477",
+      "name": "ピコ",
+      "userId": "753572528120254477",
+      "twitterId": "k7kygt",
+      "tier": "マスター クラス5",
+      "points": 374,
+      "winCount": 574,
+      "loseCount": 476,
+      "drawCount": 230,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/148043563943223297",
       "name": "Φ",
       "userId": "148043563943223297",
@@ -144,18 +156,6 @@
       "winCount": 235,
       "loseCount": 57,
       "drawCount": 148,
-      "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/753572528120254477",
-      "name": "ピコ",
-      "userId": "753572528120254477",
-      "twitterId": "k7kygt",
-      "tier": "マスター クラス5",
-      "points": 373,
-      "winCount": 573,
-      "loseCount": 476,
-      "drawCount": 230,
       "maxConsecutiveWinCount": 7
     },
     {
@@ -524,10 +524,10 @@
       "userId": "5577230604546062",
       "twitterId": "haribote85199",
       "tier": "マスター クラス5",
-      "points": 129,
-      "winCount": 107,
-      "loseCount": 28,
-      "drawCount": 42,
+      "points": 131,
+      "winCount": 109,
+      "loseCount": 29,
+      "drawCount": 44,
       "maxConsecutiveWinCount": 9
     },
     {
