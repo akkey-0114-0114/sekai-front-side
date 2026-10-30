@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:53:36.835Z",
+  "updatedAt": "2026-10-30T06:43:45.708Z",
   "seasonId": 20,
   "players": [
     {
@@ -51,6 +51,18 @@
       "maxConsecutiveWinCount": 14
     },
     {
+      "characterImage": "/images/272110013727850501",
+      "name": "MINORI FAN",
+      "userId": "272110013727850501",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 902,
+      "winCount": 609,
+      "loseCount": 176,
+      "drawCount": 336,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/182063036832174093",
       "name": "ゆー@ようつべ",
       "userId": "182063036832174093",
@@ -61,18 +73,6 @@
       "loseCount": 345,
       "drawCount": 356,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/272110013727850501",
-      "name": "MINORI FAN",
-      "userId": "272110013727850501",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 892,
-      "winCount": 601,
-      "loseCount": 175,
-      "drawCount": 335,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/243323553462300684",
@@ -392,9 +392,9 @@
       "userId": "308495680779231245",
       "twitterId": "9vS2ZZWPXl33900",
       "tier": "マスター クラス5",
-      "points": 154,
+      "points": 153,
       "winCount": 247,
-      "loseCount": 192,
+      "loseCount": 193,
       "drawCount": 77,
       "maxConsecutiveWinCount": 11
     },
