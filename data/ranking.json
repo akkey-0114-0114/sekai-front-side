@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:47:48.660Z",
+  "updatedAt": "2026-10-30T17:28:16.490Z",
   "seasonId": 20,
   "players": [
     {
@@ -44,10 +44,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 947,
-      "winCount": 798,
-      "loseCount": 353,
-      "drawCount": 374,
+      "points": 956,
+      "winCount": 807,
+      "loseCount": 354,
+      "drawCount": 375,
       "maxConsecutiveWinCount": 10
     },
     {
@@ -56,9 +56,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 913,
-      "winCount": 1137,
-      "loseCount": 815,
+      "points": 918,
+      "winCount": 1143,
+      "loseCount": 817,
       "drawCount": 437,
       "maxConsecutiveWinCount": 16
     },
@@ -183,7 +183,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/625197524291788810",
       "name": "えむα",
       "userId": "625197524291788810",
       "twitterId": "M_a1XD",
@@ -244,7 +244,7 @@
     },
     {
       "characterImage": "/images/5144945912909827",
-      "name": "ルンパッパ",
+      "name": "わわわ",
       "userId": "5144945912909827",
       "twitterId": "hagekingu0917",
       "tier": "マスター クラス5",
@@ -404,9 +404,9 @@
       "userId": "308495680779231245",
       "twitterId": "9vS2ZZWPXl33900",
       "tier": "マスター クラス5",
-      "points": 153,
+      "points": 152,
       "winCount": 247,
-      "loseCount": 193,
+      "loseCount": 194,
       "drawCount": 77,
       "maxConsecutiveWinCount": 11
     },
@@ -567,6 +567,18 @@
       "maxConsecutiveWinCount": 5
     },
     {
+      "characterImage": "/images/457686637943730187",
+      "name": "二階堂ヒロ",
+      "userId": "457686637943730187",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 114,
+      "winCount": 100,
+      "loseCount": 0,
+      "drawCount": 18,
+      "maxConsecutiveWinCount": 18
+    },
+    {
       "characterImage": "/images/170111531962687499",
       "name": "僕の影に凭れ霞んでく",
       "userId": "170111531962687499",
@@ -625,18 +637,6 @@
       "loseCount": 43,
       "drawCount": 43,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/457686637943730187",
-      "name": "二階堂ヒロ",
-      "userId": "457686637943730187",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 103,
-      "winCount": 93,
-      "loseCount": 0,
-      "drawCount": 16,
-      "maxConsecutiveWinCount": 18
     },
     {
       "characterImage": "/images/184185197172760576",
