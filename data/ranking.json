@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:35:11.600Z",
+  "updatedAt": "2026-10-30T12:15:36.796Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,8 +8,8 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2548,
-      "winCount": 1802,
+      "points": 2550,
+      "winCount": 1804,
       "loseCount": 376,
       "drawCount": 761,
       "maxConsecutiveWinCount": 17
@@ -44,10 +44,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 913,
-      "winCount": 776,
-      "loseCount": 347,
-      "drawCount": 361,
+      "points": 920,
+      "winCount": 781,
+      "loseCount": 348,
+      "drawCount": 363,
       "maxConsecutiveWinCount": 10
     },
     {
@@ -128,10 +128,10 @@
       "userId": "245318273696182286",
       "twitterId": "Pocky_prsk",
       "tier": "マスター クラス5",
-      "points": 445,
-      "winCount": 339,
-      "loseCount": 96,
-      "drawCount": 149,
+      "points": 447,
+      "winCount": 341,
+      "loseCount": 97,
+      "drawCount": 150,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -164,10 +164,10 @@
       "userId": "416928587080196105",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 356,
-      "winCount": 295,
-      "loseCount": 142,
-      "drawCount": 149,
+      "points": 362,
+      "winCount": 301,
+      "loseCount": 145,
+      "drawCount": 151,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -260,9 +260,9 @@
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 258,
+      "points": 257,
       "winCount": 379,
-      "loseCount": 293,
+      "loseCount": 294,
       "drawCount": 142,
       "maxConsecutiveWinCount": 8
     },
@@ -399,6 +399,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/5192823763361798",
+      "name": "KOEDA",
+      "userId": "5192823763361798",
+      "twitterId": "KOEDA_KINOKO",
+      "tier": "マスター クラス5",
+      "points": 152,
+      "winCount": 179,
+      "loseCount": 105,
+      "drawCount": 77,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/516538870970327054",
       "name": "無.",
       "userId": "516538870970327054",
@@ -409,18 +421,6 @@
       "loseCount": 172,
       "drawCount": 103,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/5192823763361798",
-      "name": "KOEDA",
-      "userId": "5192823763361798",
-      "twitterId": "KOEDA_KINOKO",
-      "tier": "マスター クラス5",
-      "points": 150,
-      "winCount": 173,
-      "loseCount": 100,
-      "drawCount": 77,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/259659435240767501",
@@ -436,7 +436,7 @@
     },
     {
       "characterImage": "/images/150921978743693322",
-      "name": "リンちゃんは神かな",
+      "name": "りんかみという人類",
       "userId": "150921978743693322",
       "twitterId": "necomaru_prsk",
       "tier": "マスター クラス5",
@@ -553,18 +553,6 @@
       "loseCount": 42,
       "drawCount": 46,
       "maxConsecutiveWinCount": 12
-    },
-    {
-      "characterImage": "/images/610337147020034056",
-      "name": "Pr\"Cament\"",
-      "userId": "610337147020034056",
-      "twitterId": "CoreNNmR",
-      "tier": "マスター クラス5",
-      "points": 121,
-      "winCount": 104,
-      "loseCount": 3,
-      "drawCount": 30,
-      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/173615932274876419",
@@ -908,9 +896,9 @@
       "userId": "261792353769807878",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 63,
+      "points": 61,
       "winCount": 75,
-      "loseCount": 25,
+      "loseCount": 27,
       "drawCount": 22,
       "maxConsecutiveWinCount": 10
     },
@@ -1105,6 +1093,18 @@
       "loseCount": 89,
       "drawCount": 23,
       "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": "/images/252752225839644680",
+      "name": "senboku",
+      "userId": "252752225839644680",
+      "twitterId": "senbokudayo",
+      "tier": "マスター クラス5",
+      "points": 38,
+      "winCount": 113,
+      "loseCount": 105,
+      "drawCount": 25,
+      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/29461366259593226",
