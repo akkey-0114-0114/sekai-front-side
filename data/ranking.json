@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T15:57:31.099Z",
+  "updatedAt": "2026-10-30T16:47:48.660Z",
   "seasonId": 20,
   "players": [
     {
@@ -51,6 +51,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/243323553462300684",
+      "name": "りんさんず",
+      "userId": "243323553462300684",
+      "twitterId": "RinSans3822",
+      "tier": "マスター クラス5",
+      "points": 913,
+      "winCount": 1137,
+      "loseCount": 815,
+      "drawCount": 437,
+      "maxConsecutiveWinCount": 16
+    },
+    {
       "characterImage": "/images/132831494322683918",
       "name": "シルヴィ",
       "userId": "132831494322683918",
@@ -61,18 +73,6 @@
       "loseCount": 165,
       "drawCount": 289,
       "maxConsecutiveWinCount": 14
-    },
-    {
-      "characterImage": "/images/243323553462300684",
-      "name": "りんさんず",
-      "userId": "243323553462300684",
-      "twitterId": "RinSans3822",
-      "tier": "マスター クラス5",
-      "points": 911,
-      "winCount": 1133,
-      "loseCount": 812,
-      "drawCount": 436,
-      "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": "/images/272110013727850501",
@@ -183,7 +183,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/625197524291788810",
+      "characterImage": null,
       "name": "えむα",
       "userId": "625197524291788810",
       "twitterId": "M_a1XD",
@@ -616,7 +616,7 @@
     },
     {
       "characterImage": "/images/168701028770590727",
-      "name": "こう見えて国語教師",
+      "name": "あ",
       "userId": "168701028770590727",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -625,6 +625,18 @@
       "loseCount": 43,
       "drawCount": 43,
       "maxConsecutiveWinCount": 11
+    },
+    {
+      "characterImage": "/images/457686637943730187",
+      "name": "二階堂ヒロ",
+      "userId": "457686637943730187",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 103,
+      "winCount": 93,
+      "loseCount": 0,
+      "drawCount": 16,
+      "maxConsecutiveWinCount": 18
     },
     {
       "characterImage": "/images/184185197172760576",
@@ -757,18 +769,6 @@
       "loseCount": 81,
       "drawCount": 41,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/457686637943730187",
-      "name": "二階堂ヒロ",
-      "userId": "457686637943730187",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 87,
-      "winCount": 81,
-      "loseCount": 0,
-      "drawCount": 15,
-      "maxConsecutiveWinCount": 18
     },
     {
       "characterImage": "/images/183956109303750663",
