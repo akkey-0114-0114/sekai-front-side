@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:14:57.618Z",
+  "updatedAt": "2026-10-30T10:55:04.686Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,8 +8,8 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2534,
-      "winCount": 1791,
+      "points": 2536,
+      "winCount": 1793,
       "loseCount": 375,
       "drawCount": 759,
       "maxConsecutiveWinCount": 17
@@ -63,6 +63,18 @@
       "maxConsecutiveWinCount": 17
     },
     {
+      "characterImage": "/images/182063036832174093",
+      "name": "ゆー@ようつべ",
+      "userId": "182063036832174093",
+      "twitterId": "yuuyuu_28",
+      "tier": "マスター クラス5",
+      "points": 903,
+      "winCount": 770,
+      "loseCount": 346,
+      "drawCount": 358,
+      "maxConsecutiveWinCount": 10
+    },
+    {
       "characterImage": "/images/243323553462300684",
       "name": "りんさんず",
       "userId": "243323553462300684",
@@ -73,18 +85,6 @@
       "loseCount": 800,
       "drawCount": 432,
       "maxConsecutiveWinCount": 16
-    },
-    {
-      "characterImage": "/images/182063036832174093",
-      "name": "ゆー@ようつべ",
-      "userId": "182063036832174093",
-      "twitterId": "yuuyuu_28",
-      "tier": "マスター クラス5",
-      "points": 893,
-      "winCount": 763,
-      "loseCount": 345,
-      "drawCount": 356,
-      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/533558892414337026",
@@ -891,6 +891,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/720971918631751683",
+      "name": "わんだほい火星人",
+      "userId": "720971918631751683",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 63,
+      "winCount": 115,
+      "loseCount": 87,
+      "drawCount": 42,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/261792353769807878",
       "name": "すし",
       "userId": "261792353769807878",
@@ -901,18 +913,6 @@
       "loseCount": 25,
       "drawCount": 22,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/720971918631751683",
-      "name": "わんだほい火星人",
-      "userId": "720971918631751683",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 59,
-      "winCount": 111,
-      "loseCount": 86,
-      "drawCount": 42,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/5150526401081346",
@@ -999,6 +999,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/214376984868667406",
+      "name": "はるちゃん",
+      "userId": "214376984868667406",
+      "twitterId": "h1a1r4u5t1y4ann",
+      "tier": "マスター クラス5",
+      "points": 49,
+      "winCount": 58,
+      "loseCount": 20,
+      "drawCount": 12,
+      "maxConsecutiveWinCount": 5
+    },
+    {
       "characterImage": "/images/249530031214424064",
       "name": "あうぇる",
       "userId": "249530031214424064",
@@ -1011,20 +1023,8 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/214376984868667406",
-      "name": "はるちゃん",
-      "userId": "214376984868667406",
-      "twitterId": "h1a1r4u5t1y4ann",
-      "tier": "マスター クラス5",
-      "points": 47,
-      "winCount": 56,
-      "loseCount": 19,
-      "drawCount": 12,
-      "maxConsecutiveWinCount": 5
-    },
-    {
       "characterImage": "/images/426295403618516992",
-      "name": "そうさきYT配信中",
+      "name": "そうさきフレンド募集",
       "userId": "426295403618516992",
       "twitterId": "sousaki_prsk",
       "tier": "マスター クラス5",
@@ -1144,7 +1144,7 @@
     },
     {
       "characterImage": "/images/237897924235452421",
-      "name": "に",
+      "name": "にぃ",
       "userId": "237897924235452421",
       "twitterId": "NiiNiin32",
       "tier": "マスター クラス5",
