@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T22:09:05.837Z",
+  "updatedAt": "2026-10-30T22:49:13.051Z",
   "seasonId": 20,
   "players": [
     {
@@ -80,8 +80,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 906,
-      "winCount": 614,
+      "points": 910,
+      "winCount": 617,
       "loseCount": 178,
       "drawCount": 337,
       "maxConsecutiveWinCount": 17
@@ -256,7 +256,7 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "　",
+      "name": "ソースカツ田中",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
