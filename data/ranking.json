@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T09:24:40.094Z",
+  "updatedAt": "2026-10-30T10:14:57.618Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2530,
-      "winCount": 1786,
-      "loseCount": 373,
-      "drawCount": 758,
+      "points": 2534,
+      "winCount": 1791,
+      "loseCount": 375,
+      "drawCount": 759,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -436,7 +436,7 @@
     },
     {
       "characterImage": "/images/150921978743693322",
-      "name": "陰謀論者",
+      "name": "右手で跳ね除ける逆境",
       "userId": "150921978743693322",
       "twitterId": "necomaru_prsk",
       "tier": "マスター クラス5",
@@ -507,18 +507,6 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/203342689135669260",
-      "name": "夏祭り恋慕う",
-      "userId": "203342689135669260",
-      "twitterId": "EmpErroR_time",
-      "tier": "マスター クラス5",
-      "points": 133,
-      "winCount": 153,
-      "loseCount": 105,
-      "drawCount": 75,
-      "maxConsecutiveWinCount": 6
-    },
-    {
       "characterImage": "/images/291480420415225858",
       "name": "ちるめろ（本物）",
       "userId": "291480420415225858",
@@ -529,6 +517,18 @@
       "loseCount": 51,
       "drawCount": 56,
       "maxConsecutiveWinCount": 5
+    },
+    {
+      "characterImage": "/images/203342689135669260",
+      "name": "夏祭り恋慕う",
+      "userId": "203342689135669260",
+      "twitterId": "EmpErroR_time",
+      "tier": "マスター クラス5",
+      "points": 132,
+      "winCount": 153,
+      "loseCount": 106,
+      "drawCount": 75,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/5577230604546062",
@@ -903,6 +903,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/720971918631751683",
+      "name": "わんだほい火星人",
+      "userId": "720971918631751683",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 59,
+      "winCount": 111,
+      "loseCount": 86,
+      "drawCount": 42,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/5150526401081346",
       "name": "あるちゃっとGPT",
       "userId": "5150526401081346",
@@ -949,18 +961,6 @@
       "loseCount": 124,
       "drawCount": 49,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/720971918631751683",
-      "name": "わんだほい火星人",
-      "userId": "720971918631751683",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 54,
-      "winCount": 106,
-      "loseCount": 86,
-      "drawCount": 41,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/317627041230159885",
