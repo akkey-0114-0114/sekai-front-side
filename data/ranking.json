@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T23:49:23.742Z",
+  "updatedAt": "2026-10-31T00:49:34.218Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2585,
-      "winCount": 1827,
-      "loseCount": 382,
-      "drawCount": 773,
+      "points": 2602,
+      "winCount": 1834,
+      "loseCount": 383,
+      "drawCount": 781,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -44,11 +44,23 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 958,
-      "winCount": 811,
-      "loseCount": 357,
-      "drawCount": 375,
+      "points": 959,
+      "winCount": 815,
+      "loseCount": 363,
+      "drawCount": 377,
       "maxConsecutiveWinCount": 10
+    },
+    {
+      "characterImage": "/images/272110013727850501",
+      "name": "MINORI FAN",
+      "userId": "272110013727850501",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 929,
+      "winCount": 629,
+      "loseCount": 182,
+      "drawCount": 348,
+      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/243323553462300684",
@@ -61,18 +73,6 @@
       "loseCount": 817,
       "drawCount": 437,
       "maxConsecutiveWinCount": 16
-    },
-    {
-      "characterImage": "/images/272110013727850501",
-      "name": "MINORI FAN",
-      "userId": "272110013727850501",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 916,
-      "winCount": 623,
-      "loseCount": 181,
-      "drawCount": 342,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/132831494322683918",
@@ -104,10 +104,10 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 545,
-      "winCount": 416,
+      "points": 552,
+      "winCount": 419,
       "loseCount": 139,
-      "drawCount": 203,
+      "drawCount": 206,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -543,6 +543,18 @@
       "maxConsecutiveWinCount": 5
     },
     {
+      "characterImage": "/images/457686637943730187",
+      "name": "二階堂ヒロ",
+      "userId": "457686637943730187",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 126,
+      "winCount": 105,
+      "loseCount": 0,
+      "drawCount": 23,
+      "maxConsecutiveWinCount": 18
+    },
+    {
       "characterImage": "/images/392086958217097229",
       "name": "Endorphine",
       "userId": "392086958217097229",
@@ -565,18 +577,6 @@
       "loseCount": 22,
       "drawCount": 58,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/457686637943730187",
-      "name": "二階堂ヒロ",
-      "userId": "457686637943730187",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 114,
-      "winCount": 100,
-      "loseCount": 0,
-      "drawCount": 18,
-      "maxConsecutiveWinCount": 18
     },
     {
       "characterImage": "/images/170111531962687499",
@@ -639,18 +639,6 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/184185197172760576",
-      "name": "ｵﾃﾞﾄ~",
-      "userId": "184185197172760576",
-      "twitterId": "210_wa_",
-      "tier": "マスター クラス5",
-      "points": 102,
-      "winCount": 117,
-      "loseCount": 65,
-      "drawCount": 51,
-      "maxConsecutiveWinCount": 5
-    },
-    {
       "characterImage": "/images/256302908484292613",
       "name": "Nayuta0914",
       "userId": "256302908484292613",
@@ -661,6 +649,18 @@
       "loseCount": 60,
       "drawCount": 36,
       "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/184185197172760576",
+      "name": "一つだけの願い事",
+      "userId": "184185197172760576",
+      "twitterId": "210_wa_",
+      "tier": "マスター クラス5",
+      "points": 100,
+      "winCount": 117,
+      "loseCount": 67,
+      "drawCount": 51,
+      "maxConsecutiveWinCount": 5
     },
     {
       "characterImage": "/images/173705749663137797",
