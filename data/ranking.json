@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T09:04:39.222Z",
+  "updatedAt": "2026-10-31T09:44:58.749Z",
   "seasonId": 20,
   "players": [
     {
@@ -195,6 +195,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/301112565824430082",
+      "name": "そろそろ指疲れた",
+      "userId": "301112565824430082",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 286,
+      "winCount": 402,
+      "loseCount": 299,
+      "drawCount": 149,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/323383674971267073",
       "name": "指骨折したよ泣",
       "userId": "323383674971267073",
@@ -229,18 +241,6 @@
       "loseCount": 204,
       "drawCount": 131,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/301112565824430082",
-      "name": "'s",
-      "userId": "301112565824430082",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 277,
-      "winCount": 395,
-      "loseCount": 299,
-      "drawCount": 147,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/192937409625243655",
@@ -356,9 +356,9 @@
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
-      "points": 180,
+      "points": 179,
       "winCount": 211,
-      "loseCount": 110,
+      "loseCount": 111,
       "drawCount": 62,
       "maxConsecutiveWinCount": 12
     },
