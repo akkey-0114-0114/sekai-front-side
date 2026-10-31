@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-31T10:25:11.948Z",
+  "updatedAt": "2026-10-31T10:55:37.160Z",
   "seasonId": 20,
   "players": [
     {
       "characterImage": "/images/156990469561196558",
-      "name": "ビーム撃てません",
+      "name": "2%足りない嘘",
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -39,6 +39,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/182063036832174093",
+      "name": "ゆー@ようつべ",
+      "userId": "182063036832174093",
+      "twitterId": "yuuyuu_28",
+      "tier": "マスター クラス5",
+      "points": 973,
+      "winCount": 829,
+      "loseCount": 366,
+      "drawCount": 378,
+      "maxConsecutiveWinCount": 10
+    },
+    {
       "characterImage": "/images/272110013727850501",
       "name": "MINORI FAN",
       "userId": "272110013727850501",
@@ -49,18 +61,6 @@
       "loseCount": 189,
       "drawCount": 364,
       "maxConsecutiveWinCount": 17
-    },
-    {
-      "characterImage": "/images/182063036832174093",
-      "name": "ゆー@ようつべ",
-      "userId": "182063036832174093",
-      "twitterId": "yuuyuu_28",
-      "tier": "マスター クラス5",
-      "points": 966,
-      "winCount": 823,
-      "loseCount": 365,
-      "drawCount": 377,
-      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/243323553462300684",
@@ -356,10 +356,10 @@
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
-      "points": 179,
-      "winCount": 211,
-      "loseCount": 111,
-      "drawCount": 62,
+      "points": 181,
+      "winCount": 213,
+      "loseCount": 112,
+      "drawCount": 63,
       "maxConsecutiveWinCount": 12
     },
     {
@@ -843,7 +843,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": "/images/527419323758821386",
+      "characterImage": null,
       "name": "しゅん@時間浪費",
       "userId": "527419323758821386",
       "twitterId": "jobanensen0217",
