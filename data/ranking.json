@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-31T07:33:54.629Z",
+  "updatedAt": "2026-10-31T08:24:11.524Z",
   "seasonId": 20,
   "players": [
     {
       "characterImage": "/images/156990469561196558",
-      "name": "ビーム今日なの！？",
+      "name": "ビームから逃げます",
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -56,8 +56,8 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 964,
-      "winCount": 821,
+      "points": 966,
+      "winCount": 823,
       "loseCount": 365,
       "drawCount": 377,
       "maxConsecutiveWinCount": 10
@@ -68,15 +68,15 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 932,
-      "winCount": 1157,
-      "loseCount": 821,
-      "drawCount": 439,
+      "points": 942,
+      "winCount": 1168,
+      "loseCount": 824,
+      "drawCount": 440,
       "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": "/images/132831494322683918",
-      "name": "ビーム打つな！！",
+      "name": "　",
       "userId": "132831494322683918",
       "twitterId": "sngporu",
       "tier": "マスター クラス5",
@@ -159,7 +159,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": "/images/416928587080196105",
+      "characterImage": null,
       "name": "X1Y4n",
       "userId": "416928587080196105",
       "twitterId": "",
@@ -248,10 +248,10 @@
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 262,
-      "winCount": 383,
-      "loseCount": 296,
-      "drawCount": 144,
+      "points": 267,
+      "winCount": 388,
+      "loseCount": 298,
+      "drawCount": 145,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -568,7 +568,7 @@
     },
     {
       "characterImage": "/images/173615932274876419",
-      "name": "おしりぷり音頭",
+      "name": "CV:平塚紗依",
       "userId": "173615932274876419",
       "twitterId": "Koz_otg",
       "tier": "マスター クラス5",
