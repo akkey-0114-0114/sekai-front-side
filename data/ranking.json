@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T09:44:58.749Z",
+  "updatedAt": "2026-10-31T10:25:11.948Z",
   "seasonId": 20,
   "players": [
     {
@@ -200,10 +200,10 @@
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 286,
-      "winCount": 402,
-      "loseCount": 299,
-      "drawCount": 149,
+      "points": 290,
+      "winCount": 406,
+      "loseCount": 300,
+      "drawCount": 150,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -855,6 +855,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/261792353769807878",
+      "name": "すし",
+      "userId": "261792353769807878",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 68,
+      "winCount": 82,
+      "loseCount": 27,
+      "drawCount": 23,
+      "maxConsecutiveWinCount": 10
+    },
+    {
       "characterImage": "/images/204213269384208391",
       "name": "ゆっぴー！",
       "userId": "204213269384208391",
@@ -901,18 +913,6 @@
       "loseCount": 87,
       "drawCount": 42,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/261792353769807878",
-      "name": "すし",
-      "userId": "261792353769807878",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 61,
-      "winCount": 75,
-      "loseCount": 27,
-      "drawCount": 22,
-      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/426295403618516992",
@@ -1107,7 +1107,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/59286211860443151",
+      "characterImage": null,
       "name": "明日10時集合ね。",
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
@@ -1179,8 +1179,8 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/5187604429455361",
-      "name": "2時間エビ生活",
+      "characterImage": null,
+      "name": "　",
       "userId": "5187604429455361",
       "twitterId": "neet_late",
       "tier": "マスター クラス5",
