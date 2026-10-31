@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T02:20:05.368Z",
+  "updatedAt": "2026-10-31T03:11:05.396Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2619,
-      "winCount": 1842,
-      "loseCount": 385,
-      "drawCount": 789,
+      "points": 2624,
+      "winCount": 1847,
+      "loseCount": 387,
+      "drawCount": 790,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -56,10 +56,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 932,
-      "winCount": 631,
+      "points": 936,
+      "winCount": 634,
       "loseCount": 183,
-      "drawCount": 349,
+      "drawCount": 350,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -392,8 +392,8 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 155,
-      "winCount": 122,
+      "points": 158,
+      "winCount": 125,
       "loseCount": 0,
       "drawCount": 30,
       "maxConsecutiveWinCount": 18
@@ -771,6 +771,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/283966015176409092",
+      "name": "小晴のか",
+      "userId": "283966015176409092",
+      "twitterId": "hanappi_nitizyo",
+      "tier": "マスター クラス5",
+      "points": 86,
+      "winCount": 180,
+      "loseCount": 162,
+      "drawCount": 62,
+      "maxConsecutiveWinCount": 5
+    },
+    {
       "characterImage": "/images/183956109303750663",
       "name": "れやむ",
       "userId": "183956109303750663",
@@ -793,18 +805,6 @@
       "loseCount": 45,
       "drawCount": 30,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/283966015176409092",
-      "name": "小晴のか",
-      "userId": "283966015176409092",
-      "twitterId": "hanappi_nitizyo",
-      "tier": "マスター クラス5",
-      "points": 80,
-      "winCount": 174,
-      "loseCount": 161,
-      "drawCount": 60,
-      "maxConsecutiveWinCount": 5
     },
     {
       "characterImage": "/images/156909858960904206",
@@ -831,7 +831,7 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": "/images/5242530551664648",
+      "characterImage": null,
       "name": "ハラショー",
       "userId": "5242530551664648",
       "twitterId": "harasho_g",
@@ -1028,10 +1028,10 @@
       "userId": "426295403618516992",
       "twitterId": "sousaki_prsk",
       "tier": "マスター クラス5",
-      "points": 45,
-      "winCount": 100,
+      "points": 48,
+      "winCount": 102,
       "loseCount": 89,
-      "drawCount": 43,
+      "drawCount": 45,
       "maxConsecutiveWinCount": 7
     },
     {
@@ -1191,7 +1191,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/344429746691465225",
+      "characterImage": null,
       "name": "〜てろむ〜",
       "userId": "344429746691465225",
       "twitterId": "Teromu0920",
