@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:27:40.340Z",
+  "updatedAt": "2026-10-31T14:07:52.586Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1040,
+      "points": 1042,
       "winCount": 900,
       "loseCount": 325,
-      "drawCount": 349,
+      "drawCount": 350,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -44,10 +44,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1008,
-      "winCount": 853,
-      "loseCount": 368,
-      "drawCount": 386,
+      "points": 1011,
+      "winCount": 855,
+      "loseCount": 369,
+      "drawCount": 387,
       "maxConsecutiveWinCount": 10
     },
     {
@@ -68,9 +68,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 947,
-      "winCount": 1173,
-      "loseCount": 826,
+      "points": 955,
+      "winCount": 1182,
+      "loseCount": 829,
       "drawCount": 441,
       "maxConsecutiveWinCount": 16
     },
@@ -104,10 +104,10 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 570,
-      "winCount": 430,
+      "points": 573,
+      "winCount": 431,
       "loseCount": 144,
-      "drawCount": 216,
+      "drawCount": 218,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -136,15 +136,15 @@
     },
     {
       "characterImage": "/images/753572528120254477",
-      "name": "ピコX配信中！",
+      "name": "ピコ",
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 388,
-      "winCount": 592,
-      "loseCount": 483,
-      "drawCount": 231,
-      "maxConsecutiveWinCount": 7
+      "points": 391,
+      "winCount": 596,
+      "loseCount": 486,
+      "drawCount": 232,
+      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/416928587080196105",
@@ -236,10 +236,10 @@
       "userId": "5173610738434060",
       "twitterId": "Ru_k0t0",
       "tier": "マスター クラス5",
-      "points": 278,
+      "points": 279,
       "winCount": 318,
       "loseCount": 204,
-      "drawCount": 131,
+      "drawCount": 132,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -260,8 +260,8 @@
       "userId": "5144945912909827",
       "twitterId": "hagekingu0917",
       "tier": "マスター クラス5",
-      "points": 261,
-      "winCount": 269,
+      "points": 264,
+      "winCount": 271,
       "loseCount": 158,
       "drawCount": 116,
       "maxConsecutiveWinCount": 9
@@ -284,10 +284,10 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 221,
-      "winCount": 165,
+      "points": 233,
+      "winCount": 170,
       "loseCount": 0,
-      "drawCount": 42,
+      "drawCount": 47,
       "maxConsecutiveWinCount": 18
     },
     {
@@ -356,9 +356,9 @@
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
-      "points": 179,
-      "winCount": 213,
-      "loseCount": 114,
+      "points": 182,
+      "winCount": 217,
+      "loseCount": 115,
       "drawCount": 63,
       "maxConsecutiveWinCount": 12
     },
@@ -380,8 +380,8 @@
       "userId": "590810665171611661",
       "twitterId": "Niwaaa_tori",
       "tier": "マスター クラス5",
-      "points": 163,
-      "winCount": 168,
+      "points": 167,
+      "winCount": 171,
       "loseCount": 80,
       "drawCount": 64,
       "maxConsecutiveWinCount": 6
@@ -687,6 +687,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/325160296154284033",
+      "name": "AFE☂あいわなちゃ",
+      "userId": "325160296154284033",
+      "twitterId": "aibanachannnnnn",
+      "tier": "マスター クラス5",
+      "points": 98,
+      "winCount": 195,
+      "loseCount": 144,
+      "drawCount": 47,
+      "maxConsecutiveWinCount": 10
+    },
+    {
       "characterImage": "/images/5243709529157646",
       "name": "茫洋　あの影は誰",
       "userId": "5243709529157646",
@@ -733,18 +745,6 @@
       "loseCount": 56,
       "drawCount": 22,
       "maxConsecutiveWinCount": 15
-    },
-    {
-      "characterImage": "/images/325160296154284033",
-      "name": "AFE☂あいわなちゃ",
-      "userId": "325160296154284033",
-      "twitterId": "aibanachannnnnn",
-      "tier": "マスター クラス5",
-      "points": 91,
-      "winCount": 189,
-      "loseCount": 143,
-      "drawCount": 46,
-      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/283966015176409092",
