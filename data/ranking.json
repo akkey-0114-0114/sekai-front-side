@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T06:43:14.851Z",
+  "updatedAt": "2026-10-31T07:33:54.629Z",
   "seasonId": 20,
   "players": [
     {
@@ -56,9 +56,9 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 959,
-      "winCount": 815,
-      "loseCount": 363,
+      "points": 964,
+      "winCount": 821,
+      "loseCount": 365,
       "drawCount": 377,
       "maxConsecutiveWinCount": 10
     },
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 924,
-      "winCount": 1148,
-      "loseCount": 818,
-      "drawCount": 438,
+      "points": 932,
+      "winCount": 1157,
+      "loseCount": 821,
+      "drawCount": 439,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -111,7 +111,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/245318273696182286",
       "name": "ErroR",
       "userId": "245318273696182286",
       "twitterId": "Pocky_prsk",
@@ -140,8 +140,8 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 380,
-      "winCount": 585,
+      "points": 388,
+      "winCount": 592,
       "loseCount": 483,
       "drawCount": 231,
       "maxConsecutiveWinCount": 7
@@ -243,6 +243,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/301112565824430082",
+      "name": "'s",
+      "userId": "301112565824430082",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 262,
+      "winCount": 383,
+      "loseCount": 296,
+      "drawCount": 144,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/5144945912909827",
       "name": "パッパンル",
       "userId": "5144945912909827",
@@ -253,18 +265,6 @@
       "loseCount": 158,
       "drawCount": 116,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/301112565824430082",
-      "name": "'s",
-      "userId": "301112565824430082",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 261,
-      "winCount": 382,
-      "loseCount": 295,
-      "drawCount": 143,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/37698146989649926",
@@ -423,7 +423,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/516538870970327054",
       "name": "無.",
       "userId": "516538870970327054",
       "twitterId": "Wu__hhh",
@@ -879,7 +879,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/564254775199547402",
       "name": "やーかず",
       "userId": "564254775199547402",
       "twitterId": "yakazu_3baka",
@@ -927,6 +927,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/239757103719305216",
+      "name": "アムール・エテルネル",
+      "userId": "239757103719305216",
+      "twitterId": "akihikokondosk",
+      "tier": "マスター クラス5",
+      "points": 56,
+      "winCount": 67,
+      "loseCount": 36,
+      "drawCount": 25,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/5150526401081346",
       "name": "あるちゃっとGPT",
       "userId": "5150526401081346",
@@ -961,18 +973,6 @@
       "loseCount": 21,
       "drawCount": 24,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/239757103719305216",
-      "name": "アムール・エテルネル",
-      "userId": "239757103719305216",
-      "twitterId": "akihikokondosk",
-      "tier": "マスター クラス5",
-      "points": 55,
-      "winCount": 66,
-      "loseCount": 36,
-      "drawCount": 25,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/225448700428521487",
@@ -1072,7 +1072,7 @@
     },
     {
       "characterImage": "/images/205434857866600455",
-      "name": "へっぽこぽこゆー太郎",
+      "name": "星風とに",
       "userId": "205434857866600455",
       "twitterId": "yukunkun_rhythm",
       "tier": "マスター クラス5",
