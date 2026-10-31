@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T15:48:53.598Z",
+  "updatedAt": "2026-10-31T16:29:24.652Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1062,
-      "winCount": 915,
+      "points": 1068,
+      "winCount": 917,
       "loseCount": 328,
-      "drawCount": 357,
+      "drawCount": 360,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 952,
-      "winCount": 1185,
-      "loseCount": 837,
-      "drawCount": 442,
+      "points": 959,
+      "winCount": 1191,
+      "loseCount": 839,
+      "drawCount": 444,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -104,10 +104,10 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 581,
-      "winCount": 436,
-      "loseCount": 144,
-      "drawCount": 220,
+      "points": 585,
+      "winCount": 438,
+      "loseCount": 145,
+      "drawCount": 222,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -423,7 +423,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/516538870970327054",
+      "characterImage": null,
       "name": "無.",
       "userId": "516538870970327054",
       "twitterId": "Wu__hhh",
@@ -1096,7 +1096,7 @@
     },
     {
       "characterImage": "/images/402474661940613129",
-      "name": "黄ピクミン",
+      "name": "_ikayaki_",
       "userId": "402474661940613129",
       "twitterId": "",
       "tier": "マスター クラス5",
