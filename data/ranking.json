@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T16:29:24.652Z",
+  "updatedAt": "2026-10-31T16:59:47.157Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1068,
-      "winCount": 917,
-      "loseCount": 328,
-      "drawCount": 360,
+      "points": 1076,
+      "winCount": 924,
+      "loseCount": 329,
+      "drawCount": 361,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 959,
-      "winCount": 1191,
-      "loseCount": 839,
-      "drawCount": 444,
+      "points": 960,
+      "winCount": 1195,
+      "loseCount": 843,
+      "drawCount": 445,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -423,7 +423,7 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/516538870970327054",
       "name": "無.",
       "userId": "516538870970327054",
       "twitterId": "Wu__hhh",
@@ -496,7 +496,7 @@
     },
     {
       "characterImage": "/images/156246250497101836",
-      "name": "たんおめ！",
+      "name": "チーズバーガーハン",
       "userId": "156246250497101836",
       "twitterId": "2026_475",
       "tier": "マスター クラス5",
@@ -615,7 +615,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/9155210933485573",
+      "characterImage": null,
       "name": "穂波のよろしくねｽﾀ",
       "userId": "9155210933485573",
       "twitterId": "shirase1014",
