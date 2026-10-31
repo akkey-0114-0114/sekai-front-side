@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T18:40:41.263Z",
+  "updatedAt": "2026-10-31T19:20:48.308Z",
   "seasonId": 20,
   "players": [
     {
@@ -692,9 +692,9 @@
       "userId": "325160296154284033",
       "twitterId": "aibanachannnnnn",
       "tier": "マスター クラス5",
-      "points": 99,
-      "winCount": 197,
-      "loseCount": 145,
+      "points": 98,
+      "winCount": 200,
+      "loseCount": 149,
       "drawCount": 47,
       "maxConsecutiveWinCount": 10
     },
@@ -1096,7 +1096,7 @@
     },
     {
       "characterImage": "/images/402474661940613129",
-      "name": "_ikayaki_",
+      "name": "K",
       "userId": "402474661940613129",
       "twitterId": "",
       "tier": "マスター クラス5",
