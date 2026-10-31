@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-31T08:24:11.524Z",
+  "updatedAt": "2026-10-31T09:04:39.222Z",
   "seasonId": 20,
   "players": [
     {
       "characterImage": "/images/156990469561196558",
-      "name": "ビームから逃げます",
+      "name": "ビーム撃てません",
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 942,
+      "points": 944,
       "winCount": 1168,
       "loseCount": 824,
-      "drawCount": 440,
+      "drawCount": 441,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -159,7 +159,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/416928587080196105",
       "name": "X1Y4n",
       "userId": "416928587080196105",
       "twitterId": "",
@@ -231,6 +231,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/301112565824430082",
+      "name": "'s",
+      "userId": "301112565824430082",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 277,
+      "winCount": 395,
+      "loseCount": 299,
+      "drawCount": 147,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/192937409625243655",
       "name": "☆ビーム★押せたね☆",
       "userId": "192937409625243655",
@@ -241,18 +253,6 @@
       "loseCount": 98,
       "drawCount": 100,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/301112565824430082",
-      "name": "'s",
-      "userId": "301112565824430082",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 267,
-      "winCount": 388,
-      "loseCount": 298,
-      "drawCount": 145,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/5144945912909827",
