@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T16:59:47.157Z",
+  "updatedAt": "2026-10-31T17:30:04.509Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1076,
-      "winCount": 924,
-      "loseCount": 329,
-      "drawCount": 361,
+      "points": 1078,
+      "winCount": 926,
+      "loseCount": 330,
+      "drawCount": 362,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -296,8 +296,8 @@
       "userId": "170427380858368014",
       "twitterId": "kirikiri0907",
       "tier": "マスター クラス5",
-      "points": 206,
-      "winCount": 347,
+      "points": 207,
+      "winCount": 348,
       "loseCount": 235,
       "drawCount": 80,
       "maxConsecutiveWinCount": 11
@@ -615,7 +615,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/9155210933485573",
       "name": "穂波のよろしくねｽﾀ",
       "userId": "9155210933485573",
       "twitterId": "shirase1014",
