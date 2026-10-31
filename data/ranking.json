@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T23:11:48.005Z",
+  "updatedAt": "2026-10-31T23:41:53.505Z",
   "seasonId": 20,
   "players": [
     {
@@ -56,10 +56,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 973,
-      "winCount": 656,
+      "points": 977,
+      "winCount": 658,
       "loseCount": 190,
-      "drawCount": 365,
+      "drawCount": 367,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -207,6 +207,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/457686637943730187",
+      "name": "二階堂ヒロ",
+      "userId": "457686637943730187",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 287,
+      "winCount": 205,
+      "loseCount": 0,
+      "drawCount": 57,
+      "maxConsecutiveWinCount": 25
+    },
+    {
       "characterImage": "/images/323383674971267073",
       "name": "指骨折したよ泣",
       "userId": "323383674971267073",
@@ -241,18 +253,6 @@
       "loseCount": 204,
       "drawCount": 132,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/457686637943730187",
-      "name": "二階堂ヒロ",
-      "userId": "457686637943730187",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 277,
-      "winCount": 201,
-      "loseCount": 0,
-      "drawCount": 53,
-      "maxConsecutiveWinCount": 25
     },
     {
       "characterImage": "/images/192937409625243655",
@@ -826,8 +826,8 @@
       "tier": "マスター クラス5",
       "points": 77,
       "winCount": 150,
-      "loseCount": 120,
-      "drawCount": 51,
+      "loseCount": 121,
+      "drawCount": 52,
       "maxConsecutiveWinCount": 10
     },
     {
