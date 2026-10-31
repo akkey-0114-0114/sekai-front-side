@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T22:11:24.883Z",
+  "updatedAt": "2026-10-31T22:41:38.865Z",
   "seasonId": 20,
   "players": [
     {
@@ -200,9 +200,9 @@
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 296,
+      "points": 294,
       "winCount": 415,
-      "loseCount": 305,
+      "loseCount": 307,
       "drawCount": 152,
       "maxConsecutiveWinCount": 8
     },
@@ -243,6 +243,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/457686637943730187",
+      "name": "二階堂ヒロ",
+      "userId": "457686637943730187",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 270,
+      "winCount": 195,
+      "loseCount": 0,
+      "drawCount": 53,
+      "maxConsecutiveWinCount": 19
+    },
+    {
       "characterImage": "/images/192937409625243655",
       "name": "☆ビーム★押せたね☆",
       "userId": "192937409625243655",
@@ -265,18 +277,6 @@
       "loseCount": 158,
       "drawCount": 116,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/457686637943730187",
-      "name": "二階堂ヒロ",
-      "userId": "457686637943730187",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 263,
-      "winCount": 189,
-      "loseCount": 0,
-      "drawCount": 53,
-      "maxConsecutiveWinCount": 18
     },
     {
       "characterImage": "/images/37698146989649926",
@@ -819,7 +819,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/139555986458062851",
       "name": "まえちゃん",
       "userId": "139555986458062851",
       "twitterId": "maetyan80806",
