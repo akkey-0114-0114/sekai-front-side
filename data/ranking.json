@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T05:22:23.933Z",
+  "updatedAt": "2026-10-31T06:02:43.863Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2640,
-      "winCount": 1853,
-      "loseCount": 388,
-      "drawCount": 799,
+      "points": 2650,
+      "winCount": 1862,
+      "loseCount": 390,
+      "drawCount": 801,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -39,15 +39,15 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/272110013727850501",
+      "characterImage": null,
       "name": "MINORI FAN",
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 961,
-      "winCount": 649,
+      "points": 971,
+      "winCount": 655,
       "loseCount": 189,
-      "drawCount": 361,
+      "drawCount": 364,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "characterImage": "/images/132831494322683918",
-      "name": "シルヴィ",
+      "name": "　",
       "userId": "132831494322683918",
       "twitterId": "sngporu",
       "tier": "マスター クラス5",
@@ -136,14 +136,14 @@
     },
     {
       "characterImage": "/images/753572528120254477",
-      "name": "ピコ",
+      "name": "ピコX配信中！",
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 376,
-      "winCount": 578,
-      "loseCount": 479,
-      "drawCount": 230,
+      "points": 380,
+      "winCount": 584,
+      "loseCount": 482,
+      "drawCount": 231,
       "maxConsecutiveWinCount": 7
     },
     {
@@ -159,7 +159,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": "/images/416928587080196105",
+      "characterImage": null,
       "name": "X1Y4n",
       "userId": "416928587080196105",
       "twitterId": "",
@@ -291,6 +291,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/457686637943730187",
+      "name": "二階堂ヒロ",
+      "userId": "457686637943730187",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 206,
+      "winCount": 154,
+      "loseCount": 0,
+      "drawCount": 41,
+      "maxConsecutiveWinCount": 18
+    },
+    {
       "characterImage": "/images/457338724789698560",
       "name": "うゆ♡",
       "userId": "457338724789698560",
@@ -301,18 +313,6 @@
       "loseCount": 104,
       "drawCount": 74,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/457686637943730187",
-      "name": "二階堂ヒロ",
-      "userId": "457686637943730187",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 203,
-      "winCount": 152,
-      "loseCount": 0,
-      "drawCount": 40,
-      "maxConsecutiveWinCount": 18
     },
     {
       "characterImage": "/images/28746192208850952",
@@ -915,6 +915,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/426295403618516992",
+      "name": "そうさきフレンド募集",
+      "userId": "426295403618516992",
+      "twitterId": "sousaki_prsk",
+      "tier": "マスター クラス5",
+      "points": 60,
+      "winCount": 113,
+      "loseCount": 95,
+      "drawCount": 49,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/5150526401081346",
       "name": "あるちゃっとGPT",
       "userId": "5150526401081346",
@@ -985,18 +997,6 @@
       "loseCount": 73,
       "drawCount": 31,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/426295403618516992",
-      "name": "そうさきフレンド募集",
-      "userId": "426295403618516992",
-      "twitterId": "sousaki_prsk",
-      "tier": "マスター クラス5",
-      "points": 53,
-      "winCount": 108,
-      "loseCount": 94,
-      "drawCount": 47,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/13978876032626697",
