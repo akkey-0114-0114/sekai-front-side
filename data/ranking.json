@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T21:31:11.465Z",
+  "updatedAt": "2026-10-31T22:11:24.883Z",
   "seasonId": 20,
   "players": [
     {
@@ -196,13 +196,13 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "100日後に正体隠す",
+      "name": "wh",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 297,
+      "points": 296,
       "winCount": 415,
-      "loseCount": 304,
+      "loseCount": 305,
       "drawCount": 152,
       "maxConsecutiveWinCount": 8
     },
@@ -272,8 +272,8 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 259,
-      "winCount": 186,
+      "points": 263,
+      "winCount": 189,
       "loseCount": 0,
       "drawCount": 53,
       "maxConsecutiveWinCount": 18
@@ -819,7 +819,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/139555986458062851",
+      "characterImage": null,
       "name": "まえちゃん",
       "userId": "139555986458062851",
       "twitterId": "maetyan80806",
