@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T10:55:37.160Z",
+  "updatedAt": "2026-10-31T11:25:59.006Z",
   "seasonId": 20,
   "players": [
     {
@@ -44,10 +44,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 973,
-      "winCount": 829,
-      "loseCount": 366,
-      "drawCount": 378,
+      "points": 979,
+      "winCount": 833,
+      "loseCount": 367,
+      "drawCount": 380,
       "maxConsecutiveWinCount": 10
     },
     {
@@ -196,13 +196,13 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "そろそろ指疲れた",
+      "name": "通信エラーやめて（泣",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 290,
-      "winCount": 406,
-      "loseCount": 300,
+      "points": 291,
+      "winCount": 408,
+      "loseCount": 301,
       "drawCount": 150,
       "maxConsecutiveWinCount": 8
     },
@@ -344,10 +344,10 @@
       "userId": "304143941762568205",
       "twitterId": "Riki220225",
       "tier": "マスター クラス5",
-      "points": 187,
-      "winCount": 172,
+      "points": 196,
+      "winCount": 177,
       "loseCount": 86,
-      "drawCount": 84,
+      "drawCount": 87,
       "maxConsecutiveWinCount": 7
     },
     {
@@ -356,9 +356,9 @@
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
-      "points": 181,
+      "points": 180,
       "winCount": 213,
-      "loseCount": 112,
+      "loseCount": 113,
       "drawCount": 63,
       "maxConsecutiveWinCount": 12
     },
@@ -435,7 +435,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/259659435240767501",
+      "characterImage": null,
       "name": "りゅうじ",
       "userId": "259659435240767501",
       "twitterId": "H11rag1s",
@@ -843,7 +843,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/527419323758821386",
       "name": "しゅん@時間浪費",
       "userId": "527419323758821386",
       "twitterId": "jobanensen0217",
@@ -1107,7 +1107,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/59286211860443151",
       "name": "明日10時集合ね。",
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
@@ -1179,7 +1179,7 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5187604429455361",
       "name": "　",
       "userId": "5187604429455361",
       "twitterId": "neet_late",
