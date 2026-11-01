@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T07:24:10.940Z",
+  "updatedAt": "2026-11-01T08:14:36.473Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2700,
-      "winCount": 1899,
-      "loseCount": 399,
-      "drawCount": 817,
+      "points": 2711,
+      "winCount": 1907,
+      "loseCount": 400,
+      "drawCount": 819,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -44,10 +44,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1017,
-      "winCount": 860,
+      "points": 1034,
+      "winCount": 871,
       "loseCount": 373,
-      "drawCount": 390,
+      "drawCount": 394,
       "maxConsecutiveWinCount": 10
     },
     {
@@ -56,10 +56,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 980,
-      "winCount": 1214,
-      "loseCount": 848,
-      "drawCount": 449,
+      "points": 986,
+      "winCount": 1223,
+      "loseCount": 853,
+      "drawCount": 450,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -116,8 +116,8 @@
       "userId": "245318273696182286",
       "twitterId": "Pocky_prsk",
       "tier": "マスター クラス5",
-      "points": 470,
-      "winCount": 355,
+      "points": 473,
+      "winCount": 358,
       "loseCount": 99,
       "drawCount": 158,
       "maxConsecutiveWinCount": 11
@@ -140,10 +140,10 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 435,
-      "winCount": 302,
+      "points": 451,
+      "winCount": 313,
       "loseCount": 0,
-      "drawCount": 84,
+      "drawCount": 86,
       "maxConsecutiveWinCount": 25
     },
     {
@@ -152,10 +152,10 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 397,
-      "winCount": 599,
-      "loseCount": 487,
-      "drawCount": 237,
+      "points": 408,
+      "winCount": 606,
+      "loseCount": 488,
+      "drawCount": 241,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -544,7 +544,7 @@
     },
     {
       "characterImage": "/images/291480420415225858",
-      "name": "ちるめろ（本物）",
+      "name": "ひいらぎ",
       "userId": "291480420415225858",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -711,7 +711,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/208077752997638150",
       "name": "村人",
       "userId": "208077752997638150",
       "twitterId": "",
@@ -1095,6 +1095,18 @@
       "maxConsecutiveWinCount": 4
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "ハッピーハロウィン！",
+      "userId": "5187604429455361",
+      "twitterId": "neet_late",
+      "tier": "マスター クラス5",
+      "points": 41,
+      "winCount": 100,
+      "loseCount": 77,
+      "drawCount": 29,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/402474661940613129",
       "name": "Oスピントリプル",
       "userId": "402474661940613129",
@@ -1117,18 +1129,6 @@
       "loseCount": 249,
       "drawCount": 80,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/5187604429455361",
-      "name": "ハッピーハロウィン！",
-      "userId": "5187604429455361",
-      "twitterId": "neet_late",
-      "tier": "マスター クラス5",
-      "points": 39,
-      "winCount": 97,
-      "loseCount": 74,
-      "drawCount": 28,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/5576641707982856",
