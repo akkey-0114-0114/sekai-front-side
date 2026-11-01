@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:57:19.268Z",
+  "updatedAt": "2026-11-01T17:27:32.254Z",
   "seasonId": 20,
   "players": [
     {
@@ -56,8 +56,8 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1017,
-      "winCount": 1257,
+      "points": 1020,
+      "winCount": 1259,
       "loseCount": 872,
       "drawCount": 462,
       "maxConsecutiveWinCount": 16
@@ -116,10 +116,10 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 564,
-      "winCount": 384,
+      "points": 567,
+      "winCount": 386,
       "loseCount": 0,
-      "drawCount": 109,
+      "drawCount": 110,
       "maxConsecutiveWinCount": 25
     },
     {
@@ -1040,10 +1040,10 @@
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
       "tier": "マスター クラス5",
-      "points": 44,
-      "winCount": 221,
+      "points": 46,
+      "winCount": 222,
       "loseCount": 250,
-      "drawCount": 81,
+      "drawCount": 82,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -1180,7 +1180,7 @@
     },
     {
       "characterImage": "/images/68559788845326340",
-      "name": "二階堂ヒロプロフ見て",
+      "name": "六花 ちゃん",
       "userId": "68559788845326340",
       "twitterId": "Kitsune0832",
       "tier": "マスター クラス5",
@@ -1191,16 +1191,16 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
-      "name": "よしだ*Mt",
-      "userId": "99037212292849679",
-      "twitterId": "Sophiawuss",
+      "characterImage": "/images/377363739883024384",
+      "name": "実力をください",
+      "userId": "377363739883024384",
+      "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 36,
-      "winCount": 81,
-      "loseCount": 90,
-      "drawCount": 25,
-      "maxConsecutiveWinCount": 8
+      "points": 35,
+      "winCount": 45,
+      "loseCount": 40,
+      "drawCount": 31,
+      "maxConsecutiveWinCount": 4
     }
   ]
 }
