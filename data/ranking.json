@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T02:22:34.734Z",
+  "updatedAt": "2026-11-01T03:22:57.339Z",
   "seasonId": 20,
   "players": [
     {
@@ -9,9 +9,9 @@
       "twitterId": "",
       "tier": "マスター クラス5",
       "points": 2666,
-      "winCount": 1874,
-      "loseCount": 392,
-      "drawCount": 805,
+      "winCount": 1875,
+      "loseCount": 394,
+      "drawCount": 806,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -92,8 +92,8 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 599,
-      "winCount": 447,
+      "points": 600,
+      "winCount": 448,
       "loseCount": 148,
       "drawCount": 228,
       "maxConsecutiveWinCount": 9
@@ -176,10 +176,10 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 336,
-      "winCount": 236,
+      "points": 356,
+      "winCount": 250,
       "loseCount": 0,
-      "drawCount": 67,
+      "drawCount": 70,
       "maxConsecutiveWinCount": 25
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "憎い",
+      "name": "ランクマCに萎えた",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -356,9 +356,9 @@
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
-      "points": 183,
-      "winCount": 218,
-      "loseCount": 115,
+      "points": 186,
+      "winCount": 221,
+      "loseCount": 116,
       "drawCount": 63,
       "maxConsecutiveWinCount": 12
     },
@@ -441,8 +441,8 @@
       "twitterId": "H11rag1s",
       "tier": "マスター クラス5",
       "points": 150,
-      "winCount": 251,
-      "loseCount": 217,
+      "winCount": 253,
+      "loseCount": 219,
       "drawCount": 104,
       "maxConsecutiveWinCount": 6
     },
@@ -1088,15 +1088,15 @@
       "userId": "252752225839644680",
       "twitterId": "senbokudayo",
       "tier": "マスター クラス5",
-      "points": 40,
-      "winCount": 115,
+      "points": 41,
+      "winCount": 116,
       "loseCount": 107,
       "drawCount": 26,
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/402474661940613129",
-      "name": "K",
+      "characterImage": null,
+      "name": "Oスピントリプル",
       "userId": "402474661940613129",
       "twitterId": "",
       "tier": "マスター クラス5",
