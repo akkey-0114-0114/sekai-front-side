@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:25:10.257Z",
+  "updatedAt": "2026-11-01T11:05:17.449Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1100,
-      "winCount": 941,
-      "loseCount": 332,
-      "drawCount": 370,
+      "points": 1109,
+      "winCount": 948,
+      "loseCount": 333,
+      "drawCount": 372,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -92,9 +92,9 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 612,
+      "points": 609,
       "winCount": 458,
-      "loseCount": 154,
+      "loseCount": 156,
       "drawCount": 234,
       "maxConsecutiveWinCount": 9
     },
@@ -116,8 +116,8 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 493,
-      "winCount": 339,
+      "points": 501,
+      "winCount": 346,
       "loseCount": 0,
       "drawCount": 95,
       "maxConsecutiveWinCount": 25
@@ -1179,6 +1179,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/68559788845326340",
+      "name": "二階堂ヒロプロフ見て",
+      "userId": "68559788845326340",
+      "twitterId": "Kitsune0832",
+      "tier": "マスター クラス5",
+      "points": 36,
+      "winCount": 80,
+      "loseCount": 67,
+      "drawCount": 27,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/377363739883024384",
       "name": "実力をください",
       "userId": "377363739883024384",
@@ -1189,18 +1201,6 @@
       "loseCount": 40,
       "drawCount": 31,
       "maxConsecutiveWinCount": 4
-    },
-    {
-      "characterImage": "/images/237897924235452421",
-      "name": "ニィニィです！",
-      "userId": "237897924235452421",
-      "twitterId": "NiiNiin32",
-      "tier": "マスター クラス5",
-      "points": 35,
-      "winCount": 27,
-      "loseCount": 5,
-      "drawCount": 14,
-      "maxConsecutiveWinCount": 5
     }
   ]
 }
