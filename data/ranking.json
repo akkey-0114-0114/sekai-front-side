@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T18:07:46.891Z",
+  "updatedAt": "2026-11-01T18:37:52.158Z",
   "seasonId": 20,
   "players": [
     {
@@ -116,10 +116,10 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 576,
-      "winCount": 392,
+      "points": 579,
+      "winCount": 394,
       "loseCount": 0,
-      "drawCount": 111,
+      "drawCount": 112,
       "maxConsecutiveWinCount": 25
     },
     {
