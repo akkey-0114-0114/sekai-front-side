@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:17:06.127Z",
+  "updatedAt": "2026-11-01T16:57:19.268Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1133,
-      "winCount": 971,
-      "loseCount": 343,
-      "drawCount": 379,
+      "points": 1138,
+      "winCount": 976,
+      "loseCount": 345,
+      "drawCount": 380,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -52,14 +52,14 @@
     },
     {
       "characterImage": "/images/243323553462300684",
-      "name": "りんさんずYT配信中",
+      "name": "りんさんず",
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
       "points": 1017,
-      "winCount": 1255,
-      "loseCount": 868,
-      "drawCount": 460,
+      "winCount": 1257,
+      "loseCount": 872,
+      "drawCount": 462,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -116,10 +116,10 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 552,
-      "winCount": 378,
+      "points": 564,
+      "winCount": 384,
       "loseCount": 0,
-      "drawCount": 105,
+      "drawCount": 109,
       "maxConsecutiveWinCount": 25
     },
     {
@@ -164,11 +164,11 @@
       "userId": "148043563943223297",
       "twitterId": "fire0322001",
       "tier": "マスター クラス5",
-      "points": 386,
-      "winCount": 244,
+      "points": 390,
+      "winCount": 247,
       "loseCount": 59,
       "drawCount": 152,
-      "maxConsecutiveWinCount": 7
+      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/416928587080196105",
@@ -1191,16 +1191,16 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/377363739883024384",
-      "name": "実力をください",
-      "userId": "377363739883024384",
-      "twitterId": "",
+      "characterImage": null,
+      "name": "よしだ*Mt",
+      "userId": "99037212292849679",
+      "twitterId": "Sophiawuss",
       "tier": "マスター クラス5",
-      "points": 35,
-      "winCount": 45,
-      "loseCount": 40,
-      "drawCount": 31,
-      "maxConsecutiveWinCount": 4
+      "points": 36,
+      "winCount": 81,
+      "loseCount": 90,
+      "drawCount": 25,
+      "maxConsecutiveWinCount": 8
     }
   ]
 }
