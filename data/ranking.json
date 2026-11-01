@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:23:50.523Z",
+  "updatedAt": "2026-11-01T07:24:10.940Z",
   "seasonId": 20,
   "players": [
     {
@@ -44,10 +44,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1016,
-      "winCount": 859,
-      "loseCount": 371,
-      "drawCount": 389,
+      "points": 1017,
+      "winCount": 860,
+      "loseCount": 373,
+      "drawCount": 390,
       "maxConsecutiveWinCount": 10
     },
     {
@@ -140,10 +140,10 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 417,
-      "winCount": 289,
+      "points": 435,
+      "winCount": 302,
       "loseCount": 0,
-      "drawCount": 82,
+      "drawCount": 84,
       "maxConsecutiveWinCount": 25
     },
     {
@@ -152,10 +152,10 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 392,
-      "winCount": 598,
+      "points": 397,
+      "winCount": 599,
       "loseCount": 487,
-      "drawCount": 232,
+      "drawCount": 237,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "タルタルチキン",
+      "name": "らく",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -580,7 +580,7 @@
     },
     {
       "characterImage": "/images/170111531962687499",
-      "name": "僕の影に凭れ霞んでく",
+      "name": "Its Me",
       "userId": "170111531962687499",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -711,7 +711,7 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/208077752997638150",
+      "characterImage": null,
       "name": "村人",
       "userId": "208077752997638150",
       "twitterId": "",
@@ -1119,6 +1119,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "ハッピーハロウィン！",
+      "userId": "5187604429455361",
+      "twitterId": "neet_late",
+      "tier": "マスター クラス5",
+      "points": 39,
+      "winCount": 97,
+      "loseCount": 74,
+      "drawCount": 28,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/5576641707982856",
       "name": "Atl/ねむむ♬",
       "userId": "5576641707982856",
@@ -1189,18 +1201,6 @@
       "loseCount": 5,
       "drawCount": 14,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/5187604429455361",
-      "name": "　",
-      "userId": "5187604429455361",
-      "twitterId": "neet_late",
-      "tier": "マスター クラス5",
-      "points": 35,
-      "winCount": 93,
-      "loseCount": 73,
-      "drawCount": 26,
-      "maxConsecutiveWinCount": 6
     }
   ]
 }
