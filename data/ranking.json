@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T13:15:57.314Z",
+  "updatedAt": "2026-11-01T13:56:11.000Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,9 +8,9 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2742,
-      "winCount": 1928,
-      "loseCount": 403,
+      "points": 2753,
+      "winCount": 1939,
+      "loseCount": 404,
       "drawCount": 827,
       "maxConsecutiveWinCount": 17
     },
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1114,
-      "winCount": 954,
-      "loseCount": 335,
-      "drawCount": 372,
+      "points": 1121,
+      "winCount": 960,
+      "loseCount": 338,
+      "drawCount": 375,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -44,10 +44,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1044,
-      "winCount": 877,
-      "loseCount": 373,
-      "drawCount": 397,
+      "points": 1053,
+      "winCount": 883,
+      "loseCount": 375,
+      "drawCount": 401,
       "maxConsecutiveWinCount": 10
     },
     {
@@ -56,10 +56,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1001,
-      "winCount": 1237,
-      "loseCount": 858,
-      "drawCount": 455,
+      "points": 1004,
+      "winCount": 1243,
+      "loseCount": 862,
+      "drawCount": 456,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -92,8 +92,8 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 609,
-      "winCount": 458,
+      "points": 610,
+      "winCount": 459,
       "loseCount": 156,
       "drawCount": 234,
       "maxConsecutiveWinCount": 9
@@ -116,10 +116,10 @@
       "userId": "457686637943730187",
       "twitterId": "sekai_client",
       "tier": "マスター クラス5",
-      "points": 534,
-      "winCount": 367,
+      "points": 537,
+      "winCount": 369,
       "loseCount": 0,
-      "drawCount": 101,
+      "drawCount": 102,
       "maxConsecutiveWinCount": 25
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "'s",
+      "name": "悔しさと虚しさと怨み",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -356,8 +356,8 @@
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
-      "points": 194,
-      "winCount": 225,
+      "points": 195,
+      "winCount": 226,
       "loseCount": 116,
       "drawCount": 68,
       "maxConsecutiveWinCount": 12
@@ -1035,18 +1035,6 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/5576641707982856",
-      "name": "Atl/ねむむ♬",
-      "userId": "5576641707982856",
-      "twitterId": "Nemu_3157",
-      "tier": "マスター クラス5",
-      "points": 45,
-      "winCount": 115,
-      "loseCount": 91,
-      "drawCount": 24,
-      "maxConsecutiveWinCount": 7
-    },
-    {
       "characterImage": "/images/579945071015510028",
       "name": "おあんでん",
       "userId": "579945071015510028",
@@ -1059,16 +1047,16 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/5187604429455361",
-      "name": "夜もすがら君想ふ(1",
-      "userId": "5187604429455361",
-      "twitterId": "neet_late",
+      "characterImage": "/images/5576641707982856",
+      "name": "Atl/ねむむ♬",
+      "userId": "5576641707982856",
+      "twitterId": "Nemu_3157",
       "tier": "マスター クラス5",
       "points": 43,
-      "winCount": 101,
-      "loseCount": 78,
-      "drawCount": 31,
-      "maxConsecutiveWinCount": 6
+      "winCount": 115,
+      "loseCount": 93,
+      "drawCount": 24,
+      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/233543097916801033",
@@ -1107,6 +1095,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "夜もすがら君想ふ(1",
+      "userId": "5187604429455361",
+      "twitterId": "neet_late",
+      "tier": "マスター クラス5",
+      "points": 42,
+      "winCount": 102,
+      "loseCount": 80,
+      "drawCount": 31,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/294030286845030405",
       "name": "れぺ",
       "userId": "294030286845030405",
@@ -1120,7 +1120,7 @@
     },
     {
       "characterImage": "/images/205434857866600455",
-      "name": "星風とに",
+      "name": "ゆーちゃ♡",
       "userId": "205434857866600455",
       "twitterId": "yukunkun_rhythm",
       "tier": "マスター クラス5",
