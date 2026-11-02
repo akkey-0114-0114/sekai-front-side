@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T16:35:29.528Z",
+  "updatedAt": "2026-11-02T17:36:11.544Z",
   "seasonId": 20,
   "players": [
     {
@@ -44,11 +44,11 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1106,
-      "winCount": 937,
+      "points": 1126,
+      "winCount": 955,
       "loseCount": 394,
       "drawCount": 414,
-      "maxConsecutiveWinCount": 10
+      "maxConsecutiveWinCount": 21
     },
     {
       "characterImage": "/images/243323553462300684",
@@ -56,10 +56,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1052,
-      "winCount": 1289,
-      "loseCount": 887,
-      "drawCount": 476,
+      "points": 1056,
+      "winCount": 1294,
+      "loseCount": 890,
+      "drawCount": 477,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -1083,7 +1083,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/233543097916801033",
       "name": "こた",
       "userId": "233543097916801033",
       "twitterId": "こた-p7c",
