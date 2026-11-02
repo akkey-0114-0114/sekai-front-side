@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T08:50:42.193Z",
+  "updatedAt": "2026-11-02T09:40:59.582Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2790,
-      "winCount": 1967,
-      "loseCount": 412,
-      "drawCount": 837,
+      "points": 2802,
+      "winCount": 1977,
+      "loseCount": 414,
+      "drawCount": 839,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -32,9 +32,9 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1140,
-      "winCount": 979,
-      "loseCount": 347,
+      "points": 1147,
+      "winCount": 987,
+      "loseCount": 349,
       "drawCount": 380,
       "maxConsecutiveWinCount": 11
     },
@@ -136,7 +136,7 @@
     },
     {
       "characterImage": "/images/753572528120254477",
-      "name": "ピコ　スピード迷子",
+      "name": "ピコX配信中！",
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
@@ -188,8 +188,8 @@
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 308,
-      "winCount": 429,
+      "points": 309,
+      "winCount": 430,
       "loseCount": 317,
       "drawCount": 161,
       "maxConsecutiveWinCount": 8
@@ -387,6 +387,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/5192823763361798",
+      "name": "KOEDA",
+      "userId": "5192823763361798",
+      "twitterId": "KOEDA_KINOKO",
+      "tier": "マスター クラス5",
+      "points": 157,
+      "winCount": 194,
+      "loseCount": 120,
+      "drawCount": 80,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/259659435240767501",
       "name": "りゅうじ",
       "userId": "259659435240767501",
@@ -397,18 +409,6 @@
       "loseCount": 230,
       "drawCount": 109,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/5192823763361798",
-      "name": "KOEDA",
-      "userId": "5192823763361798",
-      "twitterId": "KOEDA_KINOKO",
-      "tier": "マスター クラス5",
-      "points": 156,
-      "winCount": 191,
-      "loseCount": 117,
-      "drawCount": 79,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/516538870970327054",
@@ -824,9 +824,9 @@
       "userId": "564254775199547402",
       "twitterId": "yakazu_3baka",
       "tier": "マスター クラス5",
-      "points": 75,
-      "winCount": 125,
-      "loseCount": 108,
+      "points": 76,
+      "winCount": 127,
+      "loseCount": 109,
       "drawCount": 49,
       "maxConsecutiveWinCount": 6
     },
@@ -1011,6 +1011,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/205434857866600455",
+      "name": "ゆーくん",
+      "userId": "205434857866600455",
+      "twitterId": "yukunkun_rhythm",
+      "tier": "マスター クラス5",
+      "points": 50,
+      "winCount": 53,
+      "loseCount": 22,
+      "drawCount": 26,
+      "maxConsecutiveWinCount": 4
+    },
+    {
       "characterImage": "/images/214376984868667406",
       "name": "はるちゃん",
       "userId": "214376984868667406",
@@ -1081,18 +1093,6 @@
       "loseCount": 108,
       "drawCount": 26,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/205434857866600455",
-      "name": "ゆーくん",
-      "userId": "205434857866600455",
-      "twitterId": "yukunkun_rhythm",
-      "tier": "マスター クラス5",
-      "points": 42,
-      "winCount": 46,
-      "loseCount": 21,
-      "drawCount": 25,
-      "maxConsecutiveWinCount": 4
     },
     {
       "characterImage": "/images/294030286845030405",
