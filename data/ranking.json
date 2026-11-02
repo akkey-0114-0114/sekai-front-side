@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T06:20:06.612Z",
+  "updatedAt": "2026-11-02T07:50:31.415Z",
   "seasonId": 20,
   "players": [
     {
@@ -9,9 +9,9 @@
       "twitterId": "",
       "tier": "マスター クラス5",
       "points": 2771,
-      "winCount": 1951,
-      "loseCount": 407,
-      "drawCount": 832,
+      "winCount": 1952,
+      "loseCount": 411,
+      "drawCount": 835,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -51,6 +51,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/272110013727850501",
+      "name": "KAITO FAN",
+      "userId": "272110013727850501",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 1021,
+      "winCount": 691,
+      "loseCount": 197,
+      "drawCount": 378,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/243323553462300684",
       "name": "りんさんず",
       "userId": "243323553462300684",
@@ -61,18 +73,6 @@
       "loseCount": 872,
       "drawCount": 462,
       "maxConsecutiveWinCount": 16
-    },
-    {
-      "characterImage": "/images/272110013727850501",
-      "name": "KAITO FAN",
-      "userId": "272110013727850501",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 999,
-      "winCount": 675,
-      "loseCount": 195,
-      "drawCount": 373,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/132831494322683918",
@@ -284,10 +284,10 @@
       "userId": "170427380858368014",
       "twitterId": "kirikiri0907",
       "tier": "マスター クラス5",
-      "points": 210,
-      "winCount": 352,
-      "loseCount": 238,
-      "drawCount": 81,
+      "points": 219,
+      "winCount": 357,
+      "loseCount": 239,
+      "drawCount": 84,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -507,6 +507,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/203342689135669260",
+      "name": "夏祭り恋慕う",
+      "userId": "203342689135669260",
+      "twitterId": "EmpErroR_time",
+      "tier": "マスター クラス5",
+      "points": 134,
+      "winCount": 156,
+      "loseCount": 107,
+      "drawCount": 75,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/532825330736398341",
       "name": "だすと",
       "userId": "532825330736398341",
@@ -517,18 +529,6 @@
       "loseCount": 109,
       "drawCount": 59,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/203342689135669260",
-      "name": "夏祭り恋慕う",
-      "userId": "203342689135669260",
-      "twitterId": "EmpErroR_time",
-      "tier": "マスター クラス5",
-      "points": 133,
-      "winCount": 155,
-      "loseCount": 107,
-      "drawCount": 75,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/291480420415225858",
@@ -728,9 +728,9 @@
       "userId": "313622802980560898",
       "twitterId": "isi_xle",
       "tier": "マスター クラス5",
-      "points": 93,
+      "points": 92,
       "winCount": 134,
-      "loseCount": 100,
+      "loseCount": 101,
       "drawCount": 42,
       "maxConsecutiveWinCount": 14
     },
@@ -784,7 +784,7 @@
     },
     {
       "characterImage": "/images/183956109303750663",
-      "name": "初セカ　優しくしてね",
+      "name": "れやむ",
       "userId": "183956109303750663",
       "twitterId": "Reyamuuuuuuu",
       "tier": "マスター クラス5",
@@ -1024,7 +1024,7 @@
     },
     {
       "characterImage": "/images/249530031214424064",
-      "name": "∀うぇる",
+      "name": "あうぇる",
       "userId": "249530031214424064",
       "twitterId": "",
       "tier": "マスター クラス5",
