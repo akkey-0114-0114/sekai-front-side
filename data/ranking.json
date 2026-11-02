@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T22:57:57.895Z",
+  "updatedAt": "2026-11-02T23:38:06.706Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2852,
-      "winCount": 2017,
-      "loseCount": 425,
-      "drawCount": 852,
+      "points": 2859,
+      "winCount": 2023,
+      "loseCount": 428,
+      "drawCount": 854,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -68,10 +68,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1046,
-      "winCount": 709,
+      "points": 1054,
+      "winCount": 713,
       "loseCount": 198,
-      "drawCount": 383,
+      "drawCount": 386,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -184,13 +184,13 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "　",
+      "name": "不調",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 313,
+      "points": 308,
       "winCount": 439,
-      "loseCount": 322,
+      "loseCount": 327,
       "drawCount": 161,
       "maxConsecutiveWinCount": 8
     },
@@ -339,7 +339,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/5166926901084172",
       "name": "りちょれ",
       "userId": "5166926901084172",
       "twitterId": "richi_prsk",
