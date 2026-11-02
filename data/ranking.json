@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:31:31.398Z",
+  "updatedAt": "2026-11-02T12:22:47.617Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,9 +8,9 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2824,
-      "winCount": 1987,
-      "loseCount": 414,
+      "points": 2833,
+      "winCount": 1998,
+      "loseCount": 417,
       "drawCount": 847,
       "maxConsecutiveWinCount": 17
     },
@@ -44,10 +44,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1091,
-      "winCount": 918,
-      "loseCount": 384,
-      "drawCount": 408,
+      "points": 1092,
+      "winCount": 922,
+      "loseCount": 389,
+      "drawCount": 410,
       "maxConsecutiveWinCount": 10
     },
     {
@@ -147,6 +147,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/416928587080196105",
+      "name": "X1Y4n",
+      "userId": "416928587080196105",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 394,
+      "winCount": 327,
+      "loseCount": 151,
+      "drawCount": 158,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/148043563943223297",
       "name": "Φ",
       "userId": "148043563943223297",
@@ -157,18 +169,6 @@
       "loseCount": 59,
       "drawCount": 152,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/416928587080196105",
-      "name": "X1Y4n",
-      "userId": "416928587080196105",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 381,
-      "winCount": 320,
-      "loseCount": 151,
-      "drawCount": 154,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/5170409750286344",
@@ -188,8 +188,8 @@
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 309,
-      "winCount": 430,
+      "points": 311,
+      "winCount": 432,
       "loseCount": 317,
       "drawCount": 161,
       "maxConsecutiveWinCount": 8
@@ -375,6 +375,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/259659435240767501",
+      "name": "りゅうじ",
+      "userId": "259659435240767501",
+      "twitterId": "H11rag1s",
+      "tier": "マスター クラス5",
+      "points": 165,
+      "winCount": 277,
+      "loseCount": 237,
+      "drawCount": 111,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/201098380143054854",
       "name": "求核置換反応",
       "userId": "201098380143054854",
@@ -387,27 +399,15 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/259659435240767501",
-      "name": "りゅうじ",
-      "userId": "259659435240767501",
-      "twitterId": "H11rag1s",
-      "tier": "マスター クラス5",
-      "points": 159,
-      "winCount": 267,
-      "loseCount": 232,
-      "drawCount": 111,
-      "maxConsecutiveWinCount": 6
-    },
-    {
       "characterImage": "/images/5192823763361798",
       "name": "KOEDA",
       "userId": "5192823763361798",
       "twitterId": "KOEDA_KINOKO",
       "tier": "マスター クラス5",
-      "points": 157,
-      "winCount": 194,
-      "loseCount": 120,
-      "drawCount": 80,
+      "points": 158,
+      "winCount": 198,
+      "loseCount": 124,
+      "drawCount": 82,
       "maxConsecutiveWinCount": 9
     },
     {
