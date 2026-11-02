@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T23:48:48.216Z",
+  "updatedAt": "2026-11-02T00:38:57.095Z",
   "seasonId": 20,
   "players": [
     {
@@ -87,6 +87,18 @@
       "maxConsecutiveWinCount": 14
     },
     {
+      "characterImage": "/images/457686637943730187",
+      "name": "二階堂ヒロ",
+      "userId": "457686637943730187",
+      "twitterId": "sekai_client",
+      "tier": "マスター クラス5",
+      "points": 635,
+      "winCount": 437,
+      "loseCount": 0,
+      "drawCount": 115,
+      "maxConsecutiveWinCount": 25
+    },
+    {
       "characterImage": "/images/567850409714769922",
       "name": "たーぼー",
       "userId": "567850409714769922",
@@ -97,18 +109,6 @@
       "loseCount": 161,
       "drawCount": 236,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/457686637943730187",
-      "name": "二階堂ヒロ",
-      "userId": "457686637943730187",
-      "twitterId": "sekai_client",
-      "tier": "マスター クラス5",
-      "points": 624,
-      "winCount": 428,
-      "loseCount": 0,
-      "drawCount": 115,
-      "maxConsecutiveWinCount": 25
     },
     {
       "characterImage": "/images/533558892414337026",
