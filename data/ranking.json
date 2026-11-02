@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T04:19:36.371Z",
+  "updatedAt": "2026-11-02T05:19:54.577Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,9 +32,9 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1138,
-      "winCount": 976,
-      "loseCount": 345,
+      "points": 1140,
+      "winCount": 979,
+      "loseCount": 347,
       "drawCount": 380,
       "maxConsecutiveWinCount": 11
     },
@@ -68,10 +68,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 978,
-      "winCount": 660,
-      "loseCount": 194,
-      "drawCount": 369,
+      "points": 983,
+      "winCount": 663,
+      "loseCount": 195,
+      "drawCount": 372,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -399,18 +399,6 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/516538870970327054",
-      "name": "無.",
-      "userId": "516538870970327054",
-      "twitterId": "Wu__hhh",
-      "tier": "マスター クラス5",
-      "points": 155,
-      "winCount": 217,
-      "loseCount": 173,
-      "drawCount": 104,
-      "maxConsecutiveWinCount": 6
-    },
-    {
       "characterImage": "/images/5192823763361798",
       "name": "KOEDA",
       "userId": "5192823763361798",
@@ -421,6 +409,18 @@
       "loseCount": 112,
       "drawCount": 78,
       "maxConsecutiveWinCount": 9
+    },
+    {
+      "characterImage": "/images/516538870970327054",
+      "name": "無.",
+      "userId": "516538870970327054",
+      "twitterId": "Wu__hhh",
+      "tier": "マスター クラス5",
+      "points": 154,
+      "winCount": 217,
+      "loseCount": 174,
+      "drawCount": 104,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/308495680779231245",
