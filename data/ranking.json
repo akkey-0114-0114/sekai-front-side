@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T19:27:00.458Z",
+  "updatedAt": "2026-11-02T20:07:19.351Z",
   "seasonId": 20,
   "players": [
     {
@@ -459,7 +459,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/16766381643124744",
       "name": "こうや",
       "userId": "16766381643124744",
       "twitterId": "Kouya03153450",
