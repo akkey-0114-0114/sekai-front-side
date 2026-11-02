@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T03:19:25.559Z",
+  "updatedAt": "2026-11-02T04:19:36.371Z",
   "seasonId": 20,
   "players": [
     {
@@ -136,13 +136,13 @@
     },
     {
       "characterImage": "/images/753572528120254477",
-      "name": "ピコ設定早め",
+      "name": "ピコ　スピード迷子",
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
       "points": 417,
-      "winCount": 616,
-      "loseCount": 495,
+      "winCount": 618,
+      "loseCount": 497,
       "drawCount": 245,
       "maxConsecutiveWinCount": 8
     },
