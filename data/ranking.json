@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T17:36:11.544Z",
+  "updatedAt": "2026-11-02T18:26:20.623Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1184,
-      "winCount": 1023,
+      "points": 1193,
+      "winCount": 1029,
       "loseCount": 363,
-      "drawCount": 390,
+      "drawCount": 393,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -44,11 +44,11 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1126,
-      "winCount": 955,
+      "points": 1133,
+      "winCount": 958,
       "loseCount": 394,
-      "drawCount": 414,
-      "maxConsecutiveWinCount": 21
+      "drawCount": 417,
+      "maxConsecutiveWinCount": 23
     },
     {
       "characterImage": "/images/243323553462300684",
@@ -56,10 +56,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1056,
-      "winCount": 1294,
+      "points": 1060,
+      "winCount": 1296,
       "loseCount": 890,
-      "drawCount": 477,
+      "drawCount": 479,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -140,10 +140,10 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 427,
-      "winCount": 630,
+      "points": 433,
+      "winCount": 633,
       "loseCount": 503,
-      "drawCount": 249,
+      "drawCount": 251,
       "maxConsecutiveWinCount": 8
     },
     {
