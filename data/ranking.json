@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T00:08:16.715Z",
+  "updatedAt": "2026-11-03T01:18:32.822Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2868,
-      "winCount": 2030,
-      "loseCount": 428,
-      "drawCount": 855,
+      "points": 2889,
+      "winCount": 2046,
+      "loseCount": 429,
+      "drawCount": 859,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -184,13 +184,13 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "不調",
+      "name": "774",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 308,
-      "winCount": 439,
-      "loseCount": 327,
+      "points": 313,
+      "winCount": 444,
+      "loseCount": 328,
       "drawCount": 161,
       "maxConsecutiveWinCount": 8
     },
@@ -369,9 +369,9 @@
       "twitterId": "Niwaaa_tori",
       "tier": "マスター クラス5",
       "points": 179,
-      "winCount": 180,
-      "loseCount": 84,
-      "drawCount": 70,
+      "winCount": 181,
+      "loseCount": 86,
+      "drawCount": 71,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -615,6 +615,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/291064092789710853",
+      "name": "ぽせ",
+      "userId": "291064092789710853",
+      "twitterId": "Nia_mem0ry",
+      "tier": "マスター クラス5",
+      "points": 110,
+      "winCount": 168,
+      "loseCount": 106,
+      "drawCount": 49,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/9155210933485573",
       "name": "穂波のよろしくねｽﾀ",
       "userId": "9155210933485573",
@@ -637,18 +649,6 @@
       "loseCount": 43,
       "drawCount": 43,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/291064092789710853",
-      "name": "ぽせ",
-      "userId": "291064092789710853",
-      "twitterId": "Nia_mem0ry",
-      "tier": "マスター クラス5",
-      "points": 104,
-      "winCount": 164,
-      "loseCount": 105,
-      "drawCount": 47,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/184185197172760576",
@@ -1048,14 +1048,14 @@
     },
     {
       "characterImage": "/images/5187604429455361",
-      "name": "告白ライバル宣言",
+      "name": "土下座",
       "userId": "5187604429455361",
       "twitterId": "neet_late",
       "tier": "マスター クラス5",
-      "points": 46,
-      "winCount": 111,
-      "loseCount": 89,
-      "drawCount": 33,
+      "points": 49,
+      "winCount": 115,
+      "loseCount": 91,
+      "drawCount": 34,
       "maxConsecutiveWinCount": 6
     },
     {
