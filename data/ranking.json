@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T03:49:31.433Z",
+  "updatedAt": "2026-11-03T04:40:07.618Z",
   "seasonId": 20,
   "players": [
     {
@@ -56,9 +56,9 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1092,
-      "winCount": 741,
-      "loseCount": 201,
+      "points": 1096,
+      "winCount": 745,
+      "loseCount": 202,
       "drawCount": 394,
       "maxConsecutiveWinCount": 17
     },
@@ -296,8 +296,8 @@
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
-      "points": 209,
-      "winCount": 240,
+      "points": 211,
+      "winCount": 242,
       "loseCount": 124,
       "drawCount": 74,
       "maxConsecutiveWinCount": 12
@@ -879,18 +879,6 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/87767420961353737",
-      "name": "れpーさん",
-      "userId": "87767420961353737",
-      "twitterId": "rpm152689562",
-      "tier": "マスター クラス5",
-      "points": 65,
-      "winCount": 83,
-      "loseCount": 47,
-      "drawCount": 31,
-      "maxConsecutiveWinCount": 7
-    },
-    {
       "characterImage": "/images/720971918631751683",
       "name": "わんだほい火星人",
       "userId": "720971918631751683",
@@ -901,6 +889,18 @@
       "loseCount": 87,
       "drawCount": 42,
       "maxConsecutiveWinCount": 9
+    },
+    {
+      "characterImage": "/images/87767420961353737",
+      "name": "れpーさん",
+      "userId": "87767420961353737",
+      "twitterId": "rpm152689562",
+      "tier": "マスター クラス5",
+      "points": 62,
+      "winCount": 83,
+      "loseCount": 48,
+      "drawCount": 31,
+      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/426295403618516992",
@@ -1016,8 +1016,8 @@
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
       "tier": "マスター クラス5",
-      "points": 50,
-      "winCount": 227,
+      "points": 51,
+      "winCount": 228,
       "loseCount": 253,
       "drawCount": 83,
       "maxConsecutiveWinCount": 8
@@ -1131,7 +1131,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/402474661940613129",
+      "characterImage": null,
       "name": "Oスピントリプル",
       "userId": "402474661940613129",
       "twitterId": "",
