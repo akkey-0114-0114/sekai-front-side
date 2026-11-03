@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:30:32.873Z",
+  "updatedAt": "2026-11-03T07:41:23.364Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2890,
-      "winCount": 2047,
-      "loseCount": 429,
-      "drawCount": 859,
+      "points": 2897,
+      "winCount": 2053,
+      "loseCount": 430,
+      "drawCount": 860,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -45,8 +45,8 @@
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
       "points": 1133,
-      "winCount": 958,
-      "loseCount": 394,
+      "winCount": 960,
+      "loseCount": 396,
       "drawCount": 417,
       "maxConsecutiveWinCount": 23
     },
@@ -56,10 +56,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1117,
-      "winCount": 759,
-      "loseCount": 203,
-      "drawCount": 399,
+      "points": 1132,
+      "winCount": 773,
+      "loseCount": 207,
+      "drawCount": 402,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -248,8 +248,8 @@
       "userId": "192937409625243655",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 269,
-      "winCount": 242,
+      "points": 270,
+      "winCount": 243,
       "loseCount": 98,
       "drawCount": 100,
       "maxConsecutiveWinCount": 9
@@ -903,6 +903,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/60665947660550154",
+      "name": "tuppi",
+      "userId": "60665947660550154",
+      "twitterId": "ghosthk720",
+      "tier": "マスター クラス5",
+      "points": 61,
+      "winCount": 66,
+      "loseCount": 24,
+      "drawCount": 25,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/426295403618516992",
       "name": "そうさきフレンド募集",
       "userId": "426295403618516992",
@@ -913,18 +925,6 @@
       "loseCount": 95,
       "drawCount": 49,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/60665947660550154",
-      "name": "tuppi",
-      "userId": "60665947660550154",
-      "twitterId": "ghosthk720",
-      "tier": "マスター クラス5",
-      "points": 58,
-      "winCount": 62,
-      "loseCount": 21,
-      "drawCount": 24,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/239757103719305216",
@@ -1028,9 +1028,9 @@
       "userId": "249530031214424064",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 51,
-      "winCount": 102,
-      "loseCount": 84,
+      "points": 50,
+      "winCount": 104,
+      "loseCount": 87,
       "drawCount": 39,
       "maxConsecutiveWinCount": 9
     },
@@ -1167,6 +1167,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/739470867403403273",
+      "name": "みゃくみく〜",
+      "userId": "739470867403403273",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 38,
+      "winCount": 86,
+      "loseCount": 57,
+      "drawCount": 16,
+      "maxConsecutiveWinCount": 11
+    },
+    {
       "characterImage": "/images/29461366259593226",
       "name": "tikinnnn",
       "userId": "29461366259593226",
@@ -1189,18 +1201,6 @@
       "loseCount": 16,
       "drawCount": 17,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/68559788845326340",
-      "name": "六花 ちゃん",
-      "userId": "68559788845326340",
-      "twitterId": "Kitsune0832",
-      "tier": "マスター クラス5",
-      "points": 36,
-      "winCount": 80,
-      "loseCount": 67,
-      "drawCount": 27,
-      "maxConsecutiveWinCount": 6
     }
   ]
 }
