@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T18:28:28.258Z",
+  "updatedAt": "2026-11-03T19:18:37.241Z",
   "seasonId": 20,
   "players": [
     {
@@ -296,9 +296,9 @@
       "userId": "28746192208850952",
       "twitterId": "Loveleaf0622",
       "tier": "マスター クラス5",
-      "points": 223,
+      "points": 222,
       "winCount": 208,
-      "loseCount": 96,
+      "loseCount": 97,
       "drawCount": 89,
       "maxConsecutiveWinCount": 8
     },
