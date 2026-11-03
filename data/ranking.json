@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T15:07:12.724Z",
+  "updatedAt": "2026-11-03T15:57:30.270Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 2992,
-      "winCount": 2126,
+      "points": 3000,
+      "winCount": 2129,
       "loseCount": 437,
-      "drawCount": 874,
+      "drawCount": 878,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -32,10 +32,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1202,
-      "winCount": 1038,
-      "loseCount": 368,
-      "drawCount": 397,
+      "points": 1215,
+      "winCount": 1050,
+      "loseCount": 370,
+      "drawCount": 398,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -176,10 +176,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 352,
-      "winCount": 315,
-      "loseCount": 147,
-      "drawCount": 141,
+      "points": 355,
+      "winCount": 318,
+      "loseCount": 148,
+      "drawCount": 142,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -260,10 +260,10 @@
       "userId": "5144945912909827",
       "twitterId": "hagekingu0917",
       "tier": "マスター クラス5",
-      "points": 267,
-      "winCount": 273,
-      "loseCount": 158,
-      "drawCount": 117,
+      "points": 270,
+      "winCount": 274,
+      "loseCount": 159,
+      "drawCount": 119,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -447,6 +447,18 @@
       "maxConsecutiveWinCount": 5
     },
     {
+      "characterImage": "/images/325160296154284033",
+      "name": "AFE☂汐見　蛍",
+      "userId": "325160296154284033",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 145,
+      "winCount": 255,
+      "loseCount": 160,
+      "drawCount": 49,
+      "maxConsecutiveWinCount": 22
+    },
+    {
       "characterImage": "/images/5298627182645256",
       "name": "ひよりつ",
       "userId": "5298627182645256",
@@ -481,18 +493,6 @@
       "loseCount": 34,
       "drawCount": 65,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/325160296154284033",
-      "name": "AFE☂あいばなちゃ",
-      "userId": "325160296154284033",
-      "twitterId": "aibanachannnnnn",
-      "tier": "マスター クラス5",
-      "points": 140,
-      "winCount": 250,
-      "loseCount": 160,
-      "drawCount": 49,
-      "maxConsecutiveWinCount": 22
     },
     {
       "characterImage": "/images/156246250497101836",
@@ -543,7 +543,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/291480420415225858",
+      "characterImage": null,
       "name": "ひいらぎ",
       "userId": "291480420415225858",
       "twitterId": "",
@@ -596,8 +596,8 @@
       "userId": "196496874391470090",
       "twitterId": "jyuku11",
       "tier": "マスター クラス5",
-      "points": 112,
-      "winCount": 241,
+      "points": 113,
+      "winCount": 242,
       "loseCount": 229,
       "drawCount": 89,
       "maxConsecutiveWinCount": 9
@@ -831,18 +831,6 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": "/images/564254775199547402",
-      "name": "やーかず",
-      "userId": "564254775199547402",
-      "twitterId": "yakazu_3baka",
-      "tier": "マスター クラス5",
-      "points": 76,
-      "winCount": 127,
-      "loseCount": 109,
-      "drawCount": 49,
-      "maxConsecutiveWinCount": 6
-    },
-    {
       "characterImage": "/images/261792353769807878",
       "name": "すし",
       "userId": "261792353769807878",
@@ -853,6 +841,18 @@
       "loseCount": 28,
       "drawCount": 26,
       "maxConsecutiveWinCount": 10
+    },
+    {
+      "characterImage": "/images/564254775199547402",
+      "name": "やーかず",
+      "userId": "564254775199547402",
+      "twitterId": "yakazu_3baka",
+      "tier": "マスター クラス5",
+      "points": 74,
+      "winCount": 127,
+      "loseCount": 111,
+      "drawCount": 49,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/527419323758821386",
