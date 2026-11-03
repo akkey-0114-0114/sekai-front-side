@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T04:40:07.618Z",
+  "updatedAt": "2026-11-03T05:30:18.355Z",
   "seasonId": 20,
   "players": [
     {
@@ -56,10 +56,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1096,
-      "winCount": 745,
+      "points": 1107,
+      "winCount": 753,
       "loseCount": 202,
-      "drawCount": 394,
+      "drawCount": 396,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -296,8 +296,8 @@
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
-      "points": 211,
-      "winCount": 242,
+      "points": 212,
+      "winCount": 243,
       "loseCount": 124,
       "drawCount": 74,
       "maxConsecutiveWinCount": 12
@@ -879,6 +879,18 @@
       "maxConsecutiveWinCount": 5
     },
     {
+      "characterImage": "/images/87767420961353737",
+      "name": "れpーさん",
+      "userId": "87767420961353737",
+      "twitterId": "rpm152689562",
+      "tier": "マスター クラス5",
+      "points": 66,
+      "winCount": 86,
+      "loseCount": 48,
+      "drawCount": 32,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/720971918631751683",
       "name": "わんだほい火星人",
       "userId": "720971918631751683",
@@ -889,18 +901,6 @@
       "loseCount": 87,
       "drawCount": 42,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/87767420961353737",
-      "name": "れpーさん",
-      "userId": "87767420961353737",
-      "twitterId": "rpm152689562",
-      "tier": "マスター クラス5",
-      "points": 62,
-      "winCount": 83,
-      "loseCount": 48,
-      "drawCount": 31,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/426295403618516992",
@@ -987,6 +987,18 @@
       "maxConsecutiveWinCount": 5
     },
     {
+      "characterImage": "/images/59286211860443151",
+      "name": "明日10時集合ね。",
+      "userId": "59286211860443151",
+      "twitterId": "maid_10oclock",
+      "tier": "マスター クラス5",
+      "points": 54,
+      "winCount": 231,
+      "loseCount": 253,
+      "drawCount": 83,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/205434857866600455",
       "name": "ゆーくん",
       "userId": "205434857866600455",
@@ -1009,18 +1021,6 @@
       "loseCount": 23,
       "drawCount": 27,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/59286211860443151",
-      "name": "明日10時集合ね。",
-      "userId": "59286211860443151",
-      "twitterId": "maid_10oclock",
-      "tier": "マスター クラス5",
-      "points": 51,
-      "winCount": 228,
-      "loseCount": 253,
-      "drawCount": 83,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/214376984868667406",
@@ -1083,6 +1083,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/294030286845030405",
+      "name": "れぺ",
+      "userId": "294030286845030405",
+      "twitterId": "repe0423",
+      "tier": "マスター クラス5",
+      "points": 43,
+      "winCount": 60,
+      "loseCount": 32,
+      "drawCount": 21,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/233543097916801033",
       "name": "こた",
       "userId": "233543097916801033",
@@ -1107,18 +1119,6 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/294030286845030405",
-      "name": "れぺ",
-      "userId": "294030286845030405",
-      "twitterId": "repe0423",
-      "tier": "マスター クラス5",
-      "points": 41,
-      "winCount": 58,
-      "loseCount": 29,
-      "drawCount": 19,
-      "maxConsecutiveWinCount": 8
-    },
-    {
       "characterImage": "/images/6847590100930562",
       "name": "バーサーカーおさしみ",
       "userId": "6847590100930562",
@@ -1131,7 +1131,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/402474661940613129",
       "name": "Oスピントリプル",
       "userId": "402474661940613129",
       "twitterId": "",
