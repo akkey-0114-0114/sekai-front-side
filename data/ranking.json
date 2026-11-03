@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:38:19.197Z",
+  "updatedAt": "2026-11-03T18:28:28.258Z",
   "seasonId": 20,
   "players": [
     {
@@ -291,6 +291,18 @@
       "maxConsecutiveWinCount": 12
     },
     {
+      "characterImage": "/images/28746192208850952",
+      "name": "あいは..❖",
+      "userId": "28746192208850952",
+      "twitterId": "Loveleaf0622",
+      "tier": "マスター クラス5",
+      "points": 223,
+      "winCount": 208,
+      "loseCount": 96,
+      "drawCount": 89,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/170427380858368014",
       "name": "きりな",
       "userId": "170427380858368014",
@@ -313,18 +325,6 @@
       "loseCount": 107,
       "drawCount": 76,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/28746192208850952",
-      "name": "あいは..❖",
-      "userId": "28746192208850952",
-      "twitterId": "Loveleaf0622",
-      "tier": "マスター クラス5",
-      "points": 208,
-      "winCount": 197,
-      "loseCount": 95,
-      "drawCount": 86,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/304143941762568205",
