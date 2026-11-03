@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T15:57:30.270Z",
+  "updatedAt": "2026-11-03T16:58:12.042Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,11 +32,11 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1215,
-      "winCount": 1050,
-      "loseCount": 370,
+      "points": 1220,
+      "winCount": 1056,
+      "loseCount": 371,
       "drawCount": 398,
-      "maxConsecutiveWinCount": 11
+      "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": "/images/182063036832174093",
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1080,
-      "winCount": 1320,
-      "loseCount": 903,
-      "drawCount": 484,
+      "points": 1088,
+      "winCount": 1331,
+      "loseCount": 907,
+      "drawCount": 485,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -543,7 +543,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/291480420415225858",
       "name": "ひいらぎ",
       "userId": "291480420415225858",
       "twitterId": "",
@@ -565,6 +565,18 @@
       "loseCount": 42,
       "drawCount": 46,
       "maxConsecutiveWinCount": 12
+    },
+    {
+      "characterImage": "/images/196496874391470090",
+      "name": "カイロ@tiktok",
+      "userId": "196496874391470090",
+      "twitterId": "jyuku11",
+      "tier": "マスター クラス5",
+      "points": 116,
+      "winCount": 246,
+      "loseCount": 232,
+      "drawCount": 90,
+      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/173615932274876419",
@@ -589,18 +601,6 @@
       "loseCount": 40,
       "drawCount": 57,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/196496874391470090",
-      "name": "カイロ@tiktok",
-      "userId": "196496874391470090",
-      "twitterId": "jyuku11",
-      "tier": "マスター クラス5",
-      "points": 113,
-      "winCount": 242,
-      "loseCount": 229,
-      "drawCount": 89,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/400981089303658509",
