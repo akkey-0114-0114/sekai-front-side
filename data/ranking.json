@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T00:29:36.643Z",
+  "updatedAt": "2026-11-04T01:39:49.354Z",
   "seasonId": 20,
   "players": [
     {
@@ -56,10 +56,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1148,
-      "winCount": 787,
-      "loseCount": 207,
-      "drawCount": 402,
+      "points": 1157,
+      "winCount": 795,
+      "loseCount": 208,
+      "drawCount": 403,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -939,6 +939,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "土下座",
+      "userId": "5187604429455361",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 57,
+      "winCount": 124,
+      "loseCount": 93,
+      "drawCount": 34,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/239757103719305216",
       "name": "アムール・エテルネル",
       "userId": "239757103719305216",
@@ -973,18 +985,6 @@
       "loseCount": 253,
       "drawCount": 83,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/5187604429455361",
-      "name": "土下座",
-      "userId": "5187604429455361",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 56,
-      "winCount": 121,
-      "loseCount": 91,
-      "drawCount": 34,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/416872263188758535",
