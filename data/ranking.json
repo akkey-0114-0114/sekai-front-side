@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T17:14:39.602Z",
+  "updatedAt": "2026-11-04T18:14:50.254Z",
   "seasonId": 20,
   "players": [
     {
@@ -28,14 +28,14 @@
     },
     {
       "characterImage": "/images/175168648301985796",
-      "name": "れいらちゃん♡",
+      "name": "フィジギフおばさん",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1244,
-      "winCount": 1082,
-      "loseCount": 381,
-      "drawCount": 403,
+      "points": 1242,
+      "winCount": 1085,
+      "loseCount": 386,
+      "drawCount": 404,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -176,8 +176,8 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 382,
-      "winCount": 346,
+      "points": 385,
+      "winCount": 348,
       "loseCount": 155,
       "drawCount": 146,
       "maxConsecutiveWinCount": 12
@@ -507,6 +507,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/203342689135669260",
+      "name": "夏祭り恋慕う",
+      "userId": "203342689135669260",
+      "twitterId": "EmpErroR_time",
+      "tier": "マスター クラス5",
+      "points": 137,
+      "winCount": 163,
+      "loseCount": 111,
+      "drawCount": 76,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/5577230604546062",
       "name": "ハコイクク",
       "userId": "5577230604546062",
@@ -529,18 +541,6 @@
       "loseCount": 109,
       "drawCount": 59,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/203342689135669260",
-      "name": "夏祭り恋慕う",
-      "userId": "203342689135669260",
-      "twitterId": "EmpErroR_time",
-      "tier": "マスター クラス5",
-      "points": 133,
-      "winCount": 156,
-      "loseCount": 108,
-      "drawCount": 75,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/291480420415225858",
