@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:24:20.150Z",
+  "updatedAt": "2026-11-04T16:24:30.729Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,9 +8,9 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3091,
-      "winCount": 2194,
-      "loseCount": 446,
+      "points": 3100,
+      "winCount": 2203,
+      "loseCount": 447,
       "drawCount": 900,
       "maxConsecutiveWinCount": 17
     },
@@ -32,9 +32,9 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1235,
-      "winCount": 1069,
-      "loseCount": 375,
+      "points": 1243,
+      "winCount": 1081,
+      "loseCount": 381,
       "drawCount": 403,
       "maxConsecutiveWinCount": 16
     },
@@ -68,21 +68,21 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1115,
-      "winCount": 1364,
-      "loseCount": 922,
+      "points": 1119,
+      "winCount": 1369,
+      "loseCount": 924,
       "drawCount": 490,
       "maxConsecutiveWinCount": 16
     },
     {
       "characterImage": "/images/132831494322683918",
-      "name": "ペース遅くなりすぎ",
+      "name": "　",
       "userId": "132831494322683918",
       "twitterId": "sngporu",
       "tier": "マスター クラス5",
-      "points": 913,
+      "points": 912,
       "winCount": 677,
-      "loseCount": 165,
+      "loseCount": 166,
       "drawCount": 289,
       "maxConsecutiveWinCount": 14
     },
@@ -140,10 +140,10 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 449,
-      "winCount": 654,
-      "loseCount": 515,
-      "drawCount": 257,
+      "points": 453,
+      "winCount": 657,
+      "loseCount": 516,
+      "drawCount": 258,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -176,11 +176,11 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 365,
-      "winCount": 330,
+      "points": 375,
+      "winCount": 340,
       "loseCount": 153,
       "drawCount": 143,
-      "maxConsecutiveWinCount": 8
+      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/301112565824430082",
@@ -212,10 +212,10 @@
       "userId": "192937409625243655",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 294,
-      "winCount": 267,
-      "loseCount": 105,
-      "drawCount": 105,
+      "points": 300,
+      "winCount": 273,
+      "loseCount": 107,
+      "drawCount": 106,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -375,6 +375,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/325160296154284033",
+      "name": "AFE☂あいばなちゃ",
+      "userId": "325160296154284033",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 180,
+      "winCount": 289,
+      "loseCount": 161,
+      "drawCount": 50,
+      "maxConsecutiveWinCount": 25
+    },
+    {
       "characterImage": "/images/5192823763361798",
       "name": "KOEDA",
       "userId": "5192823763361798",
@@ -409,18 +421,6 @@
       "loseCount": 179,
       "drawCount": 105,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/325160296154284033",
-      "name": "AFE☂汐見　蛍",
-      "userId": "325160296154284033",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 172,
-      "winCount": 281,
-      "loseCount": 161,
-      "drawCount": 50,
-      "maxConsecutiveWinCount": 22
     },
     {
       "characterImage": "/images/201098380143054854",
@@ -951,6 +951,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/6847590100930562",
+      "name": "バーサーカーおさしみ",
+      "userId": "6847590100930562",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 60,
+      "winCount": 54,
+      "loseCount": 14,
+      "drawCount": 23,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/5187604429455361",
       "name": "土下座",
       "userId": "5187604429455361",
@@ -997,18 +1009,6 @@
       "loseCount": 9,
       "drawCount": 19,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/6847590100930562",
-      "name": "バーサーカーおさしみ",
-      "userId": "6847590100930562",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 55,
-      "winCount": 48,
-      "loseCount": 12,
-      "drawCount": 23,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/225448700428521487",
