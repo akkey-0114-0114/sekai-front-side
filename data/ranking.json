@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T02:19:56.614Z",
+  "updatedAt": "2026-11-04T03:20:07.556Z",
   "seasonId": 20,
   "players": [
     {
@@ -927,6 +927,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "土下座",
+      "userId": "5187604429455361",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 58,
+      "winCount": 126,
+      "loseCount": 94,
+      "drawCount": 34,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/249530031214424064",
       "name": "あうぇる",
       "userId": "249530031214424064",
@@ -937,18 +949,6 @@
       "loseCount": 90,
       "drawCount": 40,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/5187604429455361",
-      "name": "土下座",
-      "userId": "5187604429455361",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 57,
-      "winCount": 125,
-      "loseCount": 94,
-      "drawCount": 34,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/239757103719305216",
@@ -1088,8 +1088,8 @@
       "userId": "806332776471625732",
       "twitterId": "Natsum9r",
       "tier": "マスター クラス5",
-      "points": 44,
-      "winCount": 41,
+      "points": 45,
+      "winCount": 42,
       "loseCount": 10,
       "drawCount": 13,
       "maxConsecutiveWinCount": 8
