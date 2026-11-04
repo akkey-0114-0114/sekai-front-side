@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T07:41:00.196Z",
+  "updatedAt": "2026-11-04T08:31:26.295Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3004,
-      "winCount": 2132,
-      "loseCount": 438,
-      "drawCount": 879,
+      "points": 3019,
+      "winCount": 2143,
+      "loseCount": 439,
+      "drawCount": 882,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -128,10 +128,10 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 455,
-      "winCount": 375,
-      "loseCount": 97,
-      "drawCount": 131,
+      "points": 464,
+      "winCount": 382,
+      "loseCount": 99,
+      "drawCount": 134,
       "maxConsecutiveWinCount": 30
     },
     {
@@ -1083,18 +1083,6 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/806332776471625732",
-      "name": "夏",
-      "userId": "806332776471625732",
-      "twitterId": "Natsum9r",
-      "tier": "マスター クラス5",
-      "points": 45,
-      "winCount": 42,
-      "loseCount": 10,
-      "drawCount": 13,
-      "maxConsecutiveWinCount": 8
-    },
-    {
       "characterImage": "/images/579945071015510028",
       "name": "おあんでん",
       "userId": "579945071015510028",
@@ -1153,6 +1141,18 @@
       "loseCount": 9,
       "drawCount": 18,
       "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/71750408485490696",
+      "name": "お冷めな娘",
+      "userId": "71750408485490696",
+      "twitterId": "SAME25251",
+      "tier": "マスター クラス5",
+      "points": 40,
+      "winCount": 61,
+      "loseCount": 33,
+      "drawCount": 20,
+      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/402474661940613129",
