@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:15:01.138Z",
+  "updatedAt": "2026-11-04T20:05:28.868Z",
   "seasonId": 20,
   "players": [
     {
@@ -195,8 +195,8 @@
       "maxConsecutiveWinCount": 12
     },
     {
-      "characterImage": "/images/625197524291788810",
-      "name": "えむα",
+      "characterImage": null,
+      "name": "★ビーム☆押せない★",
       "userId": "625197524291788810",
       "twitterId": "M_a1XD",
       "tier": "マスター クラス5",
