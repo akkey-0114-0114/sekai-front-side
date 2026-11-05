@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T23:56:47.023Z",
+  "updatedAt": "2026-11-05T00:56:57.771Z",
   "seasonId": 20,
   "players": [
     {
@@ -116,8 +116,8 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 491,
-      "winCount": 404,
+      "points": 507,
+      "winCount": 418,
       "loseCount": 106,
       "drawCount": 143,
       "maxConsecutiveWinCount": 30
@@ -136,13 +136,13 @@
     },
     {
       "characterImage": "/images/753572528120254477",
-      "name": "ピコ",
+      "name": "ピコX配信中！",
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 453,
-      "winCount": 657,
-      "loseCount": 516,
+      "points": 452,
+      "winCount": 658,
+      "loseCount": 518,
       "drawCount": 258,
       "maxConsecutiveWinCount": 8
     },
@@ -831,18 +831,6 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/139555986458062851",
-      "name": "まえちゃん",
-      "userId": "139555986458062851",
-      "twitterId": "maetyan80806",
-      "tier": "マスター クラス5",
-      "points": 77,
-      "winCount": 150,
-      "loseCount": 121,
-      "drawCount": 52,
-      "maxConsecutiveWinCount": 10
-    },
-    {
       "characterImage": "/images/261792353769807878",
       "name": "すし",
       "userId": "261792353769807878",
@@ -865,6 +853,18 @@
       "loseCount": 111,
       "drawCount": 49,
       "maxConsecutiveWinCount": 6
+    },
+    {
+      "characterImage": "/images/139555986458062851",
+      "name": "まえちゃんTT配信中",
+      "userId": "139555986458062851",
+      "twitterId": "maetyan80806",
+      "tier": "マスター クラス5",
+      "points": 73,
+      "winCount": 151,
+      "loseCount": 127,
+      "drawCount": 52,
+      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/204213269384208391",
