@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T02:57:18.970Z",
+  "updatedAt": "2026-11-05T03:47:27.824Z",
   "seasonId": 20,
   "players": [
     {
@@ -44,10 +44,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1214,
-      "winCount": 845,
-      "loseCount": 215,
-      "drawCount": 408,
+      "points": 1220,
+      "winCount": 850,
+      "loseCount": 216,
+      "drawCount": 409,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -963,18 +963,6 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/5187604429455361",
-      "name": "土下座",
-      "userId": "5187604429455361",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 58,
-      "winCount": 126,
-      "loseCount": 94,
-      "drawCount": 34,
-      "maxConsecutiveWinCount": 7
-    },
-    {
       "characterImage": "/images/59286211860443151",
       "name": "明日10時集合ね。",
       "userId": "59286211860443151",
@@ -997,6 +985,18 @@
       "loseCount": 54,
       "drawCount": 44,
       "maxConsecutiveWinCount": 4
+    },
+    {
+      "characterImage": "/images/5187604429455361",
+      "name": "土下座",
+      "userId": "5187604429455361",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 56,
+      "winCount": 126,
+      "loseCount": 96,
+      "drawCount": 34,
+      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/416872263188758535",
