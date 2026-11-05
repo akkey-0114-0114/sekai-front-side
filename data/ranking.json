@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:20:04.827Z",
+  "updatedAt": "2026-11-05T12:10:30.953Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3131,
-      "winCount": 2230,
-      "loseCount": 452,
-      "drawCount": 906,
+      "points": 3144,
+      "winCount": 2242,
+      "loseCount": 454,
+      "drawCount": 907,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -56,10 +56,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1228,
-      "winCount": 1039,
-      "loseCount": 409,
-      "drawCount": 438,
+      "points": 1235,
+      "winCount": 1045,
+      "loseCount": 413,
+      "drawCount": 442,
       "maxConsecutiveWinCount": 23
     },
     {
@@ -152,10 +152,10 @@
       "userId": "416928587080196105",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 416,
-      "winCount": 344,
-      "loseCount": 153,
-      "drawCount": 162,
+      "points": 426,
+      "winCount": 353,
+      "loseCount": 155,
+      "drawCount": 163,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -164,10 +164,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 400,
-      "winCount": 360,
+      "points": 409,
+      "winCount": 366,
       "loseCount": 158,
-      "drawCount": 149,
+      "drawCount": 151,
       "maxConsecutiveWinCount": 12
     },
     {
@@ -184,14 +184,14 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "☆ビーム★押せそう☆",
+      "name": "スンドゥブチゲ高菜",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 344,
-      "winCount": 476,
+      "points": 345,
+      "winCount": 477,
       "loseCount": 336,
-      "drawCount": 164,
+      "drawCount": 165,
       "maxConsecutiveWinCount": 12
     },
     {
@@ -216,6 +216,18 @@
       "winCount": 273,
       "loseCount": 107,
       "drawCount": 106,
+      "maxConsecutiveWinCount": 9
+    },
+    {
+      "characterImage": "/images/5144945912909827",
+      "name": "ルンパッパ",
+      "userId": "5144945912909827",
+      "twitterId": "hagekingu0917",
+      "tier": "マスター クラス5",
+      "points": 283,
+      "winCount": 284,
+      "loseCount": 162,
+      "drawCount": 123,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -253,18 +265,6 @@
       "loseCount": 204,
       "drawCount": 132,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/5144945912909827",
-      "name": "パッパンル",
-      "userId": "5144945912909827",
-      "twitterId": "hagekingu0917",
-      "tier": "マスター クラス5",
-      "points": 270,
-      "winCount": 275,
-      "loseCount": 160,
-      "drawCount": 119,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/246835375226441734",
@@ -735,18 +735,6 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
-      "name": "えりまねパーリナイ",
-      "userId": "313622802980560898",
-      "twitterId": "isi_xle",
-      "tier": "マスター クラス5",
-      "points": 92,
-      "winCount": 137,
-      "loseCount": 105,
-      "drawCount": 43,
-      "maxConsecutiveWinCount": 14
-    },
-    {
       "characterImage": "/images/5242530551664648",
       "name": "ハラショー",
       "userId": "5242530551664648",
@@ -757,6 +745,18 @@
       "loseCount": 76,
       "drawCount": 41,
       "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": "/images/313622802980560898",
+      "name": "えりまねパーリナイ",
+      "userId": "313622802980560898",
+      "twitterId": "isi_xle",
+      "tier": "マスター クラス5",
+      "points": 91,
+      "winCount": 137,
+      "loseCount": 105,
+      "drawCount": 43,
+      "maxConsecutiveWinCount": 14
     },
     {
       "characterImage": "/images/283966015176409092",
