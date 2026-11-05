@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:19:41.006Z",
+  "updatedAt": "2026-11-05T11:20:04.827Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3120,
-      "winCount": 2220,
+      "points": 3131,
+      "winCount": 2230,
       "loseCount": 452,
-      "drawCount": 905,
+      "drawCount": 906,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -56,10 +56,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1214,
-      "winCount": 1026,
-      "loseCount": 407,
-      "drawCount": 435,
+      "points": 1228,
+      "winCount": 1039,
+      "loseCount": 409,
+      "drawCount": 438,
       "maxConsecutiveWinCount": 23
     },
     {
@@ -735,7 +735,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": "/images/313622802980560898",
+      "characterImage": null,
       "name": "えりまねパーリナイ",
       "userId": "313622802980560898",
       "twitterId": "isi_xle",
@@ -927,18 +927,6 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/59286211860443151",
-      "name": "明日10時集合ね。",
-      "userId": "59286211860443151",
-      "twitterId": "maid_10oclock",
-      "tier": "マスター クラス5",
-      "points": 62,
-      "winCount": 237,
-      "loseCount": 253,
-      "drawCount": 84,
-      "maxConsecutiveWinCount": 8
-    },
-    {
       "characterImage": "/images/239757103719305216",
       "name": "アムール・エテルネル",
       "userId": "239757103719305216",
@@ -972,6 +960,18 @@
       "winCount": 54,
       "loseCount": 14,
       "drawCount": 23,
+      "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/59286211860443151",
+      "name": "ダウナー系おかめ納豆",
+      "userId": "59286211860443151",
+      "twitterId": "maid_10oclock",
+      "tier": "マスター クラス5",
+      "points": 60,
+      "winCount": 239,
+      "loseCount": 258,
+      "drawCount": 85,
       "maxConsecutiveWinCount": 8
     },
     {
