@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T16:32:33.225Z",
+  "updatedAt": "2026-11-05T17:33:11.184Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,8 +8,8 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3194,
-      "winCount": 2280,
+      "points": 3200,
+      "winCount": 2285,
       "loseCount": 458,
       "drawCount": 916,
       "maxConsecutiveWinCount": 17
@@ -27,15 +27,15 @@
       "maxConsecutiveWinCount": 15
     },
     {
-      "characterImage": "/images/175168648301985796",
+      "characterImage": null,
       "name": "れいらちゃん♡",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1271,
-      "winCount": 1120,
-      "loseCount": 400,
-      "drawCount": 414,
+      "points": 1275,
+      "winCount": 1125,
+      "loseCount": 403,
+      "drawCount": 416,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1157,
-      "winCount": 1407,
-      "loseCount": 942,
-      "drawCount": 504,
+      "points": 1160,
+      "winCount": 1412,
+      "loseCount": 949,
+      "drawCount": 508,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -152,11 +152,11 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 430,
-      "winCount": 386,
+      "points": 447,
+      "winCount": 399,
       "loseCount": 164,
-      "drawCount": 154,
-      "maxConsecutiveWinCount": 12
+      "drawCount": 157,
+      "maxConsecutiveWinCount": 14
     },
     {
       "characterImage": "/images/416928587080196105",
@@ -975,6 +975,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "睡眠",
+      "userId": "5187604429455361",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 57,
+      "winCount": 134,
+      "loseCount": 105,
+      "drawCount": 36,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/5150526401081346",
       "name": "あるちゃっとGPT",
       "userId": "5150526401081346",
@@ -1021,18 +1033,6 @@
       "loseCount": 73,
       "drawCount": 31,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/5187604429455361",
-      "name": "睡眠",
-      "userId": "5187604429455361",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 54,
-      "winCount": 131,
-      "loseCount": 104,
-      "drawCount": 35,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/233543097916801033",
