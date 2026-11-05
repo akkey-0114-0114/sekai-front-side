@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T09:09:28.858Z",
+  "updatedAt": "2026-11-05T10:19:41.006Z",
   "seasonId": 20,
   "players": [
     {
@@ -9,8 +9,8 @@
       "twitterId": "",
       "tier": "マスター クラス5",
       "points": 3120,
-      "winCount": 2218,
-      "loseCount": 450,
+      "winCount": 2220,
+      "loseCount": 452,
       "drawCount": 905,
       "maxConsecutiveWinCount": 17
     },
@@ -56,10 +56,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1207,
-      "winCount": 1020,
+      "points": 1214,
+      "winCount": 1026,
       "loseCount": 407,
-      "drawCount": 434,
+      "drawCount": 435,
       "maxConsecutiveWinCount": 23
     },
     {
@@ -104,10 +104,10 @@
       "userId": "533558892414337026",
       "twitterId": "qskp9",
       "tier": "マスター クラス5",
-      "points": 601,
+      "points": 600,
       "winCount": 513,
-      "loseCount": 194,
-      "drawCount": 195,
+      "loseCount": 195,
+      "drawCount": 196,
       "maxConsecutiveWinCount": 11
     },
     {
@@ -164,10 +164,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 392,
-      "winCount": 354,
-      "loseCount": 157,
-      "drawCount": 148,
+      "points": 400,
+      "winCount": 360,
+      "loseCount": 158,
+      "drawCount": 149,
       "maxConsecutiveWinCount": 12
     },
     {
@@ -184,14 +184,14 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "スンドゥブチゲ高菜",
+      "name": "☆ビーム★押せそう☆",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 338,
-      "winCount": 470,
-      "loseCount": 334,
-      "drawCount": 163,
+      "points": 344,
+      "winCount": 476,
+      "loseCount": 336,
+      "drawCount": 164,
       "maxConsecutiveWinCount": 12
     },
     {
@@ -267,6 +267,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/246835375226441734",
+      "name": "クロエ・オベール",
+      "userId": "246835375226441734",
+      "twitterId": "Nari_haberi",
+      "tier": "マスター クラス5",
+      "points": 250,
+      "winCount": 283,
+      "loseCount": 142,
+      "drawCount": 85,
+      "maxConsecutiveWinCount": 12
+    },
+    {
       "characterImage": "/images/37698146989649926",
       "name": "夕暮れ蝉日記",
       "userId": "37698146989649926",
@@ -277,18 +289,6 @@
       "loseCount": 98,
       "drawCount": 97,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/246835375226441734",
-      "name": "クロエ・オベール",
-      "userId": "246835375226441734",
-      "twitterId": "Nari_haberi",
-      "tier": "マスター クラス5",
-      "points": 245,
-      "winCount": 279,
-      "loseCount": 142,
-      "drawCount": 85,
-      "maxConsecutiveWinCount": 12
     },
     {
       "characterImage": "/images/170427380858368014",
@@ -778,8 +778,8 @@
       "tier": "マスター クラス5",
       "points": 89,
       "winCount": 136,
-      "loseCount": 95,
-      "drawCount": 43,
+      "loseCount": 96,
+      "drawCount": 44,
       "maxConsecutiveWinCount": 7
     },
     {
@@ -927,6 +927,30 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/59286211860443151",
+      "name": "明日10時集合ね。",
+      "userId": "59286211860443151",
+      "twitterId": "maid_10oclock",
+      "tier": "マスター クラス5",
+      "points": 62,
+      "winCount": 237,
+      "loseCount": 253,
+      "drawCount": 84,
+      "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/239757103719305216",
+      "name": "アムール・エテルネル",
+      "userId": "239757103719305216",
+      "twitterId": "akihikokondosk",
+      "tier": "マスター クラス5",
+      "points": 61,
+      "winCount": 72,
+      "loseCount": 40,
+      "drawCount": 27,
+      "maxConsecutiveWinCount": 6
+    },
+    {
       "characterImage": "/images/426295403618516992",
       "name": "そうさきフレンド募集",
       "userId": "426295403618516992",
@@ -948,30 +972,6 @@
       "winCount": 54,
       "loseCount": 14,
       "drawCount": 23,
-      "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/239757103719305216",
-      "name": "アムール・エテルネル",
-      "userId": "239757103719305216",
-      "twitterId": "akihikokondosk",
-      "tier": "マスター クラス5",
-      "points": 60,
-      "winCount": 70,
-      "loseCount": 38,
-      "drawCount": 27,
-      "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/59286211860443151",
-      "name": "明日10時集合ね。",
-      "userId": "59286211860443151",
-      "twitterId": "maid_10oclock",
-      "tier": "マスター クラス5",
-      "points": 58,
-      "winCount": 233,
-      "loseCount": 253,
-      "drawCount": 84,
       "maxConsecutiveWinCount": 8
     },
     {
