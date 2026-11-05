@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:33:11.184Z",
+  "updatedAt": "2026-11-05T18:13:36.424Z",
   "seasonId": 20,
   "players": [
     {
@@ -27,7 +27,7 @@
       "maxConsecutiveWinCount": 15
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/175168648301985796",
       "name": "れいらちゃん♡",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
@@ -903,6 +903,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "ここにある空",
+      "userId": "5187604429455361",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 64,
+      "winCount": 141,
+      "loseCount": 107,
+      "drawCount": 38,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/720971918631751683",
       "name": "わんだほい火星人",
       "userId": "720971918631751683",
@@ -973,18 +985,6 @@
       "loseCount": 258,
       "drawCount": 85,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/5187604429455361",
-      "name": "睡眠",
-      "userId": "5187604429455361",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 57,
-      "winCount": 134,
-      "loseCount": 105,
-      "drawCount": 36,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/5150526401081346",
