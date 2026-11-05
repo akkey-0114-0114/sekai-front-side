@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T05:47:52.103Z",
+  "updatedAt": "2026-11-05T06:48:02.573Z",
   "seasonId": 20,
   "players": [
     {
@@ -116,10 +116,10 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 534,
-      "winCount": 437,
-      "loseCount": 107,
-      "drawCount": 151,
+      "points": 541,
+      "winCount": 447,
+      "loseCount": 112,
+      "drawCount": 152,
       "maxConsecutiveWinCount": 30
     },
     {
@@ -435,6 +435,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/156246250497101836",
+      "name": "ブルーアンビエンス",
+      "userId": "156246250497101836",
+      "twitterId": "2026_475",
+      "tier": "マスター クラス5",
+      "points": 153,
+      "winCount": 120,
+      "loseCount": 36,
+      "drawCount": 51,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/308495680779231245",
       "name": "阿修羅",
       "userId": "308495680779231245",
@@ -457,18 +469,6 @@
       "loseCount": 220,
       "drawCount": 102,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/156246250497101836",
-      "name": "ブルーアンビエンス",
-      "userId": "156246250497101836",
-      "twitterId": "2026_475",
-      "tier": "マスター クラス5",
-      "points": 145,
-      "winCount": 114,
-      "loseCount": 36,
-      "drawCount": 49,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/5298627182645256",
@@ -496,7 +496,7 @@
     },
     {
       "characterImage": "/images/285639560352178185",
-      "name": "ツクモノツキ",
+      "name": "　",
       "userId": "285639560352178185",
       "twitterId": "",
       "tier": "マスター クラス5",
