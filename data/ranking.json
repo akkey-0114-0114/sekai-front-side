@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T00:56:57.771Z",
+  "updatedAt": "2026-11-05T02:07:10.102Z",
   "seasonId": 20,
   "players": [
     {
@@ -116,10 +116,10 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 507,
-      "winCount": 418,
+      "points": 520,
+      "winCount": 428,
       "loseCount": 106,
-      "drawCount": 143,
+      "drawCount": 146,
       "maxConsecutiveWinCount": 30
     },
     {
@@ -140,10 +140,10 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 452,
-      "winCount": 658,
-      "loseCount": 518,
-      "drawCount": 258,
+      "points": 453,
+      "winCount": 662,
+      "loseCount": 525,
+      "drawCount": 261,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -261,8 +261,8 @@
       "twitterId": "hagekingu0917",
       "tier": "マスター クラス5",
       "points": 270,
-      "winCount": 274,
-      "loseCount": 159,
+      "winCount": 275,
+      "loseCount": 160,
       "drawCount": 119,
       "maxConsecutiveWinCount": 9
     },
@@ -1012,7 +1012,7 @@
     },
     {
       "characterImage": "/images/225448700428521487",
-      "name": "びぃ",
+      "name": "望月ほぐの",
       "userId": "225448700428521487",
       "twitterId": "biichan710",
       "tier": "マスター クラス5",
