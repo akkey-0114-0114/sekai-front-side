@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T06:48:02.573Z",
+  "updatedAt": "2026-11-05T08:08:16.933Z",
   "seasonId": 20,
   "players": [
     {
       "characterImage": "/images/156990469561196558",
-      "name": "2%足りない嘘",
+      "name": "ネティ",
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3100,
-      "winCount": 2203,
-      "loseCount": 447,
-      "drawCount": 900,
+      "points": 3103,
+      "winCount": 2205,
+      "loseCount": 448,
+      "drawCount": 902,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -27,6 +27,18 @@
       "maxConsecutiveWinCount": 15
     },
     {
+      "characterImage": "/images/272110013727850501",
+      "name": "KAITO FAN",
+      "userId": "272110013727850501",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 1260,
+      "winCount": 883,
+      "loseCount": 220,
+      "drawCount": 413,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/175168648301985796",
       "name": "フィジギフおばさん",
       "userId": "175168648301985796",
@@ -37,18 +49,6 @@
       "loseCount": 386,
       "drawCount": 407,
       "maxConsecutiveWinCount": 16
-    },
-    {
-      "characterImage": "/images/272110013727850501",
-      "name": "KAITO FAN",
-      "userId": "272110013727850501",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 1244,
-      "winCount": 871,
-      "loseCount": 219,
-      "drawCount": 411,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/182063036832174093",
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1120,
-      "winCount": 1371,
-      "loseCount": 926,
-      "drawCount": 491,
+      "points": 1135,
+      "winCount": 1382,
+      "loseCount": 929,
+      "drawCount": 498,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -116,10 +116,10 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 541,
-      "winCount": 447,
-      "loseCount": 112,
-      "drawCount": 152,
+      "points": 558,
+      "winCount": 462,
+      "loseCount": 116,
+      "drawCount": 156,
       "maxConsecutiveWinCount": 30
     },
     {
@@ -136,14 +136,14 @@
     },
     {
       "characterImage": "/images/753572528120254477",
-      "name": "ピコX配信中！",
+      "name": "ピコ",
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 453,
-      "winCount": 662,
-      "loseCount": 525,
-      "drawCount": 261,
+      "points": 452,
+      "winCount": 663,
+      "loseCount": 527,
+      "drawCount": 262,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -176,9 +176,9 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 385,
-      "winCount": 348,
-      "loseCount": 155,
+      "points": 389,
+      "winCount": 353,
+      "loseCount": 157,
       "drawCount": 146,
       "maxConsecutiveWinCount": 12
     },
@@ -296,8 +296,8 @@
       "userId": "170427380858368014",
       "twitterId": "kirikiri0907",
       "tier": "マスター クラス5",
-      "points": 223,
-      "winCount": 370,
+      "points": 224,
+      "winCount": 371,
       "loseCount": 249,
       "drawCount": 84,
       "maxConsecutiveWinCount": 11
@@ -440,10 +440,10 @@
       "userId": "156246250497101836",
       "twitterId": "2026_475",
       "tier": "マスター クラス5",
-      "points": 153,
-      "winCount": 120,
-      "loseCount": 36,
-      "drawCount": 51,
+      "points": 159,
+      "winCount": 125,
+      "loseCount": 37,
+      "drawCount": 52,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -548,8 +548,8 @@
       "userId": "291480420415225858",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 132,
-      "winCount": 121,
+      "points": 133,
+      "winCount": 122,
       "loseCount": 51,
       "drawCount": 56,
       "maxConsecutiveWinCount": 5
@@ -820,7 +820,7 @@
     },
     {
       "characterImage": "/images/156909858960904206",
-      "name": "紙引き",
+      "name": "カメラとめんなよ！",
       "userId": "156909858960904206",
       "twitterId": "kamibiki_ningen",
       "tier": "マスター クラス5",
