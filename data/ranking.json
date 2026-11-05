@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T18:13:36.424Z",
+  "updatedAt": "2026-11-05T19:23:59.988Z",
   "seasonId": 20,
   "players": [
     {
@@ -904,14 +904,14 @@
     },
     {
       "characterImage": "/images/5187604429455361",
-      "name": "ここにある空",
+      "name": "金曜日のおはよう",
       "userId": "5187604429455361",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 64,
-      "winCount": 141,
-      "loseCount": 107,
-      "drawCount": 38,
+      "points": 67,
+      "winCount": 149,
+      "loseCount": 115,
+      "drawCount": 40,
       "maxConsecutiveWinCount": 7
     },
     {
