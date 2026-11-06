@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T05:36:49.593Z",
+  "updatedAt": "2026-11-06T06:37:24.350Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,9 +32,9 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1305,
-      "winCount": 922,
-      "loseCount": 229,
+      "points": 1308,
+      "winCount": 925,
+      "loseCount": 230,
       "drawCount": 425,
       "maxConsecutiveWinCount": 17
     },
@@ -69,8 +69,8 @@
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
       "points": 1160,
-      "winCount": 1412,
-      "loseCount": 949,
+      "winCount": 1413,
+      "loseCount": 950,
       "drawCount": 508,
       "maxConsecutiveWinCount": 16
     },
@@ -129,8 +129,8 @@
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
       "points": 481,
-      "winCount": 432,
-      "loseCount": 175,
+      "winCount": 433,
+      "loseCount": 176,
       "drawCount": 164,
       "maxConsecutiveWinCount": 14
     },
@@ -976,7 +976,7 @@
     },
     {
       "characterImage": "/images/59286211860443151",
-      "name": "ダウナー系おかめ納豆",
+      "name": "明日10時集合ね。",
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
       "tier": "マスター クラス5",
@@ -1100,10 +1100,10 @@
       "userId": "810962948307456006",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 46,
-      "winCount": 109,
-      "loseCount": 61,
-      "drawCount": 63,
+      "points": 48,
+      "winCount": 113,
+      "loseCount": 65,
+      "drawCount": 70,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -1168,7 +1168,7 @@
     },
     {
       "characterImage": "/images/71750408485490696",
-      "name": "お冷めな娘",
+      "name": "さめ",
       "userId": "71750408485490696",
       "twitterId": "SAME25251",
       "tier": "マスター クラス5",
