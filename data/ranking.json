@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:29:21.552Z",
+  "updatedAt": "2026-11-06T12:19:48.067Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3244,
-      "winCount": 2320,
-      "loseCount": 462,
-      "drawCount": 924,
+      "points": 3259,
+      "winCount": 2330,
+      "loseCount": 463,
+      "drawCount": 928,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -164,10 +164,10 @@
       "userId": "416928587080196105",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 426,
-      "winCount": 353,
-      "loseCount": 155,
-      "drawCount": 163,
+      "points": 433,
+      "winCount": 359,
+      "loseCount": 157,
+      "drawCount": 165,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "環境マジで何",
+      "name": "AP曲0調整C←おお",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -963,6 +963,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": null,
+      "name": "キツネ",
+      "userId": "68559788845326340",
+      "twitterId": "Kitsune0832",
+      "tier": "マスター クラス5",
+      "points": 62,
+      "winCount": 102,
+      "loseCount": 70,
+      "drawCount": 31,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/239757103719305216",
       "name": "アムール・エテルネル",
       "userId": "239757103719305216",
@@ -1095,18 +1107,6 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/68559788845326340",
-      "name": "キツネ",
-      "userId": "68559788845326340",
-      "twitterId": "Kitsune0832",
-      "tier": "マスター クラス5",
-      "points": 52,
-      "winCount": 93,
-      "loseCount": 68,
-      "drawCount": 29,
-      "maxConsecutiveWinCount": 6
-    },
-    {
       "characterImage": "/images/13978876032626697",
       "name": "千遥ライセ",
       "userId": "13978876032626697",
@@ -1155,6 +1155,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/579945071015510028",
+      "name": "おあんでん",
+      "userId": "579945071015510028",
+      "twitterId": "oandenden",
+      "tier": "マスター クラス5",
+      "points": 46,
+      "winCount": 78,
+      "loseCount": 70,
+      "drawCount": 38,
+      "maxConsecutiveWinCount": 5
+    },
+    {
       "characterImage": "/images/377363739883024384",
       "name": "実力をください",
       "userId": "377363739883024384",
@@ -1165,18 +1177,6 @@
       "loseCount": 49,
       "drawCount": 33,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/579945071015510028",
-      "name": "おあんでん",
-      "userId": "579945071015510028",
-      "twitterId": "oandenden",
-      "tier": "マスター クラス5",
-      "points": 43,
-      "winCount": 76,
-      "loseCount": 70,
-      "drawCount": 38,
-      "maxConsecutiveWinCount": 5
     },
     {
       "characterImage": "/images/252752225839644680",
