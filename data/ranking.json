@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:05:07.985Z",
+  "updatedAt": "2026-11-06T02:05:18.766Z",
   "seasonId": 20,
   "players": [
     {
@@ -44,10 +44,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1282,
-      "winCount": 902,
-      "loseCount": 220,
-      "drawCount": 417,
+      "points": 1287,
+      "winCount": 908,
+      "loseCount": 224,
+      "drawCount": 418,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -136,14 +136,14 @@
     },
     {
       "characterImage": "/images/753572528120254477",
-      "name": "スカイタワー",
+      "name": "ピコ",
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 460,
-      "winCount": 678,
+      "points": 465,
+      "winCount": 681,
       "loseCount": 541,
-      "drawCount": 267,
+      "drawCount": 269,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -152,9 +152,9 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 447,
-      "winCount": 399,
-      "loseCount": 164,
+      "points": 453,
+      "winCount": 406,
+      "loseCount": 166,
       "drawCount": 157,
       "maxConsecutiveWinCount": 14
     },
