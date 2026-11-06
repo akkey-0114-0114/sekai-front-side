@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T22:15:56.797Z",
+  "updatedAt": "2026-11-06T23:06:30.164Z",
   "seasonId": 20,
   "players": [
     {
@@ -687,7 +687,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/184185197172760576",
       "name": "ぴぴ♡",
       "userId": "184185197172760576",
       "twitterId": "210_wa_",
