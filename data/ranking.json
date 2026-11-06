@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T02:55:57.741Z",
+  "updatedAt": "2026-11-06T03:46:14.967Z",
   "seasonId": 20,
   "players": [
     {
@@ -44,9 +44,9 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1288,
+      "points": 1287,
       "winCount": 909,
-      "loseCount": 224,
+      "loseCount": 225,
       "drawCount": 418,
       "maxConsecutiveWinCount": 17
     },
@@ -135,6 +135,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/5170409750286344",
+      "name": "みょん",
+      "userId": "5170409750286344",
+      "twitterId": "ky38yom",
+      "tier": "マスター クラス5",
+      "points": 470,
+      "winCount": 422,
+      "loseCount": 169,
+      "drawCount": 159,
+      "maxConsecutiveWinCount": 14
+    },
+    {
       "characterImage": "/images/753572528120254477",
       "name": "ピコ",
       "userId": "753572528120254477",
@@ -145,18 +157,6 @@
       "loseCount": 541,
       "drawCount": 269,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/5170409750286344",
-      "name": "みょん",
-      "userId": "5170409750286344",
-      "twitterId": "ky38yom",
-      "tier": "マスター クラス5",
-      "points": 463,
-      "winCount": 415,
-      "loseCount": 167,
-      "drawCount": 157,
-      "maxConsecutiveWinCount": 14
     },
     {
       "characterImage": "/images/416928587080196105",
@@ -867,6 +867,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "金曜日のおはよう",
+      "userId": "5187604429455361",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 71,
+      "winCount": 154,
+      "loseCount": 116,
+      "drawCount": 41,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/87767420961353737",
       "name": "てれじあらゔ(仮)",
       "userId": "87767420961353737",
@@ -901,18 +913,6 @@
       "loseCount": 25,
       "drawCount": 25,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/5187604429455361",
-      "name": "金曜日のおはよう",
-      "userId": "5187604429455361",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 67,
-      "winCount": 149,
-      "loseCount": 115,
-      "drawCount": 40,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/720971918631751683",
@@ -1012,7 +1012,7 @@
     },
     {
       "characterImage": "/images/225448700428521487",
-      "name": "望月ほぐの",
+      "name": "びぃ",
       "userId": "225448700428521487",
       "twitterId": "biichan710",
       "tier": "マスター クラス5",
