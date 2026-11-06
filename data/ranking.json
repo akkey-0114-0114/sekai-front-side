@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T23:54:55.279Z",
+  "updatedAt": "2026-11-06T01:05:07.985Z",
   "seasonId": 20,
   "players": [
     {
@@ -39,6 +39,18 @@
       "maxConsecutiveWinCount": 16
     },
     {
+      "characterImage": "/images/272110013727850501",
+      "name": "KAITO FAN",
+      "userId": "272110013727850501",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 1282,
+      "winCount": 902,
+      "loseCount": 220,
+      "drawCount": 417,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/182063036832174093",
       "name": "ゆー@YT配信中",
       "userId": "182063036832174093",
@@ -49,18 +61,6 @@
       "loseCount": 421,
       "drawCount": 450,
       "maxConsecutiveWinCount": 23
-    },
-    {
-      "characterImage": "/images/272110013727850501",
-      "name": "KAITO FAN",
-      "userId": "272110013727850501",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 1265,
-      "winCount": 888,
-      "loseCount": 220,
-      "drawCount": 414,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/243323553462300684",
