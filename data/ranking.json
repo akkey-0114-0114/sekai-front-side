@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T06:37:24.350Z",
+  "updatedAt": "2026-11-06T07:47:58.143Z",
   "seasonId": 20,
   "players": [
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1160,
-      "winCount": 1413,
-      "loseCount": 950,
-      "drawCount": 508,
+      "points": 1171,
+      "winCount": 1424,
+      "loseCount": 955,
+      "drawCount": 512,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -915,6 +915,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/6847590100930562",
+      "name": "バーサーカーおさしみ",
+      "userId": "6847590100930562",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 65,
+      "winCount": 58,
+      "loseCount": 14,
+      "drawCount": 24,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/720971918631751683",
       "name": "わんだほい火星人",
       "userId": "720971918631751683",
@@ -961,18 +973,6 @@
       "loseCount": 95,
       "drawCount": 49,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/6847590100930562",
-      "name": "バーサーカーおさしみ",
-      "userId": "6847590100930562",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 60,
-      "winCount": 54,
-      "loseCount": 14,
-      "drawCount": 23,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/59286211860443151",
@@ -1100,11 +1100,23 @@
       "userId": "810962948307456006",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 48,
-      "winCount": 113,
-      "loseCount": 65,
+      "points": 49,
+      "winCount": 119,
+      "loseCount": 71,
       "drawCount": 70,
       "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/357830966470688768",
+      "name": "ふふんと配信中",
+      "userId": "357830966470688768",
+      "twitterId": "fufunto226",
+      "tier": "マスター クラス5",
+      "points": 46,
+      "winCount": 128,
+      "loseCount": 111,
+      "drawCount": 33,
+      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/294030286845030405",
@@ -1177,18 +1189,6 @@
       "loseCount": 33,
       "drawCount": 20,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/357830966470688768",
-      "name": "ふふんと配信中",
-      "userId": "357830966470688768",
-      "twitterId": "fufunto226",
-      "tier": "マスター クラス5",
-      "points": 40,
-      "winCount": 121,
-      "loseCount": 109,
-      "drawCount": 33,
-      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/402474661940613129",
