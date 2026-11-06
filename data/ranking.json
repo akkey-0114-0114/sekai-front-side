@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T18:34:52.744Z",
+  "updatedAt": "2026-11-06T19:35:03.182Z",
   "seasonId": 20,
   "players": [
     {
@@ -44,8 +44,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1313,
-      "winCount": 929,
+      "points": 1314,
+      "winCount": 930,
       "loseCount": 230,
       "drawCount": 426,
       "maxConsecutiveWinCount": 17
@@ -795,6 +795,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "君の知らない物語",
+      "userId": "5187604429455361",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 89,
+      "winCount": 181,
+      "loseCount": 132,
+      "drawCount": 45,
+      "maxConsecutiveWinCount": 11
+    },
+    {
       "characterImage": "/images/517948178685124618",
       "name": "今月　琴音",
       "userId": "517948178685124618",
@@ -805,18 +817,6 @@
       "loseCount": 81,
       "drawCount": 41,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/5187604429455361",
-      "name": "君の知らない物語",
-      "userId": "5187604429455361",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 87,
-      "winCount": 178,
-      "loseCount": 130,
-      "drawCount": 44,
-      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/5210899505954826",
@@ -1047,6 +1047,18 @@
       "maxConsecutiveWinCount": 8
     },
     {
+      "characterImage": "/images/233543097916801033",
+      "name": "こた",
+      "userId": "233543097916801033",
+      "twitterId": "こた-p7c",
+      "tier": "マスター クラス5",
+      "points": 55,
+      "winCount": 155,
+      "loseCount": 184,
+      "drawCount": 68,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/225448700428521487",
       "name": "びぃ",
       "userId": "225448700428521487",
@@ -1069,18 +1081,6 @@
       "loseCount": 73,
       "drawCount": 31,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/233543097916801033",
-      "name": "こた",
-      "userId": "233543097916801033",
-      "twitterId": "こた-p7c",
-      "tier": "マスター クラス5",
-      "points": 54,
-      "winCount": 154,
-      "loseCount": 184,
-      "drawCount": 68,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/205434857866600455",
