@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T07:47:58.143Z",
+  "updatedAt": "2026-11-06T08:48:17.685Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3200,
-      "winCount": 2285,
+      "points": 3216,
+      "winCount": 2296,
       "loseCount": 458,
-      "drawCount": 916,
+      "drawCount": 920,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1171,
-      "winCount": 1424,
-      "loseCount": 955,
-      "drawCount": 512,
+      "points": 1170,
+      "winCount": 1427,
+      "loseCount": 960,
+      "drawCount": 513,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -128,9 +128,9 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 481,
-      "winCount": 433,
-      "loseCount": 176,
+      "points": 484,
+      "winCount": 436,
+      "loseCount": 177,
       "drawCount": 164,
       "maxConsecutiveWinCount": 14
     },
@@ -537,8 +537,8 @@
       "twitterId": "",
       "tier": "マスター クラス5",
       "points": 134,
-      "winCount": 123,
-      "loseCount": 52,
+      "winCount": 124,
+      "loseCount": 53,
       "drawCount": 57,
       "maxConsecutiveWinCount": 5
     },
@@ -976,7 +976,7 @@
     },
     {
       "characterImage": "/images/59286211860443151",
-      "name": "明日10時集合ね。",
+      "name": "氷上メルル",
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
       "tier": "マスター クラス5",
@@ -1047,6 +1047,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/810962948307456006",
+      "name": "みとれて",
+      "userId": "810962948307456006",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 53,
+      "winCount": 125,
+      "loseCount": 74,
+      "drawCount": 71,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/205434857866600455",
       "name": "ゆーくん",
       "userId": "205434857866600455",
@@ -1095,16 +1107,16 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/810962948307456006",
-      "name": "みとれて",
-      "userId": "810962948307456006",
+      "characterImage": "/images/810963012282531851",
+      "name": "セカの",
+      "userId": "810963012282531851",
       "twitterId": "",
       "tier": "マスター クラス5",
       "points": 49,
-      "winCount": 119,
-      "loseCount": 71,
-      "drawCount": 70,
-      "maxConsecutiveWinCount": 8
+      "winCount": 137,
+      "loseCount": 92,
+      "drawCount": 77,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/357830966470688768",
@@ -1189,18 +1201,6 @@
       "loseCount": 33,
       "drawCount": 20,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/402474661940613129",
-      "name": "Oスピントリプル",
-      "userId": "402474661940613129",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 39,
-      "winCount": 59,
-      "loseCount": 49,
-      "drawCount": 26,
-      "maxConsecutiveWinCount": 5
     }
   ]
 }
