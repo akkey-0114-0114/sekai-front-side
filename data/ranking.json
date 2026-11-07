@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T14:11:47.695Z",
+  "updatedAt": "2026-11-07T14:52:22.356Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,9 +8,9 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3364,
-      "winCount": 2421,
-      "loseCount": 487,
+      "points": 3369,
+      "winCount": 2428,
+      "loseCount": 490,
       "drawCount": 950,
       "maxConsecutiveWinCount": 17
     },
@@ -44,10 +44,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1327,
-      "winCount": 1171,
-      "loseCount": 414,
-      "drawCount": 428,
+      "points": 1336,
+      "winCount": 1179,
+      "loseCount": 415,
+      "drawCount": 429,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -68,9 +68,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1210,
-      "winCount": 1491,
-      "loseCount": 999,
+      "points": 1212,
+      "winCount": 1495,
+      "loseCount": 1001,
       "drawCount": 523,
       "maxConsecutiveWinCount": 16
     },
@@ -128,9 +128,9 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 549,
-      "winCount": 495,
-      "loseCount": 200,
+      "points": 554,
+      "winCount": 500,
+      "loseCount": 201,
       "drawCount": 182,
       "maxConsecutiveWinCount": 14
     },
@@ -291,6 +291,18 @@
       "maxConsecutiveWinCount": 11
     },
     {
+      "characterImage": "/images/325160296154284033",
+      "name": "力士少女A",
+      "userId": "325160296154284033",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 248,
+      "winCount": 356,
+      "loseCount": 168,
+      "drawCount": 53,
+      "maxConsecutiveWinCount": 27
+    },
+    {
       "characterImage": "/images/170427380858368014",
       "name": "きりな",
       "userId": "170427380858368014",
@@ -301,18 +313,6 @@
       "loseCount": 259,
       "drawCount": 89,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/325160296154284033",
-      "name": "力士少女A",
-      "userId": "325160296154284033",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 236,
-      "winCount": 346,
-      "loseCount": 168,
-      "drawCount": 52,
-      "maxConsecutiveWinCount": 27
     },
     {
       "characterImage": "/images/28746192208850952",
@@ -855,7 +855,7 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/156909858960904206",
       "name": "カメラとめんなよ！",
       "userId": "156909858960904206",
       "twitterId": "kamibiki_ningen",
