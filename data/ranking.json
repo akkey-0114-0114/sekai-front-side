@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T03:07:12.930Z",
+  "updatedAt": "2026-11-07T03:47:26.191Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3306,
-      "winCount": 2367,
-      "loseCount": 467,
-      "drawCount": 936,
+      "points": 3318,
+      "winCount": 2374,
+      "loseCount": 468,
+      "drawCount": 940,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -32,10 +32,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1338,
-      "winCount": 946,
-      "loseCount": 233,
-      "drawCount": 433,
+      "points": 1346,
+      "winCount": 953,
+      "loseCount": 234,
+      "drawCount": 434,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -52,13 +52,13 @@
     },
     {
       "characterImage": "/images/182063036832174093",
-      "name": "ゆー@YT配信中",
+      "name": "ゆー@ようつべ",
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1269,
-      "winCount": 1074,
-      "loseCount": 421,
+      "points": 1279,
+      "winCount": 1084,
+      "loseCount": 422,
       "drawCount": 450,
       "maxConsecutiveWinCount": 23
     },
@@ -128,10 +128,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 507,
+      "points": 506,
       "winCount": 460,
-      "loseCount": 191,
-      "drawCount": 172,
+      "loseCount": 193,
+      "drawCount": 173,
       "maxConsecutiveWinCount": 14
     },
     {
@@ -184,13 +184,13 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "雪降る季節に",
+      "name": "みとれるな",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 349,
+      "points": 348,
       "winCount": 483,
-      "loseCount": 342,
+      "loseCount": 343,
       "drawCount": 168,
       "maxConsecutiveWinCount": 12
     },
@@ -273,8 +273,8 @@
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
       "points": 260,
-      "winCount": 293,
-      "loseCount": 144,
+      "winCount": 295,
+      "loseCount": 147,
       "drawCount": 86,
       "maxConsecutiveWinCount": 12
     },
