@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T10:30:13.698Z",
+  "updatedAt": "2026-11-07T11:10:20.809Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3336,
-      "winCount": 2395,
-      "loseCount": 479,
-      "drawCount": 945,
+      "points": 3339,
+      "winCount": 2398,
+      "loseCount": 481,
+      "drawCount": 946,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -56,8 +56,8 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1303,
-      "winCount": 1110,
+      "points": 1305,
+      "winCount": 1112,
       "loseCount": 433,
       "drawCount": 456,
       "maxConsecutiveWinCount": 23
@@ -128,10 +128,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 522,
-      "winCount": 474,
+      "points": 535,
+      "winCount": 483,
       "loseCount": 197,
-      "drawCount": 177,
+      "drawCount": 179,
       "maxConsecutiveWinCount": 14
     },
     {
@@ -1156,7 +1156,7 @@
     },
     {
       "characterImage": "/images/135689402882740230",
-      "name": "だ、大丈夫ですかっ？",
+      "name": "　",
       "userId": "135689402882740230",
       "twitterId": "bokumitsurudayo",
       "tier": "マスター クラス5",
