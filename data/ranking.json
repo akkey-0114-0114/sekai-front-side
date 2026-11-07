@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T19:14:40.485Z",
+  "updatedAt": "2026-11-07T19:54:55.824Z",
   "seasonId": 20,
   "players": [
     {
@@ -507,7 +507,7 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/291480420415225858",
       "name": "ひいらぎ",
       "userId": "291480420415225858",
       "twitterId": "",
