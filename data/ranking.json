@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T14:52:22.356Z",
+  "updatedAt": "2026-11-07T15:22:44.036Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3369,
-      "winCount": 2428,
+      "points": 3381,
+      "winCount": 2436,
       "loseCount": 490,
-      "drawCount": 950,
+      "drawCount": 952,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -44,10 +44,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1336,
-      "winCount": 1179,
-      "loseCount": 415,
-      "drawCount": 429,
+      "points": 1338,
+      "winCount": 1183,
+      "loseCount": 419,
+      "drawCount": 430,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -128,10 +128,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 554,
-      "winCount": 500,
+      "points": 556,
+      "winCount": 501,
       "loseCount": 201,
-      "drawCount": 182,
+      "drawCount": 183,
       "maxConsecutiveWinCount": 14
     },
     {
@@ -279,6 +279,18 @@
       "maxConsecutiveWinCount": 12
     },
     {
+      "characterImage": "/images/325160296154284033",
+      "name": "力士少女A",
+      "userId": "325160296154284033",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 255,
+      "winCount": 363,
+      "loseCount": 168,
+      "drawCount": 53,
+      "maxConsecutiveWinCount": 27
+    },
+    {
       "characterImage": "/images/37698146989649926",
       "name": "命あるよ",
       "userId": "37698146989649926",
@@ -289,18 +301,6 @@
       "loseCount": 98,
       "drawCount": 97,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/325160296154284033",
-      "name": "力士少女A",
-      "userId": "325160296154284033",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 248,
-      "winCount": 356,
-      "loseCount": 168,
-      "drawCount": 53,
-      "maxConsecutiveWinCount": 27
     },
     {
       "characterImage": "/images/170427380858368014",
@@ -387,7 +387,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": "/images/516538870970327054",
+      "characterImage": null,
       "name": "無.",
       "userId": "516538870970327054",
       "twitterId": "Wu__hhh",
