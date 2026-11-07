@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T17:13:29.512Z",
+  "updatedAt": "2026-11-07T17:53:40.689Z",
   "seasonId": 20,
   "players": [
     {
@@ -573,8 +573,8 @@
       "twitterId": "jyuku11",
       "tier": "マスター クラス5",
       "points": 116,
-      "winCount": 255,
-      "loseCount": 244,
+      "winCount": 257,
+      "loseCount": 247,
       "drawCount": 92,
       "maxConsecutiveWinCount": 9
     },
@@ -879,6 +879,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/233543097916801033",
+      "name": "こた",
+      "userId": "233543097916801033",
+      "twitterId": "こた-p7c",
+      "tier": "マスター クラス5",
+      "points": 73,
+      "winCount": 174,
+      "loseCount": 187,
+      "drawCount": 68,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/87767420961353737",
       "name": "てれじあらゔ(仮)",
       "userId": "87767420961353737",
@@ -915,6 +927,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/135689402882740230",
+      "name": "　",
+      "userId": "135689402882740230",
+      "twitterId": "bokumitsurudayo",
+      "tier": "マスター クラス5",
+      "points": 67,
+      "winCount": 150,
+      "loseCount": 144,
+      "drawCount": 59,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/68559788845326340",
       "name": "あるび紫",
       "userId": "68559788845326340",
@@ -937,18 +961,6 @@
       "loseCount": 14,
       "drawCount": 24,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/233543097916801033",
-      "name": "こた",
-      "userId": "233543097916801033",
-      "twitterId": "こた-p7c",
-      "tier": "マスター クラス5",
-      "points": 65,
-      "winCount": 166,
-      "loseCount": 186,
-      "drawCount": 68,
-      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/720971918631751683",
@@ -987,16 +999,16 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/135689402882740230",
-      "name": "　",
-      "userId": "135689402882740230",
-      "twitterId": "bokumitsurudayo",
+      "characterImage": "/images/239757103719305216",
+      "name": "アムール・エテルネル",
+      "userId": "239757103719305216",
+      "twitterId": "akihikokondosk",
       "tier": "マスター クラス5",
       "points": 61,
-      "winCount": 142,
-      "loseCount": 142,
-      "drawCount": 59,
-      "maxConsecutiveWinCount": 7
+      "winCount": 76,
+      "loseCount": 44,
+      "drawCount": 28,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/426295403618516992",
@@ -1021,18 +1033,6 @@
       "loseCount": 259,
       "drawCount": 85,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/239757103719305216",
-      "name": "アムール・エテルネル",
-      "userId": "239757103719305216",
-      "twitterId": "akihikokondosk",
-      "tier": "マスター クラス5",
-      "points": 59,
-      "winCount": 74,
-      "loseCount": 44,
-      "drawCount": 27,
-      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/5150526401081346",
@@ -1167,18 +1167,6 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/357830966470688768",
-      "name": "ふふんと配信中",
-      "userId": "357830966470688768",
-      "twitterId": "fufunto226",
-      "tier": "マスター クラス5",
-      "points": 47,
-      "winCount": 131,
-      "loseCount": 115,
-      "drawCount": 34,
-      "maxConsecutiveWinCount": 11
-    },
-    {
       "characterImage": "/images/5576641707982856",
       "name": "Atl/ねむむ♬",
       "userId": "5576641707982856",
@@ -1200,6 +1188,18 @@
       "winCount": 79,
       "loseCount": 51,
       "drawCount": 23,
+      "maxConsecutiveWinCount": 6
+    },
+    {
+      "characterImage": "/images/377363739883024384",
+      "name": "実力をください",
+      "userId": "377363739883024384",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 45,
+      "winCount": 59,
+      "loseCount": 49,
+      "drawCount": 33,
       "maxConsecutiveWinCount": 6
     }
   ]
