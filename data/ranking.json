@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T21:45:14.897Z",
+  "updatedAt": "2026-11-07T22:15:20.173Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,8 +32,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1388,
-      "winCount": 986,
+      "points": 1390,
+      "winCount": 988,
       "loseCount": 240,
       "drawCount": 444,
       "maxConsecutiveWinCount": 17
@@ -592,12 +592,12 @@
     },
     {
       "characterImage": "/images/170111531962687499",
-      "name": "Its Me",
+      "name": "僕の影に凭れ霞んでく",
       "userId": "170111531962687499",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 113,
-      "winCount": 88,
+      "points": 114,
+      "winCount": 89,
       "loseCount": 40,
       "drawCount": 57,
       "maxConsecutiveWinCount": 7
