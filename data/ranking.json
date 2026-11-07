@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:16:42.741Z",
+  "updatedAt": "2026-11-07T01:26:55.111Z",
   "seasonId": 20,
   "players": [
     {
@@ -27,6 +27,18 @@
       "maxConsecutiveWinCount": 15
     },
     {
+      "characterImage": "/images/272110013727850501",
+      "name": "KAITO FAN",
+      "userId": "272110013727850501",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 1338,
+      "winCount": 946,
+      "loseCount": 233,
+      "drawCount": 433,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/175168648301985796",
       "name": "LAYLA CHAN",
       "userId": "175168648301985796",
@@ -37,18 +49,6 @@
       "loseCount": 414,
       "drawCount": 428,
       "maxConsecutiveWinCount": 16
-    },
-    {
-      "characterImage": "/images/272110013727850501",
-      "name": "KAITO FAN",
-      "userId": "272110013727850501",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 1324,
-      "winCount": 938,
-      "loseCount": 231,
-      "drawCount": 427,
-      "maxConsecutiveWinCount": 17
     },
     {
       "characterImage": "/images/182063036832174093",
@@ -128,10 +128,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 487,
-      "winCount": 443,
-      "loseCount": 185,
-      "drawCount": 166,
+      "points": 492,
+      "winCount": 447,
+      "loseCount": 188,
+      "drawCount": 169,
       "maxConsecutiveWinCount": 14
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "characterImage": "/images/625197524291788810",
-      "name": "えむα",
+      "name": "白銀の果て、君を想う",
       "userId": "625197524291788810",
       "twitterId": "M_a1XD",
       "tier": "マスター クラス5",
