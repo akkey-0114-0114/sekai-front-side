@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T18:23:51.273Z",
+  "updatedAt": "2026-11-07T19:14:40.485Z",
   "seasonId": 20,
   "players": [
     {
@@ -507,7 +507,7 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": "/images/291480420415225858",
+      "characterImage": null,
       "name": "ひいらぎ",
       "userId": "291480420415225858",
       "twitterId": "",
@@ -843,6 +843,18 @@
       "maxConsecutiveWinCount": 10
     },
     {
+      "characterImage": "/images/233543097916801033",
+      "name": "こた",
+      "userId": "233543097916801033",
+      "twitterId": "こた-p7c",
+      "tier": "マスター クラス5",
+      "points": 84,
+      "winCount": 180,
+      "loseCount": 189,
+      "drawCount": 74,
+      "maxConsecutiveWinCount": 17
+    },
+    {
       "characterImage": "/images/527419323758821386",
       "name": "しゅん@時間浪費",
       "userId": "527419323758821386",
@@ -867,18 +879,6 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/233543097916801033",
-      "name": "こた",
-      "userId": "233543097916801033",
-      "twitterId": "こた-p7c",
-      "tier": "マスター クラス5",
-      "points": 79,
-      "winCount": 177,
-      "loseCount": 188,
-      "drawCount": 71,
-      "maxConsecutiveWinCount": 17
-    },
-    {
       "characterImage": "/images/139555986458062851",
       "name": "まえちゃん",
       "userId": "139555986458062851",
@@ -889,6 +889,18 @@
       "loseCount": 127,
       "drawCount": 53,
       "maxConsecutiveWinCount": 10
+    },
+    {
+      "characterImage": "/images/135689402882740230",
+      "name": "　",
+      "userId": "135689402882740230",
+      "twitterId": "bokumitsurudayo",
+      "tier": "マスター クラス5",
+      "points": 73,
+      "winCount": 158,
+      "loseCount": 151,
+      "drawCount": 64,
+      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/87767420961353737",
@@ -925,18 +937,6 @@
       "loseCount": 25,
       "drawCount": 25,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/135689402882740230",
-      "name": "　",
-      "userId": "135689402882740230",
-      "twitterId": "bokumitsurudayo",
-      "tier": "マスター クラス5",
-      "points": 67,
-      "winCount": 151,
-      "loseCount": 148,
-      "drawCount": 61,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/68559788845326340",
