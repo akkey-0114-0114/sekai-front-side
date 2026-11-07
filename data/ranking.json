@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T03:47:26.191Z",
+  "updatedAt": "2026-11-07T04:37:54.534Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3318,
-      "winCount": 2374,
-      "loseCount": 468,
-      "drawCount": 940,
+      "points": 3319,
+      "winCount": 2378,
+      "loseCount": 475,
+      "drawCount": 943,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -32,10 +32,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1346,
-      "winCount": 953,
+      "points": 1362,
+      "winCount": 962,
       "loseCount": 234,
-      "drawCount": 434,
+      "drawCount": 440,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -56,10 +56,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1279,
-      "winCount": 1084,
-      "loseCount": 422,
-      "drawCount": 450,
+      "points": 1289,
+      "winCount": 1090,
+      "loseCount": 424,
+      "drawCount": 454,
       "maxConsecutiveWinCount": 23
     },
     {
@@ -92,8 +92,8 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 646,
-      "winCount": 491,
+      "points": 647,
+      "winCount": 492,
       "loseCount": 162,
       "drawCount": 239,
       "maxConsecutiveWinCount": 9
@@ -128,10 +128,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 506,
-      "winCount": 460,
-      "loseCount": 193,
-      "drawCount": 173,
+      "points": 509,
+      "winCount": 463,
+      "loseCount": 195,
+      "drawCount": 174,
       "maxConsecutiveWinCount": 14
     },
     {
@@ -188,10 +188,10 @@
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 348,
-      "winCount": 483,
-      "loseCount": 343,
-      "drawCount": 168,
+      "points": 351,
+      "winCount": 487,
+      "loseCount": 346,
+      "drawCount": 169,
       "maxConsecutiveWinCount": 12
     },
     {
@@ -435,7 +435,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/201098380143054854",
+      "characterImage": null,
       "name": "求核置換反応",
       "userId": "201098380143054854",
       "twitterId": "momijimanju_u",
