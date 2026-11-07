@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T07:29:06.908Z",
+  "updatedAt": "2026-11-07T08:19:26.532Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,9 +32,9 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1387,
-      "winCount": 984,
-      "loseCount": 239,
+      "points": 1388,
+      "winCount": 986,
+      "loseCount": 240,
       "drawCount": 444,
       "maxConsecutiveWinCount": 17
     },
@@ -64,13 +64,13 @@
     },
     {
       "characterImage": "/images/243323553462300684",
-      "name": "りんさんず",
+      "name": "りんさんず@調子悪め",
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1200,
-      "winCount": 1461,
-      "loseCount": 976,
+      "points": 1206,
+      "winCount": 1471,
+      "loseCount": 981,
       "drawCount": 521,
       "maxConsecutiveWinCount": 16
     },
@@ -184,13 +184,13 @@
     },
     {
       "characterImage": "/images/301112565824430082",
-      "name": "なあ",
+      "name": "らく",
       "userId": "301112565824430082",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 357,
-      "winCount": 494,
-      "loseCount": 349,
+      "points": 359,
+      "winCount": 496,
+      "loseCount": 350,
       "drawCount": 170,
       "maxConsecutiveWinCount": 12
     },
@@ -412,7 +412,7 @@
     },
     {
       "characterImage": "/images/156246250497101836",
-      "name": "チーズバーガーハン",
+      "name": "ブルーアンビエンス",
       "userId": "156246250497101836",
       "twitterId": "2026_475",
       "tier": "マスター クラス5",
@@ -1131,18 +1131,6 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/135689402882740230",
-      "name": "　",
-      "userId": "135689402882740230",
-      "twitterId": "bokumitsurudayo",
-      "tier": "マスター クラス5",
-      "points": 50,
-      "winCount": 131,
-      "loseCount": 138,
-      "drawCount": 56,
-      "maxConsecutiveWinCount": 7
-    },
-    {
       "characterImage": "/images/214376984868667406",
       "name": "はるちゃん",
       "userId": "214376984868667406",
@@ -1165,6 +1153,18 @@
       "loseCount": 34,
       "drawCount": 23,
       "maxConsecutiveWinCount": 8
+    },
+    {
+      "characterImage": "/images/135689402882740230",
+      "name": "　",
+      "userId": "135689402882740230",
+      "twitterId": "bokumitsurudayo",
+      "tier": "マスター クラス5",
+      "points": 49,
+      "winCount": 131,
+      "loseCount": 139,
+      "drawCount": 57,
+      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/5139490482298889",
