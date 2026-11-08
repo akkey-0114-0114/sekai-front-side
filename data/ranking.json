@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T14:05:28.747Z",
+  "updatedAt": "2026-11-08T14:45:35.735Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,9 +8,9 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3506,
-      "winCount": 2533,
-      "loseCount": 500,
+      "points": 3515,
+      "winCount": 2542,
+      "loseCount": 501,
       "drawCount": 972,
       "maxConsecutiveWinCount": 17
     },
@@ -44,10 +44,10 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1353,
-      "winCount": 1205,
-      "loseCount": 431,
-      "drawCount": 432,
+      "points": 1361,
+      "winCount": 1213,
+      "loseCount": 433,
+      "drawCount": 433,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -56,10 +56,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1344,
-      "winCount": 1149,
-      "loseCount": 443,
-      "drawCount": 463,
+      "points": 1348,
+      "winCount": 1151,
+      "loseCount": 444,
+      "drawCount": 465,
       "maxConsecutiveWinCount": 23
     },
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1248,
-      "winCount": 1552,
-      "loseCount": 1036,
-      "drawCount": 530,
+      "points": 1250,
+      "winCount": 1555,
+      "loseCount": 1042,
+      "drawCount": 534,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -231,6 +231,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/325160296154284033",
+      "name": "力士少女Å",
+      "userId": "325160296154284033",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 281,
+      "winCount": 389,
+      "loseCount": 170,
+      "drawCount": 53,
+      "maxConsecutiveWinCount": 35
+    },
+    {
       "characterImage": "/images/323383674971267073",
       "name": "もふ",
       "userId": "323383674971267073",
@@ -279,18 +291,6 @@
       "maxConsecutiveWinCount": 12
     },
     {
-      "characterImage": "/images/325160296154284033",
-      "name": "力士少女Å",
-      "userId": "325160296154284033",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 274,
-      "winCount": 381,
-      "loseCount": 168,
-      "drawCount": 53,
-      "maxConsecutiveWinCount": 32
-    },
-    {
       "characterImage": "/images/170427380858368014",
       "name": "きりな",
       "userId": "170427380858368014",
@@ -320,10 +320,10 @@
       "userId": "457338724789698560",
       "twitterId": "teikyodai0000",
       "tier": "マスター クラス5",
-      "points": 233,
-      "winCount": 246,
-      "loseCount": 110,
-      "drawCount": 79,
+      "points": 234,
+      "winCount": 249,
+      "loseCount": 113,
+      "drawCount": 80,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -868,7 +868,7 @@
     },
     {
       "characterImage": "/images/156909858960904206",
-      "name": "紙引き",
+      "name": "カメラとめんなよ！",
       "userId": "156909858960904206",
       "twitterId": "kamibiki_ningen",
       "tier": "マスター クラス5",
@@ -901,6 +901,18 @@
       "loseCount": 151,
       "drawCount": 64,
       "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": "/images/6847590100930562",
+      "name": "バーサーカーおさしみ",
+      "userId": "6847590100930562",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 72,
+      "winCount": 63,
+      "loseCount": 15,
+      "drawCount": 26,
+      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/87767420961353737",
@@ -951,18 +963,6 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": "/images/6847590100930562",
-      "name": "バーサーカーおさしみ",
-      "userId": "6847590100930562",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 65,
-      "winCount": 58,
-      "loseCount": 14,
-      "drawCount": 24,
-      "maxConsecutiveWinCount": 8
-    },
-    {
       "characterImage": "/images/720971918631751683",
       "name": "わんだほい火星人",
       "userId": "720971918631751683",
@@ -988,7 +988,7 @@
     },
     {
       "characterImage": "/images/249530031214424064",
-      "name": "逢坂大河",
+      "name": "あうぇる",
       "userId": "249530031214424064",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -1040,9 +1040,9 @@
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
       "tier": "マスター クラス5",
-      "points": 59,
-      "winCount": 240,
-      "loseCount": 260,
+      "points": 60,
+      "winCount": 242,
+      "loseCount": 261,
       "drawCount": 85,
       "maxConsecutiveWinCount": 8
     },
@@ -1096,7 +1096,7 @@
     },
     {
       "characterImage": "/images/225448700428521487",
-      "name": "望月ほぐの",
+      "name": "びぃ",
       "userId": "225448700428521487",
       "twitterId": "biichan710",
       "tier": "マスター クラス5",
