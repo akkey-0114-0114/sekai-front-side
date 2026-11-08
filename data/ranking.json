@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:23:41.564Z",
+  "updatedAt": "2026-11-08T11:13:50.328Z",
   "seasonId": 20,
   "players": [
     {
@@ -92,10 +92,10 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 731,
-      "winCount": 565,
-      "loseCount": 173,
-      "drawCount": 249,
+      "points": 740,
+      "winCount": 573,
+      "loseCount": 174,
+      "drawCount": 250,
       "maxConsecutiveWinCount": 13
     },
     {
@@ -580,7 +580,7 @@
     },
     {
       "characterImage": "/images/173615932274876419",
-      "name": "おかえり",
+      "name": "インチキ",
       "userId": "173615932274876419",
       "twitterId": "Koz_otg",
       "tier": "マスター クラス5",
