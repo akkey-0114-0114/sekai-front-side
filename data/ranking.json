@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:46:20.192Z",
+  "updatedAt": "2026-11-08T18:26:27.526Z",
   "seasonId": 20,
   "players": [
     {
@@ -40,12 +40,12 @@
     },
     {
       "characterImage": "/images/175168648301985796",
-      "name": "喪女",
+      "name": "れいらちゃん♡",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1391,
-      "winCount": 1240,
+      "points": 1401,
+      "winCount": 1249,
       "loseCount": 436,
       "drawCount": 435,
       "maxConsecutiveWinCount": 16
