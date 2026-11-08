@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T08:13:04.404Z",
+  "updatedAt": "2026-11-08T09:03:20.853Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3442,
-      "winCount": 2483,
+      "points": 3459,
+      "winCount": 2496,
       "loseCount": 497,
-      "drawCount": 964,
+      "drawCount": 966,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -32,10 +32,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1422,
-      "winCount": 1011,
+      "points": 1427,
+      "winCount": 1014,
       "loseCount": 249,
-      "drawCount": 456,
+      "drawCount": 457,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -68,9 +68,9 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1235,
-      "winCount": 1533,
-      "loseCount": 1026,
+      "points": 1237,
+      "winCount": 1541,
+      "loseCount": 1032,
       "drawCount": 528,
       "maxConsecutiveWinCount": 16
     },
@@ -116,10 +116,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 574,
-      "winCount": 517,
-      "loseCount": 206,
-      "drawCount": 187,
+      "points": 583,
+      "winCount": 524,
+      "loseCount": 207,
+      "drawCount": 189,
       "maxConsecutiveWinCount": 14
     },
     {
@@ -273,8 +273,8 @@
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
       "points": 268,
-      "winCount": 303,
-      "loseCount": 150,
+      "winCount": 304,
+      "loseCount": 151,
       "drawCount": 88,
       "maxConsecutiveWinCount": 12
     },
@@ -308,9 +308,9 @@
       "userId": "170427380858368014",
       "twitterId": "kirikiri0907",
       "tier": "マスター クラス5",
-      "points": 242,
-      "winCount": 399,
-      "loseCount": 267,
+      "points": 246,
+      "winCount": 407,
+      "loseCount": 272,
       "drawCount": 89,
       "maxConsecutiveWinCount": 11
     },
@@ -892,7 +892,7 @@
     },
     {
       "characterImage": "/images/135689402882740230",
-      "name": "　",
+      "name": "3時間くらいあてぃ〜",
       "userId": "135689402882740230",
       "twitterId": "bokumitsurudayo",
       "tier": "マスター クラス5",
@@ -1191,16 +1191,16 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/5139490482298889",
-      "name": "うまる",
-      "userId": "5139490482298889",
-      "twitterId": "",
+      "characterImage": "/images/5576641707982856",
+      "name": "Atl/ねむむ♬",
+      "userId": "5576641707982856",
+      "twitterId": "Nemu_3157",
       "tier": "マスター クラス5",
-      "points": 47,
-      "winCount": 79,
-      "loseCount": 33,
-      "drawCount": 9,
-      "maxConsecutiveWinCount": 14
+      "points": 48,
+      "winCount": 125,
+      "loseCount": 100,
+      "drawCount": 26,
+      "maxConsecutiveWinCount": 7
     }
   ]
 }
