@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T20:57:02.748Z",
+  "updatedAt": "2026-11-08T21:37:22.840Z",
   "seasonId": 20,
   "players": [
     {
@@ -759,18 +759,6 @@
       "maxConsecutiveWinCount": 15
     },
     {
-      "characterImage": "/images/5187604429455361",
-      "name": "君の知らない物語",
-      "userId": "5187604429455361",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 94,
-      "winCount": 186,
-      "loseCount": 134,
-      "drawCount": 46,
-      "maxConsecutiveWinCount": 11
-    },
-    {
       "characterImage": "/images/5243709529157646",
       "name": "えれあ",
       "userId": "5243709529157646",
@@ -805,6 +793,18 @@
       "loseCount": 169,
       "drawCount": 76,
       "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": null,
+      "name": "呪い",
+      "userId": "5187604429455361",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 88,
+      "winCount": 188,
+      "loseCount": 142,
+      "drawCount": 46,
+      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/517948178685124618",
