@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T09:43:27.990Z",
+  "updatedAt": "2026-11-08T10:23:41.564Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3469,
-      "winCount": 2503,
+      "points": 3477,
+      "winCount": 2508,
       "loseCount": 497,
-      "drawCount": 968,
+      "drawCount": 970,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -92,11 +92,23 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 730,
-      "winCount": 564,
+      "points": 731,
+      "winCount": 565,
       "loseCount": 173,
       "drawCount": 249,
       "maxConsecutiveWinCount": 13
+    },
+    {
+      "characterImage": "/images/5170409750286344",
+      "name": "みょん",
+      "userId": "5170409750286344",
+      "twitterId": "ky38yom",
+      "tier": "マスター クラス5",
+      "points": 606,
+      "winCount": 541,
+      "loseCount": 209,
+      "drawCount": 193,
+      "maxConsecutiveWinCount": 14
     },
     {
       "characterImage": "/images/533558892414337026",
@@ -109,18 +121,6 @@
       "loseCount": 195,
       "drawCount": 196,
       "maxConsecutiveWinCount": 11
-    },
-    {
-      "characterImage": "/images/5170409750286344",
-      "name": "みょん",
-      "userId": "5170409750286344",
-      "twitterId": "ky38yom",
-      "tier": "マスター クラス5",
-      "points": 595,
-      "winCount": 533,
-      "loseCount": 208,
-      "drawCount": 191,
-      "maxConsecutiveWinCount": 14
     },
     {
       "characterImage": "/images/5147187164524550",
@@ -140,8 +140,8 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 499,
-      "winCount": 716,
+      "points": 502,
+      "winCount": 719,
       "loseCount": 553,
       "drawCount": 275,
       "maxConsecutiveWinCount": 8
@@ -892,7 +892,7 @@
     },
     {
       "characterImage": "/images/135689402882740230",
-      "name": "3時間くらいあてぃ〜",
+      "name": "　",
       "userId": "135689402882740230",
       "twitterId": "bokumitsurudayo",
       "tier": "マスター クラス5",
