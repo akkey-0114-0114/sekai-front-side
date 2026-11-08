@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T04:31:32.619Z",
+  "updatedAt": "2026-11-08T05:22:02.454Z",
   "seasonId": 20,
   "players": [
     {
@@ -56,9 +56,9 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1330,
-      "winCount": 1131,
-      "loseCount": 437,
+      "points": 1336,
+      "winCount": 1137,
+      "loseCount": 438,
       "drawCount": 463,
       "maxConsecutiveWinCount": 23
     },
@@ -92,10 +92,10 @@
       "userId": "567850409714769922",
       "twitterId": "1XbUhDGt4s12474",
       "tier": "マスター クラス5",
-      "points": 715,
-      "winCount": 551,
-      "loseCount": 171,
-      "drawCount": 247,
+      "points": 725,
+      "winCount": 558,
+      "loseCount": 172,
+      "drawCount": 249,
       "maxConsecutiveWinCount": 13
     },
     {
@@ -747,6 +747,18 @@
       "maxConsecutiveWinCount": 15
     },
     {
+      "characterImage": null,
+      "name": "ハラショー",
+      "userId": "5242530551664648",
+      "twitterId": "harasho_g",
+      "tier": "マスター クラス5",
+      "points": 94,
+      "winCount": 129,
+      "loseCount": 79,
+      "drawCount": 42,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/5243709529157646",
       "name": "えれあ",
       "userId": "5243709529157646",
@@ -757,18 +769,6 @@
       "loseCount": 21,
       "drawCount": 34,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/5242530551664648",
-      "name": "ハラショー",
-      "userId": "5242530551664648",
-      "twitterId": "harasho_g",
-      "tier": "マスター クラス5",
-      "points": 91,
-      "winCount": 124,
-      "loseCount": 76,
-      "drawCount": 41,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/5187604429455361",
@@ -868,7 +868,7 @@
     },
     {
       "characterImage": "/images/156909858960904206",
-      "name": "カメラとめんなよ！",
+      "name": "紙引き",
       "userId": "156909858960904206",
       "twitterId": "kamibiki_ningen",
       "tier": "マスター クラス5",
@@ -999,6 +999,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/294030286845030405",
+      "name": "れぺ",
+      "userId": "294030286845030405",
+      "twitterId": "repe0423",
+      "tier": "マスター クラス5",
+      "points": 62,
+      "winCount": 81,
+      "loseCount": 36,
+      "drawCount": 24,
+      "maxConsecutiveWinCount": 13
+    },
+    {
       "characterImage": "/images/239757103719305216",
       "name": "アムール・エテルネル",
       "userId": "239757103719305216",
@@ -1095,18 +1107,6 @@
       "maxConsecutiveWinCount": 10
     },
     {
-      "characterImage": "/images/294030286845030405",
-      "name": "れぺ",
-      "userId": "294030286845030405",
-      "twitterId": "repe0423",
-      "tier": "マスター クラス5",
-      "points": 53,
-      "winCount": 73,
-      "loseCount": 36,
-      "drawCount": 24,
-      "maxConsecutiveWinCount": 8
-    },
-    {
       "characterImage": "/images/205434857866600455",
       "name": "へっぽこぽこゆー太郎",
       "userId": "205434857866600455",
@@ -1143,6 +1143,18 @@
       "maxConsecutiveWinCount": 5
     },
     {
+      "characterImage": "/images/528120573052010503",
+      "name": "YOPIPIの日常",
+      "userId": "528120573052010503",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 52,
+      "winCount": 108,
+      "loseCount": 77,
+      "drawCount": 25,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/13978876032626697",
       "name": "千遥ライセ",
       "userId": "13978876032626697",
@@ -1153,18 +1165,6 @@
       "loseCount": 23,
       "drawCount": 27,
       "maxConsecutiveWinCount": 6
-    },
-    {
-      "characterImage": "/images/528120573052010503",
-      "name": "YOPIPIの日常",
-      "userId": "528120573052010503",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 51,
-      "winCount": 107,
-      "loseCount": 76,
-      "drawCount": 25,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/214376984868667406",
