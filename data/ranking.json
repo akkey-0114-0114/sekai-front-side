@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T13:25:04.143Z",
+  "updatedAt": "2026-11-08T14:05:28.747Z",
   "seasonId": 20,
   "players": [
     {
@@ -40,13 +40,13 @@
     },
     {
       "characterImage": "/images/175168648301985796",
-      "name": "れいらちゃん♡",
+      "name": "喪女",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1350,
-      "winCount": 1202,
-      "loseCount": 430,
+      "points": 1353,
+      "winCount": 1205,
+      "loseCount": 431,
       "drawCount": 432,
       "maxConsecutiveWinCount": 16
     },
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1236,
-      "winCount": 1542,
-      "loseCount": 1035,
-      "drawCount": 529,
+      "points": 1248,
+      "winCount": 1552,
+      "loseCount": 1036,
+      "drawCount": 530,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -284,11 +284,11 @@
       "userId": "325160296154284033",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 264,
-      "winCount": 372,
+      "points": 274,
+      "winCount": 381,
       "loseCount": 168,
       "drawCount": 53,
-      "maxConsecutiveWinCount": 27
+      "maxConsecutiveWinCount": 32
     },
     {
       "characterImage": "/images/170427380858368014",
@@ -320,10 +320,10 @@
       "userId": "457338724789698560",
       "twitterId": "teikyodai0000",
       "tier": "マスター クラス5",
-      "points": 223,
-      "winCount": 238,
-      "loseCount": 109,
-      "drawCount": 78,
+      "points": 233,
+      "winCount": 246,
+      "loseCount": 110,
+      "drawCount": 79,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -1040,9 +1040,9 @@
       "userId": "59286211860443151",
       "twitterId": "maid_10oclock",
       "tier": "マスター クラス5",
-      "points": 60,
+      "points": 59,
       "winCount": 240,
-      "loseCount": 259,
+      "loseCount": 260,
       "drawCount": 85,
       "maxConsecutiveWinCount": 8
     },
@@ -1096,7 +1096,7 @@
     },
     {
       "characterImage": "/images/225448700428521487",
-      "name": "びぃ",
+      "name": "望月ほぐの",
       "userId": "225448700428521487",
       "twitterId": "biichan710",
       "tier": "マスター クラス5",
