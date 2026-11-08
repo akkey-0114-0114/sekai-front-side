@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T11:13:50.328Z",
+  "updatedAt": "2026-11-08T11:44:03.872Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,8 +8,8 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3477,
-      "winCount": 2508,
+      "points": 3482,
+      "winCount": 2512,
       "loseCount": 497,
       "drawCount": 970,
       "maxConsecutiveWinCount": 17
@@ -104,10 +104,10 @@
       "userId": "5170409750286344",
       "twitterId": "ky38yom",
       "tier": "マスター クラス5",
-      "points": 606,
-      "winCount": 541,
-      "loseCount": 209,
-      "drawCount": 193,
+      "points": 611,
+      "winCount": 546,
+      "loseCount": 210,
+      "drawCount": 194,
       "maxConsecutiveWinCount": 14
     },
     {
@@ -164,10 +164,10 @@
       "userId": "416928587080196105",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 446,
-      "winCount": 370,
-      "loseCount": 158,
-      "drawCount": 166,
+      "points": 451,
+      "winCount": 374,
+      "loseCount": 159,
+      "drawCount": 167,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -519,18 +519,6 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/203342689135669260",
-      "name": "夏祭り恋慕う",
-      "userId": "203342689135669260",
-      "twitterId": "EmpErroR_time",
-      "tier": "マスター クラス5",
-      "points": 137,
-      "winCount": 163,
-      "loseCount": 111,
-      "drawCount": 76,
-      "maxConsecutiveWinCount": 6
-    },
-    {
       "characterImage": "/images/5577230604546062",
       "name": "ハコイクク",
       "userId": "5577230604546062",
@@ -541,6 +529,18 @@
       "loseCount": 34,
       "drawCount": 48,
       "maxConsecutiveWinCount": 9
+    },
+    {
+      "characterImage": "/images/203342689135669260",
+      "name": "夏祭り恋慕う",
+      "userId": "203342689135669260",
+      "twitterId": "EmpErroR_time",
+      "tier": "マスター クラス5",
+      "points": 136,
+      "winCount": 163,
+      "loseCount": 112,
+      "drawCount": 76,
+      "maxConsecutiveWinCount": 6
     },
     {
       "characterImage": "/images/532825330736398341",
