@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T10:08:14.078Z",
+  "updatedAt": "2026-11-09T11:08:37.512Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3567,
-      "winCount": 2580,
+      "points": 3572,
+      "winCount": 2583,
       "loseCount": 504,
-      "drawCount": 982,
+      "drawCount": 983,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -44,8 +44,8 @@
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1418,
-      "winCount": 1261,
+      "points": 1426,
+      "winCount": 1268,
       "loseCount": 439,
       "drawCount": 441,
       "maxConsecutiveWinCount": 16
@@ -56,8 +56,8 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1349,
-      "winCount": 1152,
+      "points": 1350,
+      "winCount": 1153,
       "loseCount": 444,
       "drawCount": 465,
       "maxConsecutiveWinCount": 23
@@ -140,10 +140,10 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 513,
-      "winCount": 732,
-      "loseCount": 559,
-      "drawCount": 277,
+      "points": 516,
+      "winCount": 737,
+      "loseCount": 561,
+      "drawCount": 278,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -712,7 +712,7 @@
     },
     {
       "characterImage": "/images/184185197172760576",
-      "name": "ゎ",
+      "name": "ゎぁ",
       "userId": "184185197172760576",
       "twitterId": "210_wa_",
       "tier": "マスター クラス5",
@@ -783,6 +783,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "終点消しましょう",
+      "userId": "5187604429455361",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 91,
+      "winCount": 198,
+      "loseCount": 153,
+      "drawCount": 49,
+      "maxConsecutiveWinCount": 11
+    },
+    {
       "characterImage": "/images/283966015176409092",
       "name": "小晴のか",
       "userId": "283966015176409092",
@@ -817,18 +829,6 @@
       "loseCount": 81,
       "drawCount": 41,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/5187604429455361",
-      "name": "終点消しましょう",
-      "userId": "5187604429455361",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 87,
-      "winCount": 191,
-      "loseCount": 147,
-      "drawCount": 46,
-      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/261792353769807878",
@@ -896,15 +896,15 @@
       "userId": "139555986458062851",
       "twitterId": "maetyan80806",
       "tier": "マスター クラス5",
-      "points": 74,
-      "winCount": 152,
-      "loseCount": 127,
+      "points": 75,
+      "winCount": 154,
+      "loseCount": 128,
       "drawCount": 53,
       "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/135689402882740230",
-      "name": "セカイの住人",
+      "name": "ひと針ひと針、丁寧に",
       "userId": "135689402882740230",
       "twitterId": "bokumitsurudayo",
       "tier": "マスター クラス5",
