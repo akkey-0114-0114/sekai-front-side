@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T21:51:44.872Z",
+  "updatedAt": "2026-11-09T22:41:53.775Z",
   "seasonId": 20,
   "players": [
     {
@@ -232,7 +232,7 @@
     },
     {
       "characterImage": "/images/625197524291788810",
-      "name": "AI V2",
+      "name": "旧態依然なプレイヤー",
       "userId": "625197524291788810",
       "twitterId": "M_a1XD",
       "tier": "マスター クラス5",
