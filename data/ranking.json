@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T21:11:37.669Z",
+  "updatedAt": "2026-11-09T21:51:44.872Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,8 +32,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1446,
-      "winCount": 1030,
+      "points": 1448,
+      "winCount": 1032,
       "loseCount": 251,
       "drawCount": 459,
       "maxConsecutiveWinCount": 17
@@ -232,7 +232,7 @@
     },
     {
       "characterImage": "/images/625197524291788810",
-      "name": "現在このアカウントは",
+      "name": "AI V2",
       "userId": "625197524291788810",
       "twitterId": "M_a1XD",
       "tier": "マスター クラス5",
