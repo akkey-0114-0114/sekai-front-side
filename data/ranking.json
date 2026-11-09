@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T23:58:11.830Z",
+  "updatedAt": "2026-11-09T01:55:36.545Z",
   "seasonId": 20,
   "players": [
     {
@@ -128,8 +128,8 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 564,
-      "winCount": 469,
+      "points": 565,
+      "winCount": 470,
       "loseCount": 118,
       "drawCount": 156,
       "maxConsecutiveWinCount": 30
@@ -200,10 +200,10 @@
       "userId": "5144945912909827",
       "twitterId": "hagekingu0917",
       "tier": "マスター クラス5",
-      "points": 306,
-      "winCount": 309,
-      "loseCount": 179,
-      "drawCount": 134,
+      "points": 308,
+      "winCount": 312,
+      "loseCount": 182,
+      "drawCount": 135,
       "maxConsecutiveWinCount": 9
     },
     {
@@ -975,18 +975,6 @@
       "maxConsecutiveWinCount": 9
     },
     {
-      "characterImage": "/images/810963012282531851",
-      "name": "セカの",
-      "userId": "810963012282531851",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 62,
-      "winCount": 152,
-      "loseCount": 96,
-      "drawCount": 79,
-      "maxConsecutiveWinCount": 6
-    },
-    {
       "characterImage": "/images/249530031214424064",
       "name": "あうぇる",
       "userId": "249530031214424064",
@@ -1081,18 +1069,6 @@
       "loseCount": 9,
       "drawCount": 19,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/810962948307456006",
-      "name": "みとれて",
-      "userId": "810962948307456006",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 55,
-      "winCount": 130,
-      "loseCount": 78,
-      "drawCount": 71,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/225448700428521487",
@@ -1201,6 +1177,30 @@
       "loseCount": 147,
       "drawCount": 26,
       "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": "/images/5139490482298889",
+      "name": "うまる",
+      "userId": "5139490482298889",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 47,
+      "winCount": 79,
+      "loseCount": 33,
+      "drawCount": 9,
+      "maxConsecutiveWinCount": 14
+    },
+    {
+      "characterImage": "/images/204764316993634305",
+      "name": "アルトラエレジー",
+      "userId": "204764316993634305",
+      "twitterId": "Mahirun0311",
+      "tier": "マスター クラス5",
+      "points": 46,
+      "winCount": 79,
+      "loseCount": 51,
+      "drawCount": 23,
+      "maxConsecutiveWinCount": 6
     }
   ]
 }
