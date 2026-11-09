@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T05:36:20.431Z",
+  "updatedAt": "2026-11-09T06:46:37.934Z",
   "seasonId": 20,
   "players": [
     {
@@ -327,6 +327,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/304143941762568205",
+      "name": "りきティー",
+      "userId": "304143941762568205",
+      "twitterId": "Riki220225",
+      "tier": "マスター クラス5",
+      "points": 227,
+      "winCount": 202,
+      "loseCount": 91,
+      "drawCount": 94,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/28746192208850952",
       "name": "あいは..❖",
       "userId": "28746192208850952",
@@ -337,18 +349,6 @@
       "loseCount": 97,
       "drawCount": 89,
       "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/304143941762568205",
-      "name": "りきティー",
-      "userId": "304143941762568205",
-      "twitterId": "Riki220225",
-      "tier": "マスター クラス5",
-      "points": 222,
-      "winCount": 197,
-      "loseCount": 89,
-      "drawCount": 92,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/259659435240767501",
@@ -795,6 +795,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/183956109303750663",
+      "name": "れやむ",
+      "userId": "183956109303750663",
+      "twitterId": "Reyamuuuuuuu",
+      "tier": "マスター クラス5",
+      "points": 89,
+      "winCount": 138,
+      "loseCount": 99,
+      "drawCount": 45,
+      "maxConsecutiveWinCount": 7
+    },
+    {
       "characterImage": "/images/517948178685124618",
       "name": "今月　琴音",
       "userId": "517948178685124618",
@@ -805,18 +817,6 @@
       "loseCount": 81,
       "drawCount": 41,
       "maxConsecutiveWinCount": 10
-    },
-    {
-      "characterImage": "/images/183956109303750663",
-      "name": "れやむ",
-      "userId": "183956109303750663",
-      "twitterId": "Reyamuuuuuuu",
-      "tier": "マスター クラス5",
-      "points": 87,
-      "winCount": 137,
-      "loseCount": 99,
-      "drawCount": 44,
-      "maxConsecutiveWinCount": 7
     },
     {
       "characterImage": "/images/261792353769807878",
@@ -976,7 +976,7 @@
     },
     {
       "characterImage": "/images/249530031214424064",
-      "name": "あうぇる",
+      "name": "逢坂大河",
       "userId": "249530031214424064",
       "twitterId": "",
       "tier": "マスター クラス5",
