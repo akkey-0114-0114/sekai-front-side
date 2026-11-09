@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T16:30:39.532Z",
+  "updatedAt": "2026-11-09T17:30:50.713Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3638,
+      "points": 3640,
       "winCount": 2638,
       "loseCount": 510,
-      "drawCount": 991,
+      "drawCount": 992,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1282,
-      "winCount": 1588,
+      "points": 1290,
+      "winCount": 1595,
       "loseCount": 1062,
-      "drawCount": 547,
+      "drawCount": 548,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "characterImage": "/images/148043563943223297",
-      "name": "Blessing",
+      "name": "Φ",
       "userId": "148043563943223297",
       "twitterId": "fire0322001",
       "tier": "マスター クラス5",
@@ -992,8 +992,8 @@
       "userId": "249530031214424064",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 62,
-      "winCount": 120,
+      "points": 63,
+      "winCount": 121,
       "loseCount": 97,
       "drawCount": 43,
       "maxConsecutiveWinCount": 9
