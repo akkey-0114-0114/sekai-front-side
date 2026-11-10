@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:33:05.110Z",
+  "updatedAt": "2026-11-10T04:23:14.057Z",
   "seasonId": 20,
   "players": [
     {
@@ -320,11 +320,11 @@
       "userId": "457338724789698560",
       "twitterId": "teikyodai0000",
       "tier": "マスター クラス5",
-      "points": 243,
-      "winCount": 257,
-      "loseCount": 113,
+      "points": 248,
+      "winCount": 262,
+      "loseCount": 114,
       "drawCount": 80,
-      "maxConsecutiveWinCount": 9
+      "maxConsecutiveWinCount": 13
     },
     {
       "characterImage": "/images/304143941762568205",
