@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T09:24:20.104Z",
+  "updatedAt": "2026-11-10T10:24:41.405Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3669,
-      "winCount": 2657,
-      "loseCount": 511,
-      "drawCount": 999,
+      "points": 3680,
+      "winCount": 2665,
+      "loseCount": 512,
+      "drawCount": 1001,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -56,10 +56,10 @@
       "userId": "182063036832174093",
       "twitterId": "yuuyuu_28",
       "tier": "マスター クラス5",
-      "points": 1388,
-      "winCount": 1187,
+      "points": 1389,
+      "winCount": 1188,
       "loseCount": 453,
-      "drawCount": 474,
+      "drawCount": 475,
       "maxConsecutiveWinCount": 23
     },
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1290,
-      "winCount": 1595,
-      "loseCount": 1062,
-      "drawCount": 548,
+      "points": 1300,
+      "winCount": 1605,
+      "loseCount": 1064,
+      "drawCount": 549,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -141,8 +141,8 @@
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
       "points": 518,
-      "winCount": 738,
-      "loseCount": 561,
+      "winCount": 739,
+      "loseCount": 562,
       "drawCount": 278,
       "maxConsecutiveWinCount": 8
     },
@@ -220,7 +220,7 @@
     },
     {
       "characterImage": "/images/192937409625243655",
-      "name": "▄︻┻┳═一",
+      "name": "Shalt",
       "userId": "192937409625243655",
       "twitterId": "",
       "tier": "マスター クラス5",
@@ -567,6 +567,18 @@
       "maxConsecutiveWinCount": 12
     },
     {
+      "characterImage": "/images/291064092789710853",
+      "name": "ぽせ",
+      "userId": "291064092789710853",
+      "twitterId": "Nia_mem0ry",
+      "tier": "マスター クラス5",
+      "points": 121,
+      "winCount": 182,
+      "loseCount": 112,
+      "drawCount": 53,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/196496874391470090",
       "name": "カイロ@tiktok",
       "userId": "196496874391470090",
@@ -601,18 +613,6 @@
       "loseCount": 43,
       "drawCount": 59,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/291064092789710853",
-      "name": "ぽせ",
-      "userId": "291064092789710853",
-      "twitterId": "Nia_mem0ry",
-      "tier": "マスター クラス5",
-      "points": 111,
-      "winCount": 173,
-      "loseCount": 110,
-      "drawCount": 49,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/400981089303658509",
@@ -987,6 +987,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/100354912847847434",
+      "name": "芳村",
+      "userId": "100354912847847434",
+      "twitterId": "moe_impic",
+      "tier": "マスター クラス5",
+      "points": 66,
+      "winCount": 128,
+      "loseCount": 80,
+      "drawCount": 30,
+      "maxConsecutiveWinCount": 10
+    },
+    {
       "characterImage": "/images/720971918631751683",
       "name": "わんだほい火星人",
       "userId": "720971918631751683",
@@ -1004,10 +1016,10 @@
       "userId": "239757103719305216",
       "twitterId": "akihikokondosk",
       "tier": "マスター クラス5",
-      "points": 61,
-      "winCount": 77,
-      "loseCount": 46,
-      "drawCount": 29,
+      "points": 62,
+      "winCount": 78,
+      "loseCount": 49,
+      "drawCount": 31,
       "maxConsecutiveWinCount": 6
     },
     {
@@ -1057,18 +1069,6 @@
       "loseCount": 73,
       "drawCount": 31,
       "maxConsecutiveWinCount": 5
-    },
-    {
-      "characterImage": "/images/100354912847847434",
-      "name": "芳村",
-      "userId": "100354912847847434",
-      "twitterId": "moe_impic",
-      "tier": "マスター クラス5",
-      "points": 56,
-      "winCount": 117,
-      "loseCount": 76,
-      "drawCount": 27,
-      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/416872263188758535",
