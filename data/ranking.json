@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T12:04:59.824Z",
+  "updatedAt": "2026-11-10T13:14:07.345Z",
   "seasonId": 20,
   "players": [
     {
@@ -64,12 +64,12 @@
     },
     {
       "characterImage": "/images/243323553462300684",
-      "name": "りんさんず",
+      "name": "りんさんずYT配信中",
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1301,
-      "winCount": 1605,
+      "points": 1303,
+      "winCount": 1607,
       "loseCount": 1065,
       "drawCount": 550,
       "maxConsecutiveWinCount": 16
@@ -164,8 +164,8 @@
       "userId": "416928587080196105",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 469,
-      "winCount": 394,
+      "points": 470,
+      "winCount": 395,
       "loseCount": 167,
       "drawCount": 171,
       "maxConsecutiveWinCount": 17
