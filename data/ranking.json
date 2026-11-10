@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:24:52.716Z",
+  "updatedAt": "2026-11-10T12:04:59.824Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3683,
-      "winCount": 2667,
+      "points": 3695,
+      "winCount": 2678,
       "loseCount": 514,
-      "drawCount": 1003,
+      "drawCount": 1004,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -165,9 +165,9 @@
       "twitterId": "",
       "tier": "マスター クラス5",
       "points": 469,
-      "winCount": 391,
-      "loseCount": 162,
-      "drawCount": 169,
+      "winCount": 394,
+      "loseCount": 167,
+      "drawCount": 171,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -320,9 +320,9 @@
       "userId": "457338724789698560",
       "twitterId": "teikyodai0000",
       "tier": "マスター クラス5",
-      "points": 248,
+      "points": 246,
       "winCount": 262,
-      "loseCount": 114,
+      "loseCount": 116,
       "drawCount": 80,
       "maxConsecutiveWinCount": 13
     },
@@ -460,7 +460,7 @@
     },
     {
       "characterImage": "/images/150921978743693322",
-      "name": "りんかみさん",
+      "name": "リンちゃんは神",
       "userId": "150921978743693322",
       "twitterId": "necomaru_prsk",
       "tier": "マスター クラス5",
@@ -574,8 +574,8 @@
       "tier": "マスター クラス5",
       "points": 123,
       "winCount": 185,
-      "loseCount": 114,
-      "drawCount": 54,
+      "loseCount": 115,
+      "drawCount": 55,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -819,18 +819,6 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": "/images/139555986458062851",
-      "name": "まえちゃん",
-      "userId": "139555986458062851",
-      "twitterId": "maetyan80806",
-      "tier": "マスター クラス5",
-      "points": 90,
-      "winCount": 171,
-      "loseCount": 135,
-      "drawCount": 56,
-      "maxConsecutiveWinCount": 10
-    },
-    {
       "characterImage": "/images/5210899505954826",
       "name": "A型",
       "userId": "5210899505954826",
@@ -841,6 +829,18 @@
       "loseCount": 169,
       "drawCount": 76,
       "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": "/images/139555986458062851",
+      "name": "まえちゃん",
+      "userId": "139555986458062851",
+      "twitterId": "maetyan80806",
+      "tier": "マスター クラス5",
+      "points": 88,
+      "winCount": 171,
+      "loseCount": 137,
+      "drawCount": 57,
+      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/517948178685124618",
@@ -1023,6 +1023,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/59286211860443151",
+      "name": "明日10時集合ね。",
+      "userId": "59286211860443151",
+      "twitterId": "maid_10oclock",
+      "tier": "マスター クラス5",
+      "points": 62,
+      "winCount": 244,
+      "loseCount": 263,
+      "drawCount": 86,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/426295403618516992",
       "name": "そうさきフレンド募集",
       "userId": "426295403618516992",
@@ -1033,18 +1045,6 @@
       "loseCount": 95,
       "drawCount": 49,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/59286211860443151",
-      "name": "宝生マーゴ",
-      "userId": "59286211860443151",
-      "twitterId": "maid_10oclock",
-      "tier": "マスター クラス5",
-      "points": 60,
-      "winCount": 242,
-      "loseCount": 261,
-      "drawCount": 85,
-      "maxConsecutiveWinCount": 8
     },
     {
       "characterImage": "/images/5150526401081346",
