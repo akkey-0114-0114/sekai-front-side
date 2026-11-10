@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T22:14:34.424Z",
+  "updatedAt": "2026-11-10T23:04:50.034Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,8 +32,8 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1491,
-      "winCount": 1068,
+      "points": 1495,
+      "winCount": 1071,
       "loseCount": 252,
       "drawCount": 463,
       "maxConsecutiveWinCount": 20
@@ -171,7 +171,7 @@
       "maxConsecutiveWinCount": 17
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/148043563943223297",
       "name": "Φ",
       "userId": "148043563943223297",
       "twitterId": "fire0322001",
@@ -447,7 +447,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/150921978743693322",
       "name": "かみ",
       "userId": "150921978743693322",
       "twitterId": "necomaru_prsk",
@@ -615,7 +615,7 @@
       "maxConsecutiveWinCount": 7
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/400981089303658509",
       "name": "シマサマ",
       "userId": "400981089303658509",
       "twitterId": "",
@@ -711,7 +711,7 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": null,
+      "characterImage": "/images/184185197172760576",
       "name": "ゎぁ♡",
       "userId": "184185197172760576",
       "twitterId": "210_wa_",
