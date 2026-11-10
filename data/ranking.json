@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T20:04:58.243Z",
+  "updatedAt": "2026-11-10T20:53:32.883Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,22 +32,22 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1490,
-      "winCount": 1067,
+      "points": 1491,
+      "winCount": 1068,
       "loseCount": 252,
-      "drawCount": 462,
+      "drawCount": 463,
       "maxConsecutiveWinCount": 20
     },
     {
       "characterImage": "/images/175168648301985796",
-      "name": "ロリお姉さん",
+      "name": "れいらちゃん♡",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1471,
-      "winCount": 1315,
+      "points": 1472,
+      "winCount": 1316,
       "loseCount": 454,
-      "drawCount": 450,
+      "drawCount": 451,
       "maxConsecutiveWinCount": 16
     },
     {
