@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T08:34:11.193Z",
+  "updatedAt": "2026-11-10T09:24:20.104Z",
   "seasonId": 20,
   "players": [
     {
@@ -8,10 +8,10 @@
       "userId": "156990469561196558",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 3652,
-      "winCount": 2646,
-      "loseCount": 510,
-      "drawCount": 995,
+      "points": 3669,
+      "winCount": 2657,
+      "loseCount": 511,
+      "drawCount": 999,
       "maxConsecutiveWinCount": 17
     },
     {
@@ -140,8 +140,8 @@
       "userId": "753572528120254477",
       "twitterId": "k7kygt",
       "tier": "マスター クラス5",
-      "points": 516,
-      "winCount": 737,
+      "points": 518,
+      "winCount": 738,
       "loseCount": 561,
       "drawCount": 278,
       "maxConsecutiveWinCount": 8
@@ -248,10 +248,10 @@
       "userId": "246835375226441734",
       "twitterId": "Nari_haberi",
       "tier": "マスター クラス5",
-      "points": 282,
-      "winCount": 318,
-      "loseCount": 155,
-      "drawCount": 91,
+      "points": 284,
+      "winCount": 320,
+      "loseCount": 156,
+      "drawCount": 92,
       "maxConsecutiveWinCount": 12
     },
     {
@@ -904,7 +904,7 @@
     },
     {
       "characterImage": "/images/135689402882740230",
-      "name": "A",
+      "name": "Å",
       "userId": "135689402882740230",
       "twitterId": "bokumitsurudayo",
       "tier": "マスター クラス5",
@@ -963,6 +963,18 @@
       "maxConsecutiveWinCount": 14
     },
     {
+      "characterImage": "/images/249530031214424064",
+      "name": "あうぇる",
+      "userId": "249530031214424064",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 67,
+      "winCount": 124,
+      "loseCount": 100,
+      "drawCount": 46,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/68559788845326340",
       "name": "キツネ大好きだよ♡",
       "userId": "68559788845326340",
@@ -973,18 +985,6 @@
       "loseCount": 71,
       "drawCount": 32,
       "maxConsecutiveWinCount": 7
-    },
-    {
-      "characterImage": "/images/249530031214424064",
-      "name": "あうぇる",
-      "userId": "249530031214424064",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 66,
-      "winCount": 123,
-      "loseCount": 99,
-      "drawCount": 46,
-      "maxConsecutiveWinCount": 9
     },
     {
       "characterImage": "/images/720971918631751683",
@@ -1035,18 +1035,6 @@
       "maxConsecutiveWinCount": 8
     },
     {
-      "characterImage": "/images/100354912847847434",
-      "name": "芳村",
-      "userId": "100354912847847434",
-      "twitterId": "moe_impic",
-      "tier": "マスター クラス5",
-      "points": 57,
-      "winCount": 117,
-      "loseCount": 75,
-      "drawCount": 27,
-      "maxConsecutiveWinCount": 10
-    },
-    {
       "characterImage": "/images/5150526401081346",
       "name": "あるちゃっとGPT",
       "userId": "5150526401081346",
@@ -1069,6 +1057,18 @@
       "loseCount": 73,
       "drawCount": 31,
       "maxConsecutiveWinCount": 5
+    },
+    {
+      "characterImage": "/images/100354912847847434",
+      "name": "芳村",
+      "userId": "100354912847847434",
+      "twitterId": "moe_impic",
+      "tier": "マスター クラス5",
+      "points": 56,
+      "winCount": 117,
+      "loseCount": 76,
+      "drawCount": 27,
+      "maxConsecutiveWinCount": 10
     },
     {
       "characterImage": "/images/416872263188758535",
@@ -1131,18 +1131,6 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/579945071015510028",
-      "name": "おあんでん",
-      "userId": "579945071015510028",
-      "twitterId": "oandenden",
-      "tier": "マスター クラス5",
-      "points": 52,
-      "winCount": 84,
-      "loseCount": 71,
-      "drawCount": 41,
-      "maxConsecutiveWinCount": 5
-    },
-    {
       "characterImage": "/images/528120573052010503",
       "name": "YOPIPIの日常",
       "userId": "528120573052010503",
@@ -1153,6 +1141,18 @@
       "loseCount": 77,
       "drawCount": 25,
       "maxConsecutiveWinCount": 9
+    },
+    {
+      "characterImage": "/images/579945071015510028",
+      "name": "おあんでん",
+      "userId": "579945071015510028",
+      "twitterId": "oandenden",
+      "tier": "マスター クラス5",
+      "points": 52,
+      "winCount": 84,
+      "loseCount": 72,
+      "drawCount": 42,
+      "maxConsecutiveWinCount": 5
     },
     {
       "characterImage": "/images/13978876032626697",
