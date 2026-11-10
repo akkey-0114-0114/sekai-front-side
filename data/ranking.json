@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T06:23:40.249Z",
+  "updatedAt": "2026-11-10T07:33:59.943Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,9 +32,9 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1473,
-      "winCount": 1052,
-      "loseCount": 251,
+      "points": 1483,
+      "winCount": 1062,
+      "loseCount": 252,
       "drawCount": 461,
       "maxConsecutiveWinCount": 20
     },
@@ -1059,18 +1059,6 @@
       "maxConsecutiveWinCount": 5
     },
     {
-      "characterImage": "/images/100354912847847434",
-      "name": "芳村",
-      "userId": "100354912847847434",
-      "twitterId": "moe_impic",
-      "tier": "マスター クラス5",
-      "points": 56,
-      "winCount": 113,
-      "loseCount": 72,
-      "drawCount": 27,
-      "maxConsecutiveWinCount": 10
-    },
-    {
       "characterImage": "/images/416872263188758535",
       "name": "雨",
       "userId": "416872263188758535",
@@ -1083,8 +1071,20 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/100354912847847434",
+      "name": "芳村",
+      "userId": "100354912847847434",
+      "twitterId": "moe_impic",
+      "tier": "マスター クラス5",
+      "points": 55,
+      "winCount": 115,
+      "loseCount": 75,
+      "drawCount": 27,
+      "maxConsecutiveWinCount": 10
+    },
+    {
       "characterImage": "/images/225448700428521487",
-      "name": "望月ほぐの",
+      "name": "びぃ",
       "userId": "225448700428521487",
       "twitterId": "biichan710",
       "tier": "マスター クラス5",
