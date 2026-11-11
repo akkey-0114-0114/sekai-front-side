@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T03:06:17.382Z",
+  "updatedAt": "2026-11-11T04:06:32.430Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,10 +32,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1496,
-      "winCount": 1073,
+      "points": 1509,
+      "winCount": 1084,
       "loseCount": 253,
-      "drawCount": 463,
+      "drawCount": 464,
       "maxConsecutiveWinCount": 20
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "characterImage": "/images/325160296154284033",
-      "name": "私の右手に触れないで",
+      "name": "あいすばなな",
       "userId": "325160296154284033",
       "twitterId": "",
       "tier": "マスター クラス5",
