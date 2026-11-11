@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:15:02.771Z",
+  "updatedAt": "2026-11-11T01:15:13.515Z",
   "seasonId": 20,
   "players": [
     {
@@ -32,9 +32,9 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1495,
-      "winCount": 1071,
-      "loseCount": 252,
+      "points": 1496,
+      "winCount": 1073,
+      "loseCount": 253,
       "drawCount": 463,
       "maxConsecutiveWinCount": 20
     },
@@ -856,7 +856,7 @@
     },
     {
       "characterImage": "/images/261792353769807878",
-      "name": "求:Calc.",
+      "name": "すし",
       "userId": "261792353769807878",
       "twitterId": "",
       "tier": "マスター クラス5",
