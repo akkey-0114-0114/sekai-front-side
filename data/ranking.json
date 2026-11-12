@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T02:33:04.549Z",
+  "updatedAt": "2026-11-12T03:23:17.957Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1581,
-      "winCount": 1136,
+      "points": 1587,
+      "winCount": 1140,
       "loseCount": 258,
-      "drawCount": 480,
+      "drawCount": 481,
       "maxConsecutiveWinCount": 20
     },
     {
@@ -128,10 +128,10 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 569,
-      "winCount": 472,
-      "loseCount": 120,
-      "drawCount": 159,
+      "points": 572,
+      "winCount": 476,
+      "loseCount": 122,
+      "drawCount": 160,
       "maxConsecutiveWinCount": 30
     },
     {
