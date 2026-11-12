@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T06:24:00.565Z",
+  "updatedAt": "2026-11-12T07:44:19.375Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1614,
-      "winCount": 1161,
-      "loseCount": 260,
-      "drawCount": 485,
+      "points": 1632,
+      "winCount": 1173,
+      "loseCount": 261,
+      "drawCount": 490,
       "maxConsecutiveWinCount": 20
     },
     {
@@ -68,10 +68,10 @@
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1355,
-      "winCount": 1671,
-      "loseCount": 1101,
-      "drawCount": 567,
+      "points": 1364,
+      "winCount": 1679,
+      "loseCount": 1103,
+      "drawCount": 569,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -128,8 +128,8 @@
       "userId": "5147187164524550",
       "twitterId": "Wataa_Mental",
       "tier": "マスター クラス5",
-      "points": 574,
-      "winCount": 478,
+      "points": 575,
+      "winCount": 479,
       "loseCount": 122,
       "drawCount": 160,
       "maxConsecutiveWinCount": 30
@@ -308,10 +308,10 @@
       "userId": "457338724789698560",
       "twitterId": "teikyodai0000",
       "tier": "マスター クラス5",
-      "points": 264,
-      "winCount": 278,
-      "loseCount": 118,
-      "drawCount": 83,
+      "points": 271,
+      "winCount": 284,
+      "loseCount": 120,
+      "drawCount": 85,
       "maxConsecutiveWinCount": 13
     },
     {
@@ -572,9 +572,9 @@
       "userId": "196496874391470090",
       "twitterId": "jyuku11",
       "tier": "マスター クラス5",
-      "points": 125,
+      "points": 124,
       "winCount": 266,
-      "loseCount": 251,
+      "loseCount": 252,
       "drawCount": 94,
       "maxConsecutiveWinCount": 9
     },
@@ -760,7 +760,7 @@
     },
     {
       "characterImage": "/images/183956109303750663",
-      "name": "m4 ipadpro",
+      "name": "れやむ",
       "userId": "183956109303750663",
       "twitterId": "Reyamuuuuuuu",
       "tier": "マスター クラス5",
