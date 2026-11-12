@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:06:51.254Z",
+  "updatedAt": "2026-11-12T22:37:56.306Z",
   "seasonId": 20,
   "players": [
     {
@@ -28,14 +28,14 @@
     },
     {
       "characterImage": "/images/175168648301985796",
-      "name": "°.♡れいら♡. °",
+      "name": "れいらちゃん♡",
       "userId": "175168648301985796",
       "twitterId": "reira_shizuku",
       "tier": "マスター クラス5",
-      "points": 1547,
-      "winCount": 1374,
-      "loseCount": 461,
-      "drawCount": 469,
+      "points": 1563,
+      "winCount": 1387,
+      "loseCount": 463,
+      "drawCount": 472,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -212,9 +212,9 @@
       "userId": "5144945912909827",
       "twitterId": "hagekingu0917",
       "tier": "マスター クラス5",
-      "points": 308,
-      "winCount": 312,
-      "loseCount": 182,
+      "points": 311,
+      "winCount": 317,
+      "loseCount": 184,
       "drawCount": 135,
       "maxConsecutiveWinCount": 9
     },
@@ -627,6 +627,18 @@
       "maxConsecutiveWinCount": 7
     },
     {
+      "characterImage": "/images/135689402882740230",
+      "name": "　",
+      "userId": "135689402882740230",
+      "twitterId": "　",
+      "tier": "マスター クラス5",
+      "points": 112,
+      "winCount": 194,
+      "loseCount": 169,
+      "drawCount": 78,
+      "maxConsecutiveWinCount": 8
+    },
+    {
       "characterImage": "/images/400981089303658509",
       "name": "シマサマ",
       "userId": "400981089303658509",
@@ -636,18 +648,6 @@
       "winCount": 119,
       "loseCount": 66,
       "drawCount": 47,
-      "maxConsecutiveWinCount": 8
-    },
-    {
-      "characterImage": "/images/135689402882740230",
-      "name": "　",
-      "userId": "135689402882740230",
-      "twitterId": "　",
-      "tier": "マスター クラス5",
-      "points": 109,
-      "winCount": 188,
-      "loseCount": 163,
-      "drawCount": 76,
       "maxConsecutiveWinCount": 8
     },
     {
@@ -747,6 +747,18 @@
       "maxConsecutiveWinCount": 5
     },
     {
+      "characterImage": "/images/5187604429455361",
+      "name": "白だと思います",
+      "userId": "5187604429455361",
+      "twitterId": "",
+      "tier": "マスター クラス5",
+      "points": 101,
+      "winCount": 227,
+      "loseCount": 176,
+      "drawCount": 51,
+      "maxConsecutiveWinCount": 11
+    },
+    {
       "characterImage": "/images/256302908484292613",
       "name": "Nayuta0914",
       "userId": "256302908484292613",
@@ -793,18 +805,6 @@
       "loseCount": 57,
       "drawCount": 22,
       "maxConsecutiveWinCount": 15
-    },
-    {
-      "characterImage": "/images/5187604429455361",
-      "name": "天馬",
-      "userId": "5187604429455361",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 96,
-      "winCount": 220,
-      "loseCount": 173,
-      "drawCount": 50,
-      "maxConsecutiveWinCount": 11
     },
     {
       "characterImage": "/images/5243709529157646",
@@ -1144,7 +1144,7 @@
     },
     {
       "characterImage": "/images/225448700428521487",
-      "name": "もぬこ",
+      "name": "びぃ",
       "userId": "225448700428521487",
       "twitterId": "biichan710",
       "tier": "マスター クラス5",
