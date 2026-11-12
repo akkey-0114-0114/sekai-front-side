@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:44:19.375Z",
+  "updatedAt": "2026-11-12T08:44:29.995Z",
   "seasonId": 20,
   "players": [
     {
@@ -64,14 +64,14 @@
     },
     {
       "characterImage": "/images/243323553462300684",
-      "name": "りんさんず",
+      "name": "彁",
       "userId": "243323553462300684",
       "twitterId": "RinSans3822",
       "tier": "マスター クラス5",
-      "points": 1364,
-      "winCount": 1679,
-      "loseCount": 1103,
-      "drawCount": 569,
+      "points": 1370,
+      "winCount": 1689,
+      "loseCount": 1109,
+      "drawCount": 570,
       "maxConsecutiveWinCount": 16
     },
     {
@@ -231,6 +231,18 @@
       "maxConsecutiveWinCount": 9
     },
     {
+      "characterImage": "/images/246835375226441734",
+      "name": "ど根性ストレート肉球",
+      "userId": "246835375226441734",
+      "twitterId": "Nari_haberi",
+      "tier": "マスター クラス5",
+      "points": 302,
+      "winCount": 337,
+      "loseCount": 161,
+      "drawCount": 95,
+      "maxConsecutiveWinCount": 12
+    },
+    {
       "characterImage": "/images/625197524291788810",
       "name": "旧態依然なプレイヤー",
       "userId": "625197524291788810",
@@ -241,18 +253,6 @@
       "loseCount": 267,
       "drawCount": 183,
       "maxConsecutiveWinCount": 9
-    },
-    {
-      "characterImage": "/images/246835375226441734",
-      "name": "ど根性ストレート肉球",
-      "userId": "246835375226441734",
-      "twitterId": "Nari_haberi",
-      "tier": "マスター クラス5",
-      "points": 295,
-      "winCount": 330,
-      "loseCount": 159,
-      "drawCount": 94,
-      "maxConsecutiveWinCount": 12
     },
     {
       "characterImage": "/images/170427380858368014",
@@ -759,20 +759,8 @@
       "maxConsecutiveWinCount": 11
     },
     {
-      "characterImage": "/images/183956109303750663",
-      "name": "れやむ",
-      "userId": "183956109303750663",
-      "twitterId": "Reyamuuuuuuu",
-      "tier": "マスター クラス5",
-      "points": 99,
-      "winCount": 149,
-      "loseCount": 104,
-      "drawCount": 48,
-      "maxConsecutiveWinCount": 7
-    },
-    {
       "characterImage": "/images/135689402882740230",
-      "name": "　",
+      "name": "あと1112回！！",
       "userId": "135689402882740230",
       "twitterId": "　",
       "tier": "マスター クラス5",
@@ -780,6 +768,18 @@
       "winCount": 181,
       "loseCount": 161,
       "drawCount": 71,
+      "maxConsecutiveWinCount": 7
+    },
+    {
+      "characterImage": "/images/183956109303750663",
+      "name": "れやむ",
+      "userId": "183956109303750663",
+      "twitterId": "Reyamuuuuuuu",
+      "tier": "マスター クラス5",
+      "points": 98,
+      "winCount": 151,
+      "loseCount": 107,
+      "drawCount": 48,
       "maxConsecutiveWinCount": 7
     },
     {
@@ -1143,6 +1143,18 @@
       "maxConsecutiveWinCount": 6
     },
     {
+      "characterImage": "/images/336816006965317634",
+      "name": "月夜見海月",
+      "userId": "336816006965317634",
+      "twitterId": "kumoo_cloudy",
+      "tier": "マスター クラス5",
+      "points": 53,
+      "winCount": 91,
+      "loseCount": 73,
+      "drawCount": 32,
+      "maxConsecutiveWinCount": 9
+    },
+    {
       "characterImage": "/images/739470867403403273",
       "name": "みゃくみく〜",
       "userId": "739470867403403273",
@@ -1179,26 +1191,14 @@
       "maxConsecutiveWinCount": 6
     },
     {
-      "characterImage": "/images/432842354334748674",
-      "name": "rk",
-      "userId": "432842354334748674",
-      "twitterId": "",
-      "tier": "マスター クラス5",
-      "points": 50,
-      "winCount": 63,
-      "loseCount": 27,
-      "drawCount": 15,
-      "maxConsecutiveWinCount": 9
-    },
-    {
       "characterImage": "/images/5197031199477771",
-      "name": "コールドボイス",
+      "name": "雪は何色",
       "userId": "5197031199477771",
       "twitterId": "qwf_fqw",
       "tier": "マスター クラス5",
-      "points": 50,
-      "winCount": 193,
-      "loseCount": 190,
+      "points": 51,
+      "winCount": 195,
+      "loseCount": 191,
       "drawCount": 48,
       "maxConsecutiveWinCount": 8
     }
