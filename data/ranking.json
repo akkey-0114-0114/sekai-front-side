@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:37:56.306Z",
+  "updatedAt": "2026-11-13T02:48:44.265Z",
   "seasonId": 20,
   "players": [
     {
@@ -20,10 +20,10 @@
       "userId": "272110013727850501",
       "twitterId": "",
       "tier": "マスター クラス5",
-      "points": 1632,
-      "winCount": 1173,
-      "loseCount": 261,
-      "drawCount": 490,
+      "points": 1657,
+      "winCount": 1195,
+      "loseCount": 264,
+      "drawCount": 492,
       "maxConsecutiveWinCount": 20
     },
     {
@@ -916,7 +916,7 @@
     },
     {
       "characterImage": "/images/156909858960904206",
-      "name": "紙引き*Mt",
+      "name": "カメラとめんなよ！",
       "userId": "156909858960904206",
       "twitterId": "kamibiki_ningen",
       "tier": "マスター クラス5",
@@ -1036,7 +1036,7 @@
     },
     {
       "characterImage": "/images/144759140883849217",
-      "name": "rMK",
+      "name": "ごま子",
       "userId": "144759140883849217",
       "twitterId": "NunNun0514",
       "tier": "マスター クラス5",
